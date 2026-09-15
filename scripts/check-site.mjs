@@ -15,6 +15,10 @@ import {freedomConsolidated as freedomLessons} from '../content/philosophy-of-fr
 import {thinkingLessons} from '../content/practical-thinking.mjs';
 import {temperamentCourse} from '../content/temperament-course.mjs';
 import {mythsLessons} from '../content/ancient-myths.mjs';
+import {nutritionLessons} from '../content/nutrition.mjs';
+import {phasesLessons} from '../content/phases.mjs';
+import {biodynamicsLessons} from '../content/biodynamics.mjs';
+import {foodwiseLessons} from '../content/foodwise.mjs';
 const root = path.resolve('docs');
 const files = fs.readdirSync(root,{recursive:true}).filter(f=>f.endsWith('.html'));
 const errors = [];
@@ -36,6 +40,29 @@ for (const relative of files) {
   if(anchor&&!fs.readFileSync(target,'utf8').includes(`id="${anchor}"`)) errors.push(`${relative}: missing anchor ${href}`);
  }
  if(relative.includes('lessons')) {
+  if(relative.includes('phases')) {
+   const lang=relative.startsWith('pt')?'pt':'en',l=phasesLessons[Number(path.basename(relative,'.html'))];
+   const title=l?.[lang].title.replaceAll('&','&amp;');
+   if(!l||!html.includes(title)||answerDetails!==4||!html.includes('id="book-passage"'))errors.push(`${relative}: incomplete Phases lesson`);
+   continue;
+  }
+  if(relative.includes('biodynamics')) {
+   const lang=relative.startsWith('pt')?'pt':'en',l=biodynamicsLessons[Number(path.basename(relative,'.html'))];
+   const title=l?.[lang].title.replaceAll('&','&amp;');
+   if(!l||!html.includes(title)||answerDetails!==4||!html.includes('id="book-passage"'))errors.push(`${relative}: incomplete Biodynamics lesson`);
+   continue;
+  }
+  if(relative.includes('foodwise')) {
+   const lang=relative.startsWith('pt')?'pt':'en',l=foodwiseLessons[Number(path.basename(relative,'.html'))];
+   const title=l?.[lang].title.replaceAll('&','&amp;');
+   if(!l||!html.includes(title)||answerDetails!==4||!html.includes('id="book-passage"'))errors.push(`${relative}: incomplete Foodwise lesson`);
+   continue;
+  }
+  if(relative.includes('nutrition')) {
+   const lang=relative.startsWith('pt')?'pt':'en',l=nutritionLessons[Number(path.basename(relative,'.html'))];
+   if(!l||!html.includes(l[lang].title)||answerDetails!==4||!html.includes('id="book-passage"'))errors.push(`${relative}: incomplete Nutrition lesson`);
+   continue;
+  }
   if(relative.includes('ancient-myths')) {
    const lang=relative.startsWith('pt')?'pt':'en',l=mythsLessons[Number(path.basename(relative,'.html'))];
    if(!l||!html.includes(l[lang].title)||answerDetails!==3||!html.includes(l.url)||!html.includes(l.span))errors.push(`${relative}: incomplete myth lesson or reading reference`);
@@ -236,6 +263,6 @@ for(const prefix of ['', 'pt/']){
  for(const c of selfConnections){const h=fs.readFileSync(path.join(root,prefix,c.target),'utf8');if((h.match(/<!-- self-connection:start -->/g)||[]).length!==1||!h.includes(c[prefix?'pt':'en'][1]))errors.push(prefix+c.target+': missing Koepke supplement');}
 }
 const courseFiles=files.filter(f=>f!=='learning-review.html');
-if(courseFiles.length!==398) errors.push(`Expected 398 course and reference HTML pages, got ${courseFiles.length}`);
+if(courseFiles.length!==578) errors.push(`Expected 578 course and reference HTML pages, got ${courseFiles.length}`);
 if(errors.length){console.error(errors.join('\n'));process.exit(1);}
 console.log(`Passed: ${files.length} pages, local links and anchors, bilingual courses and source companions, headings, examples, answers, and rubrics.`);

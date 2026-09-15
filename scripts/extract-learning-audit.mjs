@@ -1,0 +1,11 @@
+import fs from 'node:fs';
+import {freedomCore} from '../content/philosophy-of-freedom-consolidated.mjs';
+const clean=s=>s.replace(/<[^>]*>/g,' ').replaceAll('&amp;','&').replaceAll('&quot;','"').replaceAll('&#39;',"'").replaceAll('&lt;','<').replaceAll('&gt;','>').replace(/\s+/g,' ').trim();
+const pick=(h,re)=>clean(h.match(re)?.[1]||'');
+const routes=['theosophy','practical-thinking','philosophy-of-freedom','higher-worlds','understanding-temperaments','according-to-luke','ancient-myths','colour','encountering-the-self','temperaments','understand-temperament','mystery-temperaments'];
+const data=routes.map(course=>({course,lessons:fs.readdirSync('docs/'+(course==='theosophy'?'':course+'/')+'lessons').filter(f=>f.endsWith('.html')).map(f=>{
+ const p=(course==='theosophy'?'':course+'/')+'lessons/'+f,h=fs.readFileSync('docs/'+p,'utf8'),id=Number(f.slice(0,2));
+ return {id,path:p,title:pick(h,/<h1[^>]*>([\s\S]*?)<\/h1>/),goal:pick(h,/<p class="lead">([\s\S]*?)<\/p>/),first:pick(h,/<h2 class="study-question">([\s\S]*?)<\/h2>/),scene:pick(h,/<section class="worked-example">[\s\S]*?<p>([\s\S]*?)<\/p>/),explanation:pick(h,/<div class="study-example-rest">([\s\S]*?)<aside class="takeaway">/),takeaway:pick(h,/<aside class="takeaway">([\s\S]*?)<\/aside>/),practice:pick(h,/<section class="practice">([\s\S]*?)<\/section>/),revision:pick(h,/<h2>What changed in your understanding\?<\/h2><p>([\s\S]*?)<\/p>/),checks:[...h.matchAll(/<div class="knowledge-check">([\s\S]*?)<\/div>/g)].map(m=>clean(m[1])),fullText:clean(h),optional:['temperaments','understand-temperament','mystery-temperaments'].includes(course)||(course==='philosophy-of-freedom'&&!freedomCore.includes(id))};
+ }).sort((a,b)=>course==='philosophy-of-freedom'?(freedomCore.includes(a.id)?freedomCore.indexOf(a.id):100+a.id)-(freedomCore.includes(b.id)?freedomCore.indexOf(b.id):100+b.id):a.id-b.id)}));
+fs.writeFileSync('content/learning-audit-snapshot.json',JSON.stringify({date:'2026-09-13',basis:'Current generated English pages; Portuguese has matching routes but is not independently audited sentence by sentence.',courses:data},null,2)+'\n');
+console.log(data.map(c=>[c.course,c.lessons.length,c.lessons.filter(l=>!l.optional).length]));

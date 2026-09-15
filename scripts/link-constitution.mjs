@@ -31,8 +31,8 @@ export function buildLinks(){
   const pt=html.includes('<html lang="pt-BR"'),base=pt?'docs/pt':'docs';
   const url=path.relative(path.dirname(file),`${base}/reference/human-constitution.html`).replaceAll('\\','/');
   const normalized=relative.replaceAll('\\','/');
-  if(/^(?:pt\/)?(?:index\.html|lessons\/(?:00|03|06)\.html)$/.test(normalized)&&!html.includes('class="constitution-entry"')){
-   const entry=`<aside class="constitution-entry"><p><a href="${url}"><strong>${pt?'Entenda os corpos físico, etérico e astral':'Understand the physical, etheric and astral bodies'} →</strong></a></p><p>${pt?'Referência ilustrada para todos os cursos. Comece pela comparação e retome cada termo quando precisar.':'An illustrated reference for every course. Begin with the comparison and revisit each term when needed.'}</p></aside>`;
+  if(/^(?:pt\/)?(?:index\.html|lessons\/(?:00|03|06)\.html)$/.test(normalized)&&!html.includes('class="constitution-entry"')&&!html.includes('href="foundations/01.html"')){
+   const entry=`<aside class="constitution-entry"><p><a href="${url}"><strong>${pt?'Compreenda o ser humano tríplice e quádruplo':'Understand the threefold and fourfold human being'} →</strong></a></p><p>${pt?'Fundamentos para todos os cursos. Aprenda os conceitos antes de comparar as descrições.':'Foundations for every course. Learn the concepts before comparing the accounts.'}</p></aside>`;
    html=html.replace(/(<main\b[^>]*>)/,`$1${entry}`);
   }
   const result=linkTerms(html,url);count+=result.count;if(result.count)pages++;

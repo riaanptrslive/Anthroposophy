@@ -32,7 +32,7 @@ for(const [course,total] of Object.entries(expected))for(let id=0;id<total;id++)
   assert.ok(h.includes('class="source-excerpt"')&&h.includes('class="passage-credit"'),file+' missing source or attribution');
   if(course!=='meditation'){
    const core=h.indexOf('id="study-explanation"'),example=h.indexOf('class="worked-example"'),attempt=h.indexOf('data-note-field="first"');
-   assert.ok(meaning<core&&core<example&&example<attempt,file+' must teach before asking for an answer');
+   assert.ok(core<passage&&meaning<example&&example<attempt,file+' must explain theory before the passage and teach before asking for an answer');
    assert.match(h,/<details class="guided-reveal" open\b/,file+' hidden teaching');
   }
   checked++;

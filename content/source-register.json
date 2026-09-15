@@ -201,5 +201,54 @@
     "sha256": "b98214671118129fb29756c365e8b2c1deab74141f0539c676d7d2e58d1ee250",
     "registered": "2026-09-13",
     "contents_in_repository": false
+  },
+  {
+    "filename": "Nutrition.md",
+    "bytes": 340991,
+    "sha256": "6ca0e302ec2b9d5f3f1cfd8041b991848a42b96878717da5b5e9a487dac42d7f",
+    "registered": "2026-09-15",
+    "contents_in_repository": false
+  },
+  {
+    "filename": "Nutrition.pdf",
+    "bytes": 21772879,
+    "sha256": "5b0a5811412a6af0ca2d0a40546a6f71211776bb4006ac088af424683ce0568d",
+    "registered": "2026-09-15",
+    "contents_in_repository": false
+  },
+  {
+    "filename": "Foodwise.pdf",
+    "bytes": 45996927,
+    "sha256": "1454af8055a17e28d99fd36bb1aeb51e1e535950cad89476f2771588fe56fadb",
+    "registered": "2026-09-15",
+    "contents_in_repository": false
+  },
+  {
+    "filename": "What is biodinamics (2).md",
+    "bytes": 417712,
+    "sha256": "0641886646d24c0e32420c24dfea782fd74aec12b3127e6256407bde3880d63a",
+    "registered": "2026-09-15",
+    "contents_in_repository": false
+  },
+  {
+    "filename": "What is biodinamics.pdf",
+    "bytes": 25957223,
+    "sha256": "2a46f2eec5d9d6b11cdbc53fad74d8b490bbff125b5bd67ea987f2f3e767400c",
+    "registered": "2026-09-15",
+    "contents_in_repository": false
+  },
+  {
+    "filename": "phases.pdf",
+    "bytes": 27040186,
+    "sha256": "5abf94b4df2a1f4de43e11b34918aa2f0971a530c453a2c9f94fd5e63c1d26e1",
+    "registered": "2026-09-15",
+    "contents_in_repository": false
+  },
+  {
+    "filename": "phases.md",
+    "bytes": 434722,
+    "sha256": "ede3009fb7f04cd64462011858a63c73ef7d620d318d304b6d2db674ddb13149",
+    "registered": "2026-09-15",
+    "contents_in_repository": false
   }
 ]

@@ -37,5 +37,5 @@ for(const rel of fs.readdirSync('docs',{recursive:true}).filter(f=>f.endsWith('.
  assert.ok(!/<a\b[^>]*>[^<]*<a\b/.test(h),'Nested anchors: '+file);
 }
 assert.ok(links>200&&pages>40,'Expected course-wide coverage');
-for(const base of ['docs','docs/pt'])for(const suffix of ['index.html','lessons/00.html','lessons/03.html','lessons/06.html'])assert.ok(fs.readFileSync(`${base}/${suffix}`,'utf8').includes('class="constitution-entry"'));
+for(const base of ['docs','docs/pt'])for(const suffix of ['lessons/00.html','lessons/03.html','lessons/06.html'])assert.ok(fs.readFileSync(`${base}/${suffix}`,'utf8').includes('class="constitution-entry"'));
 console.log(`Passed: ${links} terminology links on ${pages} pages; bilingual targets, anchors, teaching diagrams, text preservation and idempotence.`);

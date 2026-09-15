@@ -1,5 +1,7 @@
 # Theosophy: recovery of damaged passages
 
+PDF follow-up, 14 September 2026: [Verified page images and source illustrations](book-pdf-image-review.md) records the newly supplied PDF, pagination checks and selected source excerpts now used on the site. Earlier transcription findings below remain the historical review.
+
 Checked 11 September 2026. Targeted comparison of the passages flagged in the chapter teaching plan; not a complete collation of both books.
 
 ## Sources

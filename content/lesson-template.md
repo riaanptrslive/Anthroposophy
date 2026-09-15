@@ -15,12 +15,12 @@ Prerequisites: [none, or earlier lessons]
 ## English
 ### Learning objectives
 [Two or three things the learner should understand by the end.]
-### Source passage
-[Short attributed excerpt when permitted, or a precise reading reference.]
+### Concepts to understand first
+[Define every prerequisite in ordinary language before using its technical name in an argument. Explain what question the concept answers and what it distinguishes. Link to earlier teaching, but supply enough explanation here for a learner arriving directly.]
 ### Explanation
-[Explain key ideas plainly; distinguish the author's claims from interpretation.]
-### Key terms
-[Term, meaning in this source, Portuguese equivalent.]
+[Develop the reasoning in steps. Explain why each distinction is needed. Use a continuing example and state where it stops supporting the theory. Distinguish the author's claims from interpretation.]
+### Source passage
+[Short attributed excerpt when permitted, or a precise reading reference. Explain the wording using the concepts already taught.]
 ### Reflection
 [Open questions grounded in the passage.]
 ### Review
@@ -30,9 +30,9 @@ Prerequisites: [none, or earlier lessons]
 
 ## Português brasileiro
 ### Objetivos de aprendizagem
-### Trecho da fonte
+### Conceitos a compreender primeiro
 ### Explicação
-### Termos principais
+### Trecho da fonte
 ### Reflexão
 ### Revisão
 ### Leituras complementares
@@ -42,4 +42,5 @@ Prerequisites: [none, or earlier lessons]
 - Preserve differences between spiritual teachings, historical facts, and empirical claims.
 - Check that English and Portuguese have equivalent meaning and consistent terminology.
 - Confirm that questions can be answered from the assigned material.
+- Check that threefold and fourfold accounts have been explained before classification exercises; never substitute thinking–feeling–willing for body–soul–spirit without explaining the difference.
 - Keep unpublished source files outside docs/.

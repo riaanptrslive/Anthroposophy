@@ -8,7 +8,7 @@ for(const prefix of ['docs','docs/pt']){
  const lang=prefix.endsWith('/pt')?'pt':'en',other=lang==='en'?'docs/pt':'docs';
  const home=fs.readFileSync(prefix+'/index.html','utf8');
  const cards=[...home.matchAll(/<a class="course-card" href="([^"]+)"/g)].map(m=>m[1]);
- assert.equal(cards.length,10);assert.equal(new Set(cards).size,10);
+ assert.equal(cards.length,14);assert.equal(new Set(cards).size,14);
  for(const old of ['temperaments','understand-temperament','mystery-temperaments']){
   assert.ok(!cards.includes(old+'/index.html'),'Duplicate primary temperament route');
   assert.ok(home.includes(`href="${old}/index.html"`),'Missing source-library access');
@@ -24,7 +24,7 @@ for(const prefix of ['docs','docs/pt']){
    assert.equal(path.resolve(path.dirname(file),alternate),path.resolve(other,slug,'lessons',filename));
    for(const key of ['title','goal','example','explanation','activity','question','takeaway'])assert.ok(v[key]?.trim(),file+' missing '+key);
    assert.equal((h.match(/data-note-field=/g)||[]).length,6,file+' needs first/source/after plus three dated entries');
-   assert.ok(h.indexOf('id="book-passage"')<h.indexOf('id="study-explanation"'));
+   assert.ok(h.indexOf('id="study-explanation"')<h.indexOf('id="book-passage"'));
    assert.ok(h.indexOf('id="study-explanation"')<h.indexOf('data-note-field="first"'));
    assert.ok(h.indexOf('data-note-field="session3"')<h.indexOf('data-note-field="after"'));
    if(l.id<total-1)assert.ok(h.includes(`href="${String(l.id+1).padStart(2,'0')}.html"`));

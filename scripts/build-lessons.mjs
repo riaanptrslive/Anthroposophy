@@ -79,5 +79,13 @@ await import('./build-guided-study.mjs');
 await import('./build-meditation.mjs');
 await import('./build-passage-study.mjs');
 await import('./build-human-constitution.mjs');
+await import('./build-concept-foundations.mjs');
 const {buildLinks}=await import('./link-constitution.mjs');
+await import('./build-foundation-course.mjs');
 buildLinks();
+await import('./build-nutrition.mjs');
+await import('./build-foodwise.mjs');
+
+await import('./build-biodynamics.mjs');
+
+await import('./build-phases.mjs');

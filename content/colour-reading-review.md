@@ -1,5 +1,7 @@
 # Colour: lecture-by-lecture review and course integration
 
+PDF follow-up, 14 September 2026: [Verified page images and source illustrations](book-pdf-image-review.md) records the newly supplied PDF, pagination checks and selected source excerpts now used on the site. Earlier transcription findings below remain the historical review.
+
 Reviewed 12 September 2026. User request: repeat the chapter-by-chapter course work with the supplied colour book and improve existing lessons where applicable.
 
 ## Source and boundaries

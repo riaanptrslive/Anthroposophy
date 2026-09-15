@@ -6,14 +6,50 @@ Research, source comparisons, lecture timestamps, illustration briefs and future
 
 ## Website
 
+### Phases course — 15 September 2026
+
+**Phases**, by Bernard Lievegoed, now has **19 lessons in each language**, covering all seven chapters, an orientation and a final biographical portfolio. Each lesson includes original teaching, a verified passage, example, takeaways, activity and explained answers. Open `docs/phases/index.html` or `docs/pt/phases/index.html`. See the [reading review and chapter map](content/phases-reading-review.md).
+
+Edit `content/phases-a.mjs`, `content/phases-b.mjs`, `content/phases-passages.json` and `scripts/build-phases.mjs`. Build with `node scripts/build-all.mjs`; validate with `node scripts/check-phases.mjs` and shared checks. Current site: **14 primary courses, 579 HTML pages and 242 bilingual guided lesson pairs**. Prepared locally; no deployment performed. Counts below document earlier stages.
+
+### Biodynamics course — 15 September 2026
+
+**What Is Biodynamics?** now has **nine lessons in each language**, covering Hugh J. Courtney’s introduction, all seven selected Rudolf Steiner lectures and a final garden/farm portfolio. Open `docs/biodynamics/index.html` or `docs/pt/biodynamics/index.html`. Every lesson has original teaching, a visually checked quotation with its PDF capture page, a worked example, three takeaways, an activity and three explained answers. Preparation and elemental tables support the reading.
+
+Edit `content/biodynamics.mjs` and `scripts/build-biodynamics.mjs`. Build with `node scripts/build-all.mjs`; check with `node scripts/check-biodynamics.mjs` and the shared site checks. An optional private `pages.json` argument verifies quotation locations. See [source review](content/biodynamics-reading-review.md).
+
+Current site: **13 primary courses, 539 HTML pages including the learning review, 223 bilingual guided lesson pairs**. Nutrition, Foodwise and Biodynamics link to one another. Prepared locally; no deployment performed. Counts below describe earlier stages.
+
+### Foodwise course — 15 September 2026
+
+**Foodwise**, by Wendy E. Cook, now has **24 lessons in English and 24 in Brazilian Portuguese**, covering all twenty chapters. Chapter 19 is split into menu planning, cooking methods and shared meals; orientation and a final meal portfolio complete the route. Open `docs/foodwise/index.html` or `docs/pt/foodwise/index.html`. Each lesson includes original teaching, a visually verified quotation, capture-page references, an example, three takeaways, an activity and three explained answers. Notes use the existing optional local saving and export controls.
+
+Edit `content/foodwise-part-one.mjs`, `content/foodwise-foods.mjs`, `content/foodwise-practice.mjs` and `content/foodwise-passages.json`; `content/foodwise.mjs` assembles them. Build with `node scripts/build-foodwise.mjs` or `node scripts/build-all.mjs`. Validate with `node scripts/check-foodwise.mjs` and the shared site and guided-study checks. An optional path to a private OCR `pages.json` enables quotation-location checks. See [source review and chapter map](content/foodwise-reading-review.md).
+
+Current generated site: **12 primary courses, 519 HTML pages including the existing learning review**. The source PDF and OCR remain private. Foodwise and Nutrition are prepared locally; this work does not deploy the live site. Counts below document earlier stages.
+
+### Nutrition course — 15 September 2026
+
+The new **Nutrition: Food, Health and Spiritual Development** course follows all twelve chapters of the supplied Rudolf Steiner collection, with an orientation and final portfolio: **14 lessons in English and 14 in Brazilian Portuguese**. Open `docs/nutrition/index.html` or `docs/pt/nutrition/index.html`. Every chapter has original concept teaching, a PDF-checked quotation with its capture-page reference, close reading, an example, three takeaways, an activity and three explained answer checks. Notes and completion marks use the existing opt-in browser saving and export system.
+
+Edit `content/nutrition.mjs` and `content/nutrition-part-two.mjs`; build with `node scripts/build-nutrition.mjs` or the complete build. Run `node scripts/check-nutrition.mjs` and the shared site/guided-study checks. Pass the supplied Markdown path to the Nutrition checker to verify quotation wording against its cited capture pages. See [source limits and chapter map](content/nutrition-reading-review.md). The full book remains private. Chapter 5 now connects to the dedicated Biodynamics course through cultivation and food quality.
+
+Current generated site: **11 primary courses, 469 HTML pages including the existing learning review**, with the foundation and optional source-library routes retained. Earlier counts below describe previous stages. Nutrition is prepared locally; this task did not deploy the live site.
+
+The project repository is https://github.com/riaanptrslive/Anthroposophy.
+
 The generated static website lives in `docs/`. Viewing or hosting it needs no installation.
 Open `docs/index.html` locally to preview it. The Portuguese edition is in `docs/pt/index.html`.
 
-To publish with GitHub Pages, use **Settings → Pages → Deploy from a branch**, choose the branch containing these files, and select **/docs**. The expected address is https://riaanptrs.github.io/Anthroposophy/ once Pages is enabled and deployment succeeds.
+To publish with GitHub Pages, use **Settings → Pages → Deploy from a branch**, choose the branch containing these files, and select **/docs**. The expected address is https://riaanptrslive.github.io/Anthroposophy/ once Pages is enabled and deployment succeeds.
 
 ## Developing the lessons
 
-All **ten primary courses**, including Meditation, now use a passage-first reading sequence: cited excerpt, explanation of its wording, open chapter teaching, example, and practice. The 133 selections in `content/passage-study.json` cover all 146 English lessons and their Portuguese partners. Edit that file to revise passages or close-reading notes, then run the complete build and `node scripts/check-passage-study.mjs`. See [edition choices and verification](content/passage-study-review.md).
+The homepage now starts with **18 bilingual foundation lessons**, followed by full book studies and optional subjects. Edit `content/foundation-course.mjs`; `scripts/build-foundation-course.mjs` builds `/foundations/`, the dedicated `/theosophy/` index, and preparation links for all ten established courses. Existing lesson URLs and notebook identities are preserved. Foundation questions use a personal notebook; they do not yet have browser saving. Run `node scripts/check-foundation-course.mjs` with the existing checks.
+
+Reading lessons now teach concepts and the chapter explanation before the cited excerpt, example, and practice. Meditation retains its verse-led sessions with relevant prerequisite teaching. The threefold and fourfold accounts are explained progressively in the shared human constitution reference and in 64 bilingual lesson introductions. Edit `content/concept-foundations.mjs` for these foundations; see [the teaching revision](content/theory-first-review.md). Run `node scripts/check-concept-foundations.mjs` after the complete build.
+
+The 133 selections in `content/passage-study.json` cover all 146 English primary-course lessons and their Portuguese partners. Edit that file to revise passages or close-reading notes, then run the complete build and `node scripts/check-passage-study.mjs`. See [edition choices and verification](content/passage-study-review.md).
 
 The introduction and selected lessons now include original bilingual connections with *The Philosophy of Freedom* and the teaching method from Brian's two preface lectures. Edit these in `content/philosophy-of-freedom-connections.mjs`; both course builders apply them without changing the main books' reading references. Lesson 0 includes a responsive two-question map and four expandable inquiry steps. GA 9 Lesson 18 now asks students to reconstruct and check a chain of reasoning. The separate GA 4 course now publishes the reviewed material through Chapter 14 and the conclusion: 16 core lessons and six optional exercises, in both languages.
 

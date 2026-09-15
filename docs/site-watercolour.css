@@ -1,2 +1,4 @@
 @import url("base.css");
 @import url("watercolour.css");
+
+.book-source-visual{margin:2rem 0;padding:clamp(1rem,3vw,1.5rem);border:1px solid #c4caba;border-radius:8px;background:#faf7ef}.book-source-visual img{display:block;max-width:100%;height:auto;margin:1rem auto}.book-source-visual h3{margin-top:0}.book-source-visual figcaption{line-height:1.8}.book-image-credit{font-size:.9rem;color:#515b50}.book-source-visual a:focus-visible{outline:3px solid #945736;outline-offset:4px}

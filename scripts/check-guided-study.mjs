@@ -4,7 +4,7 @@ import assert from 'node:assert/strict';
 import {guidedCounts} from '../content/guided-prompts.mjs';
 import {mysteryLessons} from '../content/mystery-temperaments.mjs';
 const files=fs.readdirSync('docs',{recursive:true}).filter(f=>/lessons[\\/]\d{2}\.html$/.test(f));
-assert.equal(files.length,352);
+assert.equal(files.length,484);
 assert.equal(Object.values(guidedCounts).reduce((a,b)=>a+b,0),131);
 assert.deepEqual(mysteryLessons.map(l=>l.id),Array.from({length:15},(_,i)=>i));
 const counts={};
@@ -15,16 +15,16 @@ for(const f of files){
  for(const control of ['save-notes','reading-view','note-status','complete','export','delete','first-preview'])assert.ok(h.includes('data-'+control),f+' '+control);
  assert.equal((h.match(/class="guided-reveal"/g)||[]).length,1,f);
  if(h.includes('data-passage-study')){
-  assert.ok(h.indexOf('id="book-passage"')<h.indexOf('id="study-explanation"'),f+' passage follows explanation');
+  assert.ok(h.indexOf('id="study-explanation"')<h.indexOf('id="book-passage"'),f+' theory must precede source interpretation');
   assert.ok(h.indexOf('id="study-explanation"')<h.indexOf('data-note-field="first"'),f+' attempt precedes source teaching');
   assert.ok(h.includes('<details class="guided-reveal" open'),f+' explanation hidden at start');
- }else assert.ok(h.indexOf('data-note-field="first"')<h.indexOf('id="study-explanation"'),f+' explanation precedes attempt');
+ }else assert.ok(h.indexOf('id="study-explanation"')<h.indexOf('data-note-field="first"'),f+' explanation must precede attempt');
  assert.ok(h.includes('<noscript>'),f+' missing fallback');
  assert.ok(h.includes('guided-study.v1.css')&&h.includes('guided-study.v1.js'),f+' missing assets');
  assert.ok(!/C:\\Users\\|Starting in|capture-software/.test(h),f+' private capture noise');
  const ids=[...h.matchAll(/\bid="([^"]+)"/g)].map(m=>m[1]);assert.equal(new Set(ids).size,ids.length,f+' duplicate id');
 }
-assert.equal(Object.keys(counts).length,176);assert.ok(Object.values(counts).every(c=>c===2));
-for(const p of ['docs/index.html','docs/pt/index.html'])assert.equal((fs.readFileSync(p,'utf8').match(/class="course-card"/g)||[]).length,10,p);
+assert.equal(Object.keys(counts).length,242);assert.ok(Object.values(counts).every(c=>c===2));
+for(const p of ['docs/index.html','docs/pt/index.html'])assert.equal((fs.readFileSync(p,'utf8').match(/class="course-card"/g)||[]).length,14,p);
 for(const [file,lab] of [['philosophy-of-freedom/lessons/04.html','arithmetic'],['colour/lessons/02.html','colour'],['encountering-the-self/lessons/03.html','dialogue'],['encountering-the-self/lessons/15.html','reflection'],['lessons/06.html','map'],['according-to-luke/lessons/07.html','map']])for(const p of ['docs/','docs/pt/'])assert.ok(fs.readFileSync(p+file,'utf8').includes(`data-lab="${lab}"`),p+file);
-console.log('Passed: 176 existing bilingual lesson pairs, ten course cards, guided sequence, note controls, lab coverage and static fallback. Meditation sessions have their own checker.');
+console.log('Passed: 242 bilingual lesson pairs, fourteen course cards, guided sequence, note controls, lab coverage and static fallback. Meditation sessions have their own checker.');

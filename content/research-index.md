@@ -1,3 +1,12 @@
+Phases — 15 September 2026: [Reading review and chapter map](phases-reading-review.md). Nineteen bilingual lessons cover all seven chapters, with verified quotations and a final biographical portfolio. Fourteen primary courses, 579 HTML pages. Prepared locally.
+
+Foodwise — 15 September 2026: [Source review and chapter map](foodwise-reading-review.md) records 24 bilingual lessons covering Wendy E. Cook’s twenty chapters, with three sessions for Chapter 19. All selected passages were checked visually; original activities, explained answers and a final meal portfolio complete the course. Twelve primary courses and 519 HTML pages. Prepared locally. Earlier counts below are historical.
+
+- [Biodynamics: source voices, seven-lecture map and quotation review](biodynamics-reading-review.md) — 15 September 2026.
+
+
+Nutrition — 15 September 2026: [Source review and chapter map](nutrition-reading-review.md) records 14 bilingual lessons covering orientation, all twelve chapters and synthesis. Selected quotations are checked against the supplied PDF, with original teaching and specific current health context. Eleven primary courses; 469 HTML pages including the existing learning review. Biodynamics awaits its source book. Earlier counts below are historical.
+
 Ancient Myths — 13 September 2026: [Source and teaching review](ancient-myths-review.md) records eight bilingual lessons spanning all seven source lectures and four paired connections to existing courses. Current total: nine primary courses, 376 pages and 176 bilingual lesson identities. Earlier counts below are historical.
 
 Practice courses and temperament consolidation — 13 September 2026: [Implementation and source decisions](practice-courses-implementation.md) records ten Practical Thinking lessons, one twelve-lesson temperament core and course journals. Eight primary courses; three optional temperament companions retain their existing URLs and notes. Current total: 358 HTML pages and 168 bilingual lesson identities. Earlier counts below are historical.

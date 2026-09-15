@@ -8,9 +8,9 @@ export const constitutionSources = [
 ];
 export const constitution = {
  en: {
- title:'Physical, etheric and astral bodies',
- lead:'A guided reference to three often-confused terms—and the “I” that helps distinguish them.',
- intro:'Read this after Theosophy’s introduction to body, soul and spirit and before Lesson 3 on life and sensation. Return here whenever a course uses these terms. Begin with the comparison, then read each explanation and try the questions. These are members of one human being in Steiner’s account, not three separate people.',
+ title:'The threefold and fourfold human being, explained',
+ lead:'Learn what each concept means, why Steiner distinguishes it, and how the different accounts relate.',
+ intro:'Begin with the theoretical foundations below. Read body, soul and spirit first, then thinking, feeling and willing, then the fourfold account. The diagrams and detailed reference sections follow the explanations. Return to this page whenever a course assumes these concepts.',
  framing:'Steiner presents the etheric and astral bodies as supersensible realities, accessible to a kind of perception he describes as going beyond ordinary senses. We explain that account accurately without treating its spiritual claims as established anatomy. Everyday examples clarify his distinctions; they do not by themselves demonstrate the existence of these members.',
  diagramTitle:'One person, four related questions',
  diagramCaption:'Original course diagram. The colours distinguish topics only. The boxes and connecting lines show relationships, not locations, sizes, aura colours or layers around the skin. All four members belong to the same person in this account.',
@@ -58,9 +58,9 @@ export const constitution = {
  sourceNote:'Paragraph references follow the linked English editions; headings and numbering can vary in other translations. Explanations and examples here are original course prose. The underlying GA 13 German chapters were also consulted. The two diagrams are original schematics; no external aura picture is being presented as evidence.'
  },
  pt: {
- title:'Corpos físico, etérico e astral',
- lead:'Uma referência guiada para três termos frequentemente confundidos — e o Eu que ajuda a distingui-los.',
- intro:'Leia depois da introdução de Teosofia a corpo, alma e espírito e antes da Lição 3 sobre vida e sensação. Retome esta página sempre que os termos aparecerem. Comece pela comparação, leia cada explicação e tente responder às perguntas. Na descrição de Steiner, são membros de um ser humano, não três pessoas separadas.',
+ title:'O ser humano tríplice e quádruplo, explicado',
+ lead:'Aprenda o significado de cada conceito, por que Steiner o distingue e como as diferentes descrições se relacionam.',
+ intro:'Comece pelos fundamentos teóricos abaixo. Leia primeiro corpo, alma e espírito; depois, pensar, sentir e querer; por fim, a descrição quádrupla. Os diagramas e as seções de referência detalhadas vêm depois das explicações. Retome esta página quando um curso pressupuser esses conceitos.',
  framing:'Steiner apresenta os corpos etérico e astral como realidades suprassensíveis, acessíveis a uma percepção que descreve como além dos sentidos comuns. Explicamos essa concepção sem tratar suas afirmações espirituais como anatomia estabelecida. Os exemplos cotidianos esclarecem distinções; não demonstram, sozinhos, a existência desses membros.',
  diagramTitle:'Uma pessoa, quatro perguntas relacionadas',
  diagramCaption:'Diagrama original do curso. As cores apenas distinguem os temas. Caixas e linhas indicam relações, não posições, tamanhos, cores de aura ou camadas em torno da pele. Os quatro membros pertencem à mesma pessoa nesta descrição.',
