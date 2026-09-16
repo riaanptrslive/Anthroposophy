@@ -15,7 +15,7 @@ for(const l of lessons){
  assert.ok(l.references.every(k=>foodwiseSources[k]));
  for(const lang of ['en','pt']){
   const v=l[lang],base=lang==='pt'?'docs/pt':'docs',other=lang==='pt'?'docs':'docs/pt';
-  const file=`${base}/foodwise/lessons/${String(l.id).padStart(2,'0')}.html`,h=fs.readFileSync(file,'utf8');
+  const file=`${base}/foodwise/lessons/${String(l.id).padStart(2,'0')}.html`,h=fs.readFileSync(file,'utf8').replace(/<a class="constitution-ref"[^>]*>([^<]*)<\/a>/g,'$1');
   assert.equal(v.theory.length,3);assert.equal(v.takeaways.length,3);assert.equal(v.checks.length,3);
   for(const s of [...v.theory,...v.takeaways,...v.checks.flat(),v.title,v.goal,v.close,v.example,v.explanation,v.activity,v.context])assert.ok(typeof s==='string'&&s.trim()&&h.includes(esc(s)),`${file}: missing authored content`);
   assert.ok(h.includes(esc(l.quote)));if(lang==='pt')assert.ok(v.quoteTranslation&&h.includes(esc(v.quoteTranslation)));

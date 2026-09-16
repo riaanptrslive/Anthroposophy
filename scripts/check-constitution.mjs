@@ -9,6 +9,12 @@ assert.equal(result.count,4);
 assert.equal(strip(result.html),fixture,'Linking must preserve wording and attributes');
 assert.equal(linkTerms(result.html,'reference/human-constitution.html').html,result.html,'Linking must be idempotent');
 assert.equal(linkTerms('<body><p>Corpo físico, corpo etérico, corpo astral, corpo vital, corpos astrais.</p></body>','ref').count,5);
+for(const phrase of ['physical, etheric and astral bodies','physical and etheric members','membros físico e etérico']){
+ const linked=linkTerms(`<body><p>${phrase}</p></body>`,'ref');
+ assert.ok(linked.html.includes('href="ref#physical-body"'),phrase+' must link its first physical reference');
+ assert.ok(linked.html.includes('href="ref#etheric-body"'));
+ assert.equal(strip(linked.html),`<body><p>${phrase}</p></body>`);
+}
 for(const [term,target] of [['mineral world','mineral-world'],['plant kingdom','plant-world'],['animal world','animal-world'],['reino mineral','mineral-world'],['mundo vegetal','plant-world'],['reino dos animais','animal-world']]){
  assert.equal(targetFor(term),target);
  assert.equal(linkTerms(`<body><p>${term}</p></body>`,'ref').html,`<body><p><a class="constitution-ref" href="ref#${target}">${term}</a></p></body>`);
@@ -37,5 +43,5 @@ for(const rel of fs.readdirSync('docs',{recursive:true}).filter(f=>f.endsWith('.
  assert.ok(!/<a\b[^>]*>[^<]*<a\b/.test(h),'Nested anchors: '+file);
 }
 assert.ok(links>200&&pages>40,'Expected course-wide coverage');
-for(const base of ['docs','docs/pt'])for(const suffix of ['lessons/00.html','lessons/03.html','lessons/06.html'])assert.ok(fs.readFileSync(`${base}/${suffix}`,'utf8').includes('class="constitution-entry"'));
+for(const base of ['docs','docs/pt'])for(const suffix of ['index.html','lessons/00.html','lessons/03.html','lessons/06.html'])assert.ok(!fs.readFileSync(`${base}/${suffix}`,'utf8').includes('class="constitution-entry"'),'Reference should be linked in context, without a separate banner');
 console.log(`Passed: ${links} terminology links on ${pages} pages; bilingual targets, anchors, teaching diagrams, text preservation and idempotence.`);

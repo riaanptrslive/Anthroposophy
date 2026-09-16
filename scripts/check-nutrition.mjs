@@ -12,7 +12,7 @@ for(const l of lessons){
  assert.ok(l.quote&&l.quotePage>=1&&l.quotePage<=118);
  if(pages){const at=pages.findIndex((p,i)=>i%2===1&&Number(p)===l.quotePage);assert.ok(at>0&&clean(pages[at+1]).includes(clean(l.quote)),`Quote not in cited capture page: ${l.id}`);}
  for(const lang of ['en','pt']){
-  const v=l[lang],base=lang==='pt'?'docs/pt':'docs',other=lang==='pt'?'docs':'docs/pt',file=`${base}/nutrition/lessons/${String(l.id).padStart(2,'0')}.html`,h=fs.readFileSync(file,'utf8');
+  const v=l[lang],base=lang==='pt'?'docs/pt':'docs',other=lang==='pt'?'docs':'docs/pt',file=`${base}/nutrition/lessons/${String(l.id).padStart(2,'0')}.html`,h=fs.readFileSync(file,'utf8').replace(/<a class="constitution-ref"[^>]*>([^<]*)<\/a>/g,'$1');
   assert.equal(v.theory.length,3);assert.equal(v.takeaways.length,3);assert.equal(v.checks.length,3);
   for(const text of [...v.theory,...v.takeaways,v.goal,v.close,v.example,v.explanation,v.activity,v.context,...v.checks.flat()])assert.ok(text?.trim()&&h.includes(esc(text)),`${file}: missing authored content`);
   assert.ok(h.includes(esc(l.quote)));if(lang==='pt')assert.ok(v.quoteTranslation&&h.includes(esc(v.quoteTranslation)));

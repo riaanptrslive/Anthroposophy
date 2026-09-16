@@ -4,7 +4,7 @@ import path from 'node:path';
 const excluded=new Set(['a','script','style','textarea','title','code','pre','svg','button','select']);
 const voids=new Set(['area','base','br','col','embed','hr','img','input','link','meta','param','source','track','wbr']);
 export const worldTerms=/\b(?:(?:mineral|plant|vegetable|animal) (?:world|kingdom)s?|(?:mundo|reino) (?:mineral|vegetal|animal|das plantas|dos animais|dos minerais))\b/giu;
-export const terms=/\b(?:(?:mineral|plant|vegetable|animal) (?:world|kingdom)s?|(?:mundo|reino) (?:mineral|vegetal|animal|das plantas|dos animais|dos minerais)|physical (?:bod(?:y|ies)|organi[sz]ation|member)s?|etheric(?: or life)?(?: (?:bod(?:y|ies)|organi[sz]ation|member)s?)?|ether bod(?:y|ies)|life[- ]bod(?:y|ies)|astral(?: (?:bod(?:y|ies)|organi[sz]ation|member)s?)?|corpos? (?:físicos?|etéricos?|astrais|astral|vitais|vital|de (?:éter|vida))|organizaç(?:ão|ões) (?:física|físicas|etérica|etéricas|astral|astrais)|etéric[oa]s?|astral|astrais)\b/giu;
+export const terms=/\b(?:(?:mineral|plant|vegetable|animal) (?:world|kingdom)s?|(?:mundo|reino) (?:mineral|vegetal|animal|das plantas|dos animais|dos minerais)|physical (?:bod(?:y|ies)|organi[sz]ation|member)s?|physical(?=(?:,\s*|\s+and\s+)(?:etheric|astral)\b)|etheric(?: or life)?(?: (?:bod(?:y|ies)|organi[sz]ation|member)s?)?|ether bod(?:y|ies)|life[- ]bod(?:y|ies)|astral(?: (?:bod(?:y|ies)|organi[sz]ation|member)s?)?|(?:corpos?|membros?) (?:físicos?|etéricos?|astrais|astral|vitais|vital|de (?:éter|vida))|organizaç(?:ão|ões) (?:física|físicas|etérica|etéricas|astral|astrais)|etéric[oa]s?|astral|astrais)\b/giu;
 export function targetFor(term){
  if(/world|kingdom|mundo|reino/i.test(term))return /minera/i.test(term)?'mineral-world':/animal|animais/i.test(term)?'animal-world':'plant-world';
  return /astr/i.test(term)?'astral-body':/physical|físic/i.test(term)?'physical-body':'etheric-body';
@@ -30,11 +30,8 @@ export function buildLinks(){
   const file=path.join('docs',relative);let html=fs.readFileSync(file,'utf8');
   const pt=html.includes('<html lang="pt-BR"'),base=pt?'docs/pt':'docs';
   const url=path.relative(path.dirname(file),`${base}/reference/human-constitution.html`).replaceAll('\\','/');
-  const normalized=relative.replaceAll('\\','/');
-  if(/^(?:pt\/)?(?:index\.html|lessons\/(?:00|03|06)\.html)$/.test(normalized)&&!html.includes('class="constitution-entry"')&&!html.includes('href="foundations/01.html"')){
-   const entry=`<aside class="constitution-entry"><p><a href="${url}"><strong>${pt?'Compreenda o ser humano tríplice e quádruplo':'Understand the threefold and fourfold human being'} →</strong></a></p><p>${pt?'Fundamentos para todos os cursos. Aprenda os conceitos antes de comparar as descrições.':'Foundations for every course. Learn the concepts before comparing the accounts.'}</p></aside>`;
-   html=html.replace(/(<main\b[^>]*>)/,`$1${entry}`);
-  }
+  // Introduce the reference where its terms occur in the reading.
+  html=html.replace(/<aside class="constitution-entry">[\s\S]*?<\/aside>/g,'');
   const result=linkTerms(html,url);count+=result.count;if(result.count)pages++;
   html=result.html;
   if((html.includes('constitution-ref')||html.includes('constitution-entry'))&&!html.includes('constitution.css')){
