@@ -88,5 +88,7 @@ await import('./build-foodwise.mjs');
 await import('./build-biodynamics.mjs');
 
 await import('./build-phases.mjs');
+const {buildCourseDepth}=await import('./build-course-depth.mjs');
+buildCourseDepth();
 // Link terminology after every course has been generated.
 buildLinks();
