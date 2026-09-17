@@ -1,0 +1,445 @@
+[
+  {
+    "id": "theosophy",
+    "title": "Theosophy",
+    "author": "Rudolf Steiner",
+    "review": "theosophy-chapter-teaching-plan.md",
+    "modules": [
+      [
+        "lessons",
+        "lessons"
+      ],
+      [
+        "lessons-chapter-2",
+        "lessons"
+      ],
+      [
+        "lessons-chapter-3",
+        "lessons"
+      ],
+      [
+        "lessons-chapter-4",
+        "lessons"
+      ]
+    ],
+    "source": "1971 Monges/Church PDF, 228 pages, and readable local extraction available.",
+    "structure": "Prefaces; Introduction; I. The Essential Nature of Man; II. Re-embodiment of the Spirit and Destiny; III. The Three Worlds (six sections); IV. The Path of Knowledge; thirteen addenda.",
+    "problem": "How does Steiner move from ordinary experience to a spiritual account of the human being, destiny and knowledge?",
+    "next": "Fresh sequential text reading now covers prefaces, introduction, all four chapters and thirteen addenda. Consolidated synthesis and 80-unit explanation crosswalk available. Expand 33 sessions into final lesson fields; independent background checks remain pending.",
+    "voices": "Steiner; quoted Goethe, Carus, Lessing and Jean Paul; translator and reviser.",
+    "links": [
+      "higher-worlds",
+      "philosophy-of-freedom",
+      "biodynamics"
+    ],
+    "need": "No new upload needed to begin."
+  },
+  {
+    "id": "what-is-anthroposophy",
+    "title": "What Is Anthroposophy? Three Perspectives on Self-Knowledge",
+    "author": "Rudolf Steiner; introduction Christopher Bamford",
+    "review": "anthroposophy-introduction-review.md",
+    "modules": [],
+    "source": "67-page PDF present and internally identified. Older 191-marker and replacement Markdown files are currently unavailable. Their page numbers cannot be applied directly to this PDF. New OCR is now available for all 67 capture pages; OCR availability is not a completed reading.",
+    "structure": "Bamford introduction; three Steiner lectures, 20–22 July 1923, GA 225; notes and further reading. Current source order must be aligned anew to the 67 capture pages.",
+    "problem": "How do physical, soul and spiritual perspectives change the account of self-knowledge, freedom, memory and love?",
+    "next": "Build a new PDF map and OCR; retain the existing introductory connections as selective prior teaching, not full coverage.",
+    "voices": "Bamford introduction and notes; Steiner lectures; translators Bamford and Mado Spiegler.",
+    "links": [
+      "theosophy",
+      "higher-worlds"
+    ],
+    "need": "PDF already available. Matching Markdown would accelerate transcription but is not required."
+  },
+  {
+    "id": "higher-worlds",
+    "title": "How to Know Higher Worlds",
+    "author": "Rudolf Steiner",
+    "review": "higher-worlds-reading-review.md",
+    "modules": [
+      [
+        "higher-worlds",
+        "higherWorlds"
+      ]
+    ],
+    "source": "The available 20-page file named How to know Higher Worlds.pdf is mislabelled: page images show The Essential Philosophy of Freedom and capture-software screens. It is not usable as GA 10. The earlier 107-marker replacement Markdown is absent. Parallel online chapter sources exist but are a different source witness.",
+    "structure": "Preparatory attitudes and inner tranquillity; stages of initiation; practical aspects and conditions; effects on spiritual faculties; dream life; continuity of consciousness; personality changes; lesser and greater Guardians; appendix. Exact supplied-edition boundaries require restoration of the source.",
+    "problem": "How is ordinary attention related to the claimed development of supersensible faculties, and what safeguards and responsibilities does the text supply?",
+    "next": "Use the prior map only provisionally. Reconcile the correct complete source before certifying its highlights, appendices or page coverage.",
+    "voices": "Steiner; editorial prefaces; translation-specific terminology.",
+    "links": [
+      "theosophy",
+      "start-now",
+      "according-to-luke"
+    ],
+    "need": "Please supply the correct complete PDF, preferably highlighted, or restore How to know Higher Worlds.md (the 107-marker version)."
+  },
+  {
+    "id": "philosophy-of-freedom",
+    "title": "The Philosophy of Freedom / The Basis of Freedom",
+    "author": "Rudolf Steiner; Wilson translation and Amrine editorial adaptation",
+    "review": "philosophy-of-freedom-consolidation-review.md",
+    "modules": [
+      [
+        "philosophy-of-freedom-consolidated",
+        "freedomConsolidated"
+      ]
+    ],
+    "source": "147-page fuller capture and 70-page Amrine Essential 2022 capture freshly read, including all chapters, additions and six Essential appendices. The fuller file begins partway through the 1918 preface and lacks title/imprint, foreword and translation introduction. All-page contact review found no obvious coloured text highlights.",
+    "structure": "Prefaces; fourteen chapters; Consequences of Monism; additions and appendices. Essential abridges the source and adds editorial context, so it must not supply an unnoticed replacement for the fuller argument.",
+    "problem": "How does the argument about thinking support the argument about free action?",
+    "next": "108 explained units in the new chapter, framing and edition-comparison records; expand final lessons and assess remaining background questions. Exact current fuller-edition imprint awaits missing opening pages.",
+    "voices": "Steiner; Wilson; Amrine; Wannamaker excerpts; supplied lecture commentators.",
+    "links": [
+      "theosophy",
+      "practical-thinking",
+      "higher-worlds"
+    ],
+    "need": "Please supply the fuller edition’s missing opening pages (title/imprint, foreword, translation introduction and beginning of the 1918 preface), preferably the complete PDF. Existing chapters can proceed independently."
+  },
+  {
+    "id": "according-to-luke",
+    "title": "According to Luke",
+    "author": "Rudolf Steiner; introduction Robert A. McDermott",
+    "review": "according-to-luke-reading-review.md",
+    "modules": [
+      [
+        "according-to-luke",
+        "lukeLessons"
+      ]
+    ],
+    "source": "20-page supplied PDF verified visually: introduction and part of Lecture 1, then capture-software screens. It does not contain all ten lectures. The earlier course used a clearly identified complete parallel 1964 edition.",
+    "structure": "McDermott introduction; ten lectures, 15–26 September 1909, GA 114; McDermott descriptive outline and edition material listed in contents. Contents entries do not establish that the text is supplied.",
+    "problem": "How does Steiner relate Gospel narrative, claimed spiritual research and his Christological interpretation?",
+    "next": "Map the complete parallel witness independently; recover the supplied edition to study its introduction, outline, notes and highlights without mixing pagination.",
+    "voices": "Gospel narrative; Steiner; McDermott; Osmond/Barfield in the parallel edition.",
+    "links": [
+      "higher-worlds",
+      "ancient-myths",
+      "theosophy"
+    ],
+    "need": "Complete According to Luke PDF or matching Markdown, including the later lectures and editorial outline."
+  },
+  {
+    "id": "colour",
+    "title": "Colour",
+    "author": "Rudolf Steiner",
+    "review": "colour-reading-review.md",
+    "modules": [
+      [
+        "colour",
+        "colourLessons"
+      ]
+    ],
+    "source": "158-page image PDF available; saved PDF text extraction is empty. Prior lecture map and selected diagram checks survive. New OCR is now available for all 158 capture pages; OCR availability is not a completed reading.",
+    "structure": "Foreword/synopses; three May 1921 lectures; nine supplementary talks from other dates; references/notes. The twelve talks are a collection, not one continuous event.",
+    "problem": "How do observations, artistic gestures and spiritual interpretations relate in Steiner's colour account?",
+    "next": "Read all twelve talks anew against page images; inventory diagrams, shorthand gaps, colour examples and every highlighted passage.",
+    "voices": "Steiner lecture reports; translators John Salter and Pauline Wehrle; editorial arrangement.",
+    "links": [
+      "theosophy",
+      "encountering-the-self",
+      "ancient-myths"
+    ],
+    "need": "PDF available. An accurate Markdown transcription would help, but no replacement has yet been shown necessary."
+  },
+  {
+    "id": "four-temperaments",
+    "title": "The Four Temperaments",
+    "author": "Rudolf Steiner",
+    "review": "temperaments-reading-review.md",
+    "modules": [
+      [
+        "temperaments",
+        "temperamentsLessons"
+      ]
+    ],
+    "source": "2012 Sophia Books PDF, Kelly translation revised Barton; Berlin 4 March 1909, GA 57. Entire supplied lecture and substantive back matter freshly read. Lecture pages and notes individually checked as images; no obvious coloured user highlights seen.",
+    "structure": "Single Berlin lecture of 4 March 1909, GA 57; edition front and back matter. The eleven existing lessons are teaching divisions, not eleven source chapters.",
+    "problem": "How does temperament mediate heredity and individuality, and how are educational proposals derived from the fourfold account?",
+    "next": "Complete fifteen-part chapter record, cumulative indexes and six English study sessions now explain 23 source units. Independent background checks and bilingual website integration remain pending.",
+    "voices": "Steiner; B. Kelly translation; Matthew Barton revision; parallel editions.",
+    "links": [
+      "mystery-temperaments",
+      "understand-your-temperament",
+      "theosophy"
+    ],
+    "need": "No replacement required for the readable supplied lecture. A different personally highlighted copy would need its own highlight map."
+  },
+  {
+    "id": "mystery-temperaments",
+    "title": "The Mystery of Temperaments",
+    "author": "Attributed Rudolf Steiner; supplied edition details uncertain",
+    "review": "mystery-temperaments-reading-review.md",
+    "modules": [
+      [
+        "mystery-temperaments",
+        "mysteryLessons"
+      ]
+    ],
+    "source": "33-page supplied capture freshly read throughout its readable text. Cover/title have no imprint or translator. Repetition and stronger educational wording confirmed in page images; exact damaged joins and full visual highlight census remain open.",
+    "structure": "One sustained discussion from individuality through fourfold constitution, portraits, education, self-education and social understanding; edition identity needs verification.",
+    "problem": "How does a general temperament scheme become an approach to a particular person?",
+    "next": "Qualified fifteen-part reading record now explains eighteen units across the whole supplied discussion. Verify translation and duplicated wording against an authoritative witness before final lesson expansion.",
+    "voices": "Supplied Steiner attribution; uncertain translator; Dawson parallel explicitly separate.",
+    "links": [
+      "four-temperaments",
+      "understand-your-temperament"
+    ],
+    "need": "Please supply an imprint/source page identifying this edition and translator, or an authoritative uncorrupted text. Current capture supports qualified study but not exact authorial wording throughout."
+  },
+  {
+    "id": "understand-your-temperament",
+    "title": "Understand Your Temperament!",
+    "author": "Gilbert Childs",
+    "review": "understand-temperament-reading-review.md",
+    "modules": [
+      [
+        "understand-temperament",
+        "understandLessons"
+      ]
+    ],
+    "source": "97-page PDF internally identified; its final substantive pages reach Appendix II and references. Retained older extraction has 239 markers with 43 blanks. A smaller PDF count does not establish missing content because layout differs. New OCR is now available for all 97 capture pages; OCR availability is not a completed reading.",
+    "structure": "Nine chapters: general differences; psychology; choleric; sanguine; phlegmatic; melancholic; workplace; compatibility; love. Appendix I on observation and Appendix II on body types; references.",
+    "problem": "How does Childs turn the inherited scheme into portraits of work and relationships, and where do his own qualifications resist fixed typing?",
+    "next": "Align the 97-page PDF with the earlier map, recover missing tables/figures, examine the fixed-versus-changeable temperament tension.",
+    "voices": "Childs as later author; his reports of Steiner; quoted authorities; original teaching adaptations.",
+    "links": [
+      "four-temperaments",
+      "mystery-temperaments",
+      "phases"
+    ],
+    "need": "PDF available. Request only specific illegible passages after alignment, rather than asking for the whole book again."
+  },
+  {
+    "id": "encountering-the-self",
+    "title": "Encountering the Self",
+    "author": "Hermann Koepke",
+    "review": "encountering-the-self-reading-review.md",
+    "modules": [
+      [
+        "encountering-the-self",
+        "selfLessons"
+      ]
+    ],
+    "source": "No matching PDF or original Markdown found in the searched Downloads and project folders. Retained 194-marker text survives with gaps, including 25 blank markers and damaged diagrams.",
+    "structure": "Two constructed parent conversations; Dear Parents; biographies; developmental and curriculum sections; incarnation; school-doctor contribution; four appendices; notes.",
+    "problem": "How does Koepke interpret the ninth-year transition, and what work is done by constructed conversations, biography and spiritual-development claims?",
+    "next": "Read surviving text but retain gaps. Recover the actual source before claiming complete chapter or highlight coverage, especially the dental chart and interrupted passages.",
+    "voices": "Koepke; Virginia Sease preface; Walter Holtzapfel doctor contribution; mediated Steiner selections; Jesse Darrell translation.",
+    "links": [
+      "phases",
+      "four-temperaments",
+      "colour"
+    ],
+    "need": "Please supply the complete Encountering the Self PDF, preferably with highlights; matching Markdown is useful."
+  },
+  {
+    "id": "practical-thinking",
+    "title": "Practical Training in Thought",
+    "author": "Rudolf Steiner",
+    "review": "practice-courses-implementation.md",
+    "modules": [
+      [
+        "practical-thinking",
+        "thinkingLessons"
+      ]
+    ],
+    "source": "Parallel primary lecture online, 18 January 1909, GA 108, George Adams translation. Retained numbered local paragraph extracts are German despite English-oriented filenames; do not quote them as an English transcription.",
+    "structure": "One lecture: habitual practicality; examples and analogies; spiritual premise of thinking; observation; anticipation and correction; reconstruction; attention/memory; delayed judgment; causal inference; concluding practical aim.",
+    "problem": "How is thinking trained to follow circumstances rather than remain enclosed within its own habitual assumptions?",
+    "next": "Build a paragraph inventory from the correctly identified source, keep anecdotes and claimed mechanisms, and distinguish the original exercises from the ten website adaptations.",
+    "voices": "Steiner; George Adams translation; instructor-created workshop cases.",
+    "links": [
+      "philosophy-of-freedom",
+      "higher-worlds"
+    ],
+    "need": "No upload needed for the existing parallel-source course. A personal highlighted edition would add required highlight coverage."
+  },
+  {
+    "id": "ancient-myths",
+    "title": "Ancient Myths: Their Meaning and Connection with Evolution",
+    "author": "Rudolf Steiner",
+    "review": "ancient-myths-review.md",
+    "modules": [
+      [
+        "ancient-myths",
+        "mythsLessons"
+      ]
+    ],
+    "source": "273-page PDF with readable text layer available. Prior work was a chapter survey with selected readings, not a full sequential extraction.",
+    "structure": "Edition introduction; seven Dornach lectures of 4–13 January 1918, selected from GA 180. Selection is not all of GA 180.",
+    "problem": "How are myths used to interpret changing consciousness, and what separates an illuminating interpretation from historical evidence?",
+    "next": "Read all seven lectures sequentially; retain political/historical conclusions and named examples as well as the mythic imagery. Review the capture's ending for continuity.",
+    "voices": "Steiner; M. Cotterell translation; edition introduction; myths as reported by Steiner.",
+    "links": [
+      "according-to-luke",
+      "theosophy",
+      "colour"
+    ],
+    "need": "PDF and text available; no new upload needed to begin."
+  },
+  {
+    "id": "start-now",
+    "title": "Start Now! A Book of Soul and Spiritual Exercises",
+    "author": "Rudolf Steiner; edited and introduced by Christopher Bamford",
+    "review": "meditation-reading-review.md",
+    "modules": [
+      [
+        "meditation-course",
+        "meditationLessons"
+      ]
+    ],
+    "source": "177-page PDF available. The existing nine-session meditation course uses selected parts; it does not cover the whole anthology. Saved PDF text extraction is empty. New OCR is now available for all 177 capture pages; OCR availability is not a completed reading.",
+    "structure": "Editorial anthology with introductory guidance, exercises, review, Calendar, verses, symbolic and Christian material, work concerning the dead and Guardians. Full section inventory is a required next pass, not inferred from the selected course.",
+    "problem": "How do the different practices relate to their source contexts and intended faculties, and what does Bamford's arrangement add?",
+    "next": "Map all contents and source notes before extending the selected course. Recover the interleaved Foundation Stone ending visually.",
+    "voices": "Steiner selections; Bamford introduction, selection and editorial organization; translators named by the edition.",
+    "links": [
+      "weekly-meditations",
+      "foundation-stone",
+      "higher-worlds"
+    ],
+    "need": "PDF available; readable Markdown would speed source mapping."
+  },
+  {
+    "id": "weekly-meditations",
+    "title": "Weekly Meditations: Rudolf Steiner's Calendar of the Soul",
+    "author": "Rudolf Steiner; reflections Patsy Scala",
+    "review": "meditation-reading-review.md",
+    "modules": [],
+    "source": "58-page PDF available. Prior course selected weeks 1, 13, 26 and 38; this is not full coverage of 52 verses and reflections. New OCR is now available for all 58 capture pages; OCR availability is not a completed reading.",
+    "structure": "Front matter/introduction; 52 Calendar verses with Scala reflections/intentions. Build a week-by-week inventory rather than treating four representative weeks as the whole volume.",
+    "problem": "How do the verse sequence, seasonal relationships and Scala's personal responses differ as teaching material?",
+    "next": "Verify every verse's identity and its accompanying reflection; separate translator, poet and commentator. Inventory all highlights.",
+    "voices": "Steiner verses; Christopher Bamford translation; Scala reflections and intentions.",
+    "links": [
+      "start-now",
+      "foundation-stone",
+      "theosophy"
+    ],
+    "need": "PDF available; no need to resend the same file."
+  },
+  {
+    "id": "foundation-stone",
+    "title": "The Foundation Stone Meditation",
+    "author": "Rudolf Steiner; introduction Michael Wilson",
+    "review": "meditation-reading-review.md",
+    "modules": [],
+    "source": "8-page PDF visually verified: contents list three translations and German original, but the capture stops in Steiner's note before the meditation. Existing course uses a separately identified study translation of the printed German text.",
+    "structure": "Wilson introduction; Steiner explanatory note; George Adams, Pauline Wehrle and Richard Seddon translations; original German; further reading. Most listed sections are absent from this supplied capture.",
+    "problem": "How do the complete meditation's movements relate, and how do translation choices affect their interpretation?",
+    "next": "Recover the full booklet for a genuine three-translation comparison; do not treat the existing course translation as the missing edition.",
+    "voices": "Steiner; Wilson; three named translators; instructor study translation in current course.",
+    "links": [
+      "start-now",
+      "weekly-meditations"
+    ],
+    "need": "Please supply the complete booklet, including all three translations and the German text."
+  },
+  {
+    "id": "nutrition",
+    "title": "Nutrition: Food, Health and Spiritual Development",
+    "author": "Rudolf Steiner; compiled/edited Christian von Arnim",
+    "review": "nutrition-reading-review.md",
+    "modules": [
+      [
+        "nutrition",
+        "nutritionLessons"
+      ]
+    ],
+    "source": "118-page PDF, Markdown and retained OCR available. Selected passages were visually checked; a complete highlight and concept census remains to be done.",
+    "structure": "Editor's introduction; twelve thematic chapters assembled from lectures of 1906–1924; sources and note on lecture reports. Chapter 7 includes an additional extract whose separate provenance needs care.",
+    "problem": "How do spiritual correspondences, physiological claims, individual differences and freedom interact in the anthology?",
+    "next": "Inventory every passage and editorial introduction. Explain the distinct Chapter 4 and 9 tables, the salt tension, and the editor's retrospective disease comparison without harmonizing them prematurely.",
+    "voices": "Steiner lecture reports; von Arnim's introduction and chapter framing; translators; contemporary scientific comparisons kept separate.",
+    "links": [
+      "foodwise",
+      "biodynamics",
+      "theosophy"
+    ],
+    "need": "Sources available; no new upload needed to begin."
+  },
+  {
+    "id": "foodwise",
+    "title": "Foodwise",
+    "author": "Wendy E. Cook",
+    "review": "foodwise-reading-review.md",
+    "modules": [
+      [
+        "foodwise",
+        "foodwiseLessons"
+      ]
+    ],
+    "source": "272-page PDF, Markdown and retained OCR available. Prior review identifies interrupted passages, including capture 79 and a recipe beginning midstream at 229.",
+    "structure": "Preface/introduction; twenty chapters in four parts, from history and agriculture to digestion, foods and cooking; notes/reference material. Chapter 19 needs multiple teaching units.",
+    "problem": "How does Cook combine memoir, culinary practice, relationships and anthroposophical interpretation?",
+    "next": "Read all chapter material and recipes as arguments/examples, verify missing joins against images, and request only confirmed missing continuations. Keep Cook, quoted authorities and instructor examples distinct.",
+    "voices": "Cook; reported Steiner, Goethe, Schmidt and Hauschka; memoir participants; later teaching and scientific context.",
+    "links": [
+      "nutrition",
+      "biodynamics",
+      "four-temperaments"
+    ],
+    "need": "Existing sources sufficient to proceed. Replacement passages may be needed after visual checks of interrupted sections."
+  },
+  {
+    "id": "phases",
+    "title": "Phases: The Spiritual Rhythms of Adult Life",
+    "author": "Bernard Lievegoed",
+    "review": "phases-reading-review.md",
+    "modules": [
+      [
+        "phases",
+        "phasesLessons"
+      ]
+    ],
+    "source": "145-page PDF and Markdown/OCR available; selected passages visually checked. Full highlight and substantive-concept inventory not yet completed in the new format.",
+    "structure": "Preface/introduction; seven chapters: terrain; course of life; marriage/development; orientations; career/personnel; images of humanity/psychotherapy; personal development; recommended reading.",
+    "problem": "How do bodily, psychological and spiritual accounts of biography interact without making phase ages into deadlines?",
+    "next": "Preserve every biographical example and qualification; distinguish Lievegoed's presentation of Freud, Adler, Jung, Frankl and Assagioli from those authors' own texts.",
+    "voices": "Lievegoed; H. S. Lake translation; thinkers as reported; instructor interpretations.",
+    "links": [
+      "encountering-the-self",
+      "understand-your-temperament",
+      "higher-worlds"
+    ],
+    "need": "Sources available; no new upload needed to begin."
+  },
+  {
+    "id": "biodynamics",
+    "title": "What Is Biodynamics?",
+    "author": "Rudolf Steiner; introduction Hugh J. Courtney; editor Marcia Merryman Means",
+    "review": "biodynamics-companion-review.md",
+    "modules": [],
+    "source": "135-page PDF and Markdown fully inventoried in the preceding work; four highlighted passages split into eleven ideas. 36-lesson companion and 560-item crosswalk available.",
+    "structure": "Courtney introduction; seven selected lectures grouped as Spiritual Beings I–II, Elementals I–II, Agriculture I–III; discussion, notes and further reading.",
+    "problem": "How do the spiritual account of nature and the agricultural proposals connect, and where do the anthology's different voices diverge?",
+    "next": "Retain the detailed companion. Add the new format's people, event, argument and example indexes from its established page notes. Figure 7's fine handwritten details remain partial.",
+    "voices": "Courtney; Means chapter introductions; Steiner; Gardner notes; named translators.",
+    "links": [
+      "nutrition",
+      "foodwise",
+      "theosophy"
+    ],
+    "need": "No new upload required; a clearer Figure 7 image could resolve its remaining fine details."
+  },
+  {
+    "id": "edmunds-introduction",
+    "title": "An Introduction to Anthroposophy — supplied example",
+    "author": "Francis Edmunds",
+    "review": null,
+    "modules": [],
+    "source": "User-supplied knowledge-base example and 126-page PDF available. Title/imprint and ending inspected; the example's chapter map has not yet been fully collated with the PDF. New OCR is now available for all 126 capture pages; OCR availability is not a completed reading.",
+    "structure": "Foreword Davy; preface Edmunds; seven chapters; postscript; afterword Barton. The example deeply develops Chapter 1 and proposes a later course; its status explicitly leaves Chapter 2 next.",
+    "problem": "What does anthroposophy claim can be known, how, and with what implications?",
+    "next": "Use as a format reference without treating it as fully verified source evidence. If extended, continue Chapter 2 after verifying the provided map and highlights.",
+    "voices": "Edmunds; Davy; Barton; Steiner as reported by Edmunds.",
+    "links": [
+      "theosophy",
+      "philosophy-of-freedom",
+      "higher-worlds"
+    ],
+    "need": "No upload needed for the example already supplied."
+  }
+]

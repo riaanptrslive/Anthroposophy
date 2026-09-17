@@ -1,0 +1,736 @@
+{
+  "edition": "1971 Monges/Church",
+  "scope": "Text-reading and research-note explanations; not a completed website course",
+  "units": [
+    {
+      "id": "TF.01",
+      "heading": "TF.01 — Practical purpose and experiential authority. PDF 9–10",
+      "file": "theosophy-front-matter.md",
+      "lessonCandidate": "LF.1",
+      "explanationWords": 97,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "TF.02",
+      "heading": "TF.02 — Reading as active work and the relation to other books. PDF 10–11",
+      "file": "theosophy-front-matter.md",
+      "lessonCandidate": "LF.1",
+      "explanationWords": 116,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "TF.03",
+      "heading": "TF.03 — Foundations before ultimate questions. PDF 11–13",
+      "file": "theosophy-front-matter.md",
+      "lessonCandidate": "LF.1",
+      "explanationWords": 136,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "TF.04",
+      "heading": "TF.04 — Revision and mobile language. PDF 15–16",
+      "file": "theosophy-front-matter.md",
+      "lessonCandidate": "LF.2",
+      "explanationWords": 95,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "TF.05",
+      "heading": "TF.05 — Longing, discovery and understanding. PDF 16–17",
+      "file": "theosophy-front-matter.md",
+      "lessonCandidate": "LF.2",
+      "explanationWords": 125,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "TF.06",
+      "heading": "TF.06 — Fichte, blindness and the possibility of new faculties. PDF 19–21",
+      "file": "theosophy-front-matter.md",
+      "lessonCandidate": "LF.2",
+      "explanationWords": 142,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "TF.07",
+      "heading": "TF.07 — Science, limits and development. PDF 21–23",
+      "file": "theosophy-front-matter.md",
+      "lessonCandidate": "LF.2",
+      "explanationWords": 132,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "TF.08",
+      "heading": "TF.08 — A teacher needs more than an experience. PDF 23–24",
+      "file": "theosophy-front-matter.md",
+      "lessonCandidate": "LF.3",
+      "explanationWords": 124,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "TF.09",
+      "heading": "TF.09 — Theosophy, spiritual science and the book's chosen domain. PDF 24–25",
+      "file": "theosophy-front-matter.md",
+      "lessonCandidate": "LF.3",
+      "explanationWords": 101,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T1.01",
+      "heading": "T1.01 — Goethe and the difference between preference and inquiry",
+      "file": "theosophy-chapter-01.md",
+      "lessonCandidate": "1A",
+      "explanationWords": 140,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T1.02",
+      "heading": "T1.02 — The meadow across two years",
+      "file": "theosophy-chapter-01.md",
+      "lessonCandidate": "1A",
+      "explanationWords": 118,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T1.03",
+      "heading": "T1.03 — The initial definitions and their limits",
+      "file": "theosophy-chapter-01.md",
+      "lessonCandidate": "1A",
+      "explanationWords": 140,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T1.04",
+      "heading": "T1.04 — Corporeal organization and the kingdom comparison",
+      "file": "theosophy-chapter-01.md",
+      "lessonCandidate": "1B",
+      "explanationWords": 126,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T1.05",
+      "heading": "T1.05 — Sensation, feeling and will",
+      "file": "theosophy-chapter-01.md",
+      "lessonCandidate": "1B",
+      "explanationWords": 112,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T1.06",
+      "heading": "T1.06 — Natural necessity and acknowledged necessity",
+      "file": "theosophy-chapter-01.md",
+      "lessonCandidate": "1B",
+      "explanationWords": 121,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T1.07",
+      "heading": "T1.07 — Thinking, the brain and cultivated feeling",
+      "file": "theosophy-chapter-01.md",
+      "lessonCandidate": "1B",
+      "explanationWords": 111,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T1.08",
+      "heading": "T1.08 — Physical materials and living form",
+      "file": "theosophy-chapter-01.md",
+      "lessonCandidate": "1C",
+      "explanationWords": 258,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T1.09",
+      "heading": "T1.09 — Preservation, dissolution and the meaning of body",
+      "file": "theosophy-chapter-01.md",
+      "lessonCandidate": "1C",
+      "explanationWords": 112,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T1.10",
+      "heading": "T1.10 — Sentient soul and the difference between manifestation and participation",
+      "file": "theosophy-chapter-01.md",
+      "lessonCandidate": "1D",
+      "explanationWords": 170,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T1.11",
+      "heading": "T1.11 — Thought serving desire: the intellectual soul",
+      "file": "theosophy-chapter-01.md",
+      "lessonCandidate": "1D",
+      "explanationWords": 140,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T1.12",
+      "heading": "T1.12 — Truth, goodness and consciousness soul",
+      "file": "theosophy-chapter-01.md",
+      "lessonCandidate": "1D",
+      "explanationWords": 175,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T1.13",
+      "heading": "T1.13 — Aura and self-consciousness",
+      "file": "theosophy-chapter-01.md",
+      "lessonCandidate": "1E",
+      "explanationWords": 170,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T1.14",
+      "heading": "T1.14 — Consciousness soul, spirit self and intuition",
+      "file": "theosophy-chapter-01.md",
+      "lessonCandidate": "1E",
+      "explanationWords": 190,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T1.15",
+      "heading": "T1.15 — Spirit man, life spirit and the expanding sheath",
+      "file": "theosophy-chapter-01.md",
+      "lessonCandidate": "1E",
+      "explanationWords": 127,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T1.16",
+      "heading": "T1.16 — Nine, seven, four and transformed seven",
+      "file": "theosophy-chapter-01.md",
+      "lessonCandidate": "1F",
+      "explanationWords": 190,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T2.01",
+      "heading": "T2.01 — What is enduring? PDF 68–69 / printed 40–41",
+      "file": "theosophy-chapter-02.md",
+      "lessonCandidate": "2A",
+      "explanationWords": 114,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T2.02",
+      "heading": "T2.02 — Two forms of persistence: memory and deed. PDF 69–72 / printed 41–44",
+      "file": "theosophy-chapter-02.md",
+      "lessonCandidate": "2A",
+      "explanationWords": 150,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T2.03",
+      "heading": "T2.03 — Memory is a new representation, not a stored old picture. PDF 72–74 / printed 44–46",
+      "file": "theosophy-chapter-02.md",
+      "lessonCandidate": "2A",
+      "explanationWords": 154,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T2.04",
+      "heading": "T2.04 — Experience becomes capacity. PDF 74–75 / printed 46–47",
+      "file": "theosophy-chapter-02.md",
+      "lessonCandidate": "2A",
+      "explanationWords": 113,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T2.05",
+      "heading": "T2.05 — Bodily inheritance and spiritual disposition. PDF 76–77 / printed 48–49",
+      "file": "theosophy-chapter-02.md",
+      "lessonCandidate": "2B",
+      "explanationWords": 128,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T2.06",
+      "heading": "T2.06 — Biography and the individual as a spiritual species. PDF 78–80 / printed 50–52",
+      "file": "theosophy-chapter-02.md",
+      "lessonCandidate": "2B",
+      "explanationWords": 168,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T2.07",
+      "heading": "T2.07 — Pre-existence versus previous earth lives. PDF 80–82 / printed 52–54",
+      "file": "theosophy-chapter-02.md",
+      "lessonCandidate": "2B",
+      "explanationWords": 134,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T2.08",
+      "heading": "T2.08 — What can be inherited? PDF 83–85 / printed 55–57",
+      "file": "theosophy-chapter-02.md",
+      "lessonCandidate": "2B",
+      "explanationWords": 121,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T2.09",
+      "heading": "T2.09 — Mozart, Lessing and the status of the argument. PDF 86–88 / printed 58–60",
+      "file": "theosophy-chapter-02.md",
+      "lessonCandidate": "2C",
+      "explanationWords": 146,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T2.10",
+      "heading": "T2.10 — Sleep, death and an unfinished field of action. PDF 89–90 / printed 61–62",
+      "file": "theosophy-chapter-02.md",
+      "lessonCandidate": "2D",
+      "explanationWords": 91,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T2.11",
+      "heading": "T2.11 — Encountering the I in circumstances. PDF 91–93 / printed 63–65",
+      "file": "theosophy-chapter-02.md",
+      "lessonCandidate": "2D",
+      "explanationWords": 135,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T2.12",
+      "heading": "T2.12 — Cave animals and migration. PDF 93–95 / printed 65–67",
+      "file": "theosophy-chapter-02.md",
+      "lessonCandidate": "2D",
+      "explanationWords": 115,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T2.13",
+      "heading": "T2.13 — The concluding three laws. PDF 95–97 / printed 67–69",
+      "file": "theosophy-chapter-02.md",
+      "lessonCandidate": "2D",
+      "explanationWords": 101,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T2.14",
+      "heading": "T2.14 — Addendum 7 must govern the lesson. PDF 214–216 / printed 186–188",
+      "file": "theosophy-chapter-02.md",
+      "lessonCandidate": "2E",
+      "explanationWords": 145,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.01",
+      "heading": "T3.01 — Manifestation depends on a capacity to perceive. PDF 98–101",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.1",
+      "explanationWords": 203,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.02",
+      "heading": "T3.02 — Why physical vocabulary requires translation. PDF 101–104",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.1",
+      "explanationWords": 188,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.03",
+      "heading": "T3.03 — Sympathy, antipathy and non-spatial nearness. PDF 104–107",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.1",
+      "explanationWords": 145,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.04",
+      "heading": "T3.04 — The first three soul regions. PDF 107–111",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.2",
+      "explanationWords": 134,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.05",
+      "heading": "T3.05 — The fourth through seventh soul regions. PDF 111–114",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.2",
+      "explanationWords": 161,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.06",
+      "heading": "T3.06 — Two bonds and two separations. PDF 115–118",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.3",
+      "explanationWords": 175,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.07",
+      "heading": "T3.07 — Desire without its organ of satisfaction. PDF 118–121",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.3",
+      "explanationWords": 145,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.08",
+      "heading": "T3.08 — The first three postmortem transformations. PDF 121–124",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.4",
+      "explanationWords": 105,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.09",
+      "heading": "T3.09 — Bodily self-feeling and the fourth region. PDF 124–126",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.4",
+      "explanationWords": 130,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.10",
+      "heading": "T3.10 — Higher attachments and completion of purification. PDF 126–129",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.4",
+      "explanationWords": 187,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.11",
+      "heading": "T3.11 — Living archetypes rather than abstract copies. PDF 129–132",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.5",
+      "explanationWords": 148,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.12",
+      "heading": "T3.12 — Spiritual hearing and the limits of the sensory analogy. PDF 132–134",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.5",
+      "explanationWords": 109,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.13",
+      "heading": "T3.13 — The first three regions of spiritland. PDF 134–137",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.6",
+      "explanationWords": 129,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.14",
+      "heading": "T3.14 — Coordination, creative purposes and the spiritual word. PDF 137–138",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.6",
+      "explanationWords": 150,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.15",
+      "heading": "T3.15 — Experience becomes the capacity for a future life. PDF 138–142",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.7",
+      "explanationWords": 126,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.16",
+      "heading": "T3.16 — Individual relations within a larger unity. PDF 142–145",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.7",
+      "explanationWords": 148,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.17",
+      "heading": "T3.17 — Service, creation and unequal earthly opportunity. PDF 145–148",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.7",
+      "explanationWords": 117,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.18",
+      "heading": "T3.18 — The enduring I, future direction and suffering. PDF 148–152; Addendum 12, PDF 217–218",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.8",
+      "explanationWords": 170,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.19",
+      "heading": "T3.19 — World order and the boundary of the account. PDF 152–155",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.8",
+      "explanationWords": 106,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.20",
+      "heading": "T3.20 — Threefold participation in present life. PDF 155–158",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.9",
+      "explanationWords": 164,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.21",
+      "heading": "T3.21 — The elementary kingdoms and four kingdoms of nature. PDF 158–164",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.9",
+      "explanationWords": 199,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.22",
+      "heading": "T3.22 — Human constitution as combined activity. PDF 164–165",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.9",
+      "explanationWords": 135,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.23",
+      "heading": "T3.23 — Folk spirit, spirit of an age and elemental beings. PDF 165–168",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.10",
+      "explanationWords": 175,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.24",
+      "heading": "T3.24 — Thought content and its alleged spiritual effects. PDF 168–171",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.11",
+      "explanationWords": 170,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.25",
+      "heading": "T3.25 — Colour experience is not a coloured optical display. PDF 171–173",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.11",
+      "explanationWords": 119,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.26",
+      "heading": "T3.26 — Motive, activity and temporary state alter the description. PDF 173–175",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.11",
+      "explanationWords": 164,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.27",
+      "heading": "T3.27 — Three interpenetrating auras and selective attention. PDF 175–179",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.12",
+      "explanationWords": 162,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.28",
+      "heading": "T3.28 — The same colour must be read within its aura and context. PDF 179–181",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.12",
+      "explanationWords": 205,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T3.29",
+      "heading": "T3.29 — Addendum 13: experimental challenge and the author's answer. PDF 218–223",
+      "file": "theosophy-chapter-03.md",
+      "lessonCandidate": "L3.13",
+      "explanationWords": 208,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T4.01",
+      "heading": "T4.01 — Thought pictures as a first step. PDF 182–184 / printed 154–156",
+      "file": "theosophy-chapter-04.md",
+      "lessonCandidate": "L4.1",
+      "explanationWords": 164,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T4.02",
+      "heading": "T4.02 — Vigorous thinking, fantasy and claims about health. PDF 184–187 / printed 156–159",
+      "file": "theosophy-chapter-04.md",
+      "lessonCandidate": "L4.1",
+      "explanationWords": 182,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T4.03",
+      "heading": "T4.03 — Receptivity without premature judgment. PDF 187–189 / printed 159–161",
+      "file": "theosophy-chapter-04.md",
+      "lessonCandidate": "L4.2",
+      "explanationWords": 152,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T4.04",
+      "heading": "T4.04 — Valuation and the refinement of sympathy. PDF 189–191 / printed 161–163",
+      "file": "theosophy-chapter-04.md",
+      "lessonCandidate": "L4.2",
+      "explanationWords": 134,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T4.05",
+      "heading": "T4.05 — Pleasure and pain as proposed organs of knowledge. PDF 191–193 / printed 163–165",
+      "file": "theosophy-chapter-04.md",
+      "lessonCandidate": "L4.3",
+      "explanationWords": 162,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T4.06",
+      "heading": "T4.06 — Why thinking needs its own correction. PDF 193–195 / printed 165–167",
+      "file": "theosophy-chapter-04.md",
+      "lessonCandidate": "L4.4",
+      "explanationWords": 148,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T4.07",
+      "heading": "T4.07 — Mathematics as an example, not a prerequisite. PDF 195–196 / printed 167–168",
+      "file": "theosophy-chapter-04.md",
+      "lessonCandidate": "L4.4",
+      "explanationWords": 88,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T4.08",
+      "heading": "T4.08 — Will, motives and the possibility of error. PDF 196–198 / printed 168–170",
+      "file": "theosophy-chapter-04.md",
+      "lessonCandidate": "L4.5",
+      "explanationWords": 167,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T4.09",
+      "heading": "T4.09 — Balance, the eternal and careful observation. PDF 198–201 / printed 170–173",
+      "file": "theosophy-chapter-04.md",
+      "lessonCandidate": "L4.3",
+      "explanationWords": 140,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T4.10",
+      "heading": "T4.10 — Freedom as action from an inwardly apprehended order. PDF 201–203 / printed 173–175",
+      "file": "theosophy-chapter-04.md",
+      "lessonCandidate": "L4.5",
+      "explanationWords": 140,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T4.11",
+      "heading": "T4.11 — Initiation and individuality. PDF 203–205 / printed 175–177",
+      "file": "theosophy-chapter-04.md",
+      "lessonCandidate": "L4.6",
+      "explanationWords": 139,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "T4.12",
+      "heading": "T4.12 — The concluding limitation on the research attitude. PDF 205–206 / printed 177–178",
+      "file": "theosophy-chapter-04.md",
+      "lessonCandidate": "L4.6",
+      "explanationWords": 87,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    }
+  ],
+  "highlights": {
+    "pdfAnnotations": 0,
+    "contactSheetPagesReviewed": 228,
+    "result": "No obvious coloured text highlights seen; faint marks and other user copies not certified"
+  },
+  "pending": [
+    "Complete lesson-format expansion",
+    "Bilingual website integration",
+    "Independent historical and scientific background checks"
+  ]
+}
