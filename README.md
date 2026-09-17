@@ -6,6 +6,12 @@ Research, source comparisons, lecture timestamps, illustration briefs and future
 
 ## Website
 
+### Detailed Biodynamics companion — 17 September 2026
+
+The new English companion at `docs/biodynamics/companion/index.html` follows the introduction and all seven chapters in **36 lessons**, with **135 page commentaries**, **560 source-inventory items**, and **11 distinct ideas from four highlighted passages**. It includes a source map prepared before lessons, glossary, original teaching examples, explained questions, scientific comparisons, a downloadable complete Markdown companion and a concept-by-concept coverage audit. The earlier nine-lesson bilingual route links to this expansion.
+
+The audit explicitly retains a partial transcription of Figure 7’s fine handwritten details and distinguishes referenced works outside this anthology. See the [review](content/biodynamics-companion-review.md). Edit `content/biodynamics-source-inventory.tsv`, `content/biodynamics-page-notes.md` and `content/biodynamics-companion.mjs`; build with `node scripts/build-biodynamics-companion.mjs` or the complete site build. Validate with `node scripts/check-biodynamics-companion.mjs` and the shared site checker. Prepared locally; not deployed.
+
 ### Phases course — 15 September 2026
 
 **Phases**, by Bernard Lievegoed, now has **19 lessons in each language**, covering all seven chapters, an orientation and a final biographical portfolio. Each lesson includes original teaching, a verified passage, example, takeaways, activity and explained answers. Open `docs/phases/index.html` or `docs/pt/phases/index.html`. See the [reading review and chapter map](content/phases-reading-review.md).

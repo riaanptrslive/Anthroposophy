@@ -2,6 +2,7 @@ Phases — 15 September 2026: [Reading review and chapter map](phases-reading-re
 
 Foodwise — 15 September 2026: [Source review and chapter map](foodwise-reading-review.md) records 24 bilingual lessons covering Wendy E. Cook’s twenty chapters, with three sessions for Chapter 19. All selected passages were checked visually; original activities, explained answers and a final meal portfolio complete the course. Twelve primary courses and 519 HTML pages. Prepared locally. Earlier counts below are historical.
 
+- [Biodynamics: detailed page-by-page companion and coverage review](biodynamics-companion-review.md) — 17 September 2026. 36 English lessons, 135 pages, 560 inventory items and eleven highlighted ideas.
 - [Biodynamics: source voices, seven-lecture map and quotation review](biodynamics-reading-review.md) — 15 September 2026.
 
 

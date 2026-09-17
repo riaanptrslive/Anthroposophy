@@ -44,4 +44,5 @@ for(const lang of ['en','pt']){
  h=h.replace(target,`<!-- biodynamics-card:start --><a class="course-card" href="biodynamics/index.html"><span class="eyebrow">${t('Rudolf Steiner · soil, life and the cosmos','Rudolf Steiner · solo, vida e cosmos')}</span><h3>${t('What Is Biodynamics?','O que é biodinâmica?')}</h3><p>${t('Nine lessons follow the introduction and all seven lectures through verified passages, explained concepts, activities and a final garden portrait.','Nove lições percorrem a introdução e as sete palestras com trechos conferidos, conceitos explicados, atividades e um retrato final de horta.')}</p></a><!-- biodynamics-card:end -->${target}`);fs.writeFileSync(home,h);
 }
 console.log('Built What Is Biodynamics?: 9 lessons and a course index in each language; linked both homepages.');
+await import('./build-biodynamics-companion.mjs');
 

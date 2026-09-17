@@ -1,0 +1,4050 @@
+{
+  "reviewed": "2026-09-17",
+  "pdfPages": 135,
+  "sessionCount": 36,
+  "conceptCount": 560,
+  "highlights": [
+    {
+      "id": "H76a",
+      "page": 76,
+      "location": 1574,
+      "voice": "Rudolf Steiner",
+      "idea": "Ordinary perception during earthly life discloses only the dense aspect of creatures.",
+      "teaching": "The dense-aspect claim is explained as a limit on access, in the visible–invisible argument.",
+      "section": "session-19.html#page-76",
+      "status": "explained"
+    },
+    {
+      "id": "H76b",
+      "page": 76,
+      "location": 1574,
+      "voice": "Rudolf Steiner",
+      "idea": "Supersensible recognition requires insight and understanding; the sentence continues beyond the highlight.",
+      "teaching": "The continuation and preceding death/rebirth passage explain the condition and purpose of recognition.",
+      "section": "session-19.html#page-76",
+      "status": "explained"
+    },
+    {
+      "id": "H101a",
+      "page": 101,
+      "location": 2127,
+      "voice": "Rudolf Steiner",
+      "idea": "The deer is oriented toward the cosmic surroundings rather than chiefly toward Earth.",
+      "teaching": "The orientation supplies the premise for selecting a deer organ rather than an arbitrary container.",
+      "section": "session-26.html#page-101",
+      "status": "explained"
+    },
+    {
+      "id": "H101b",
+      "page": 101,
+      "location": 2127,
+      "voice": "Rudolf Steiner",
+      "idea": "Antlers express that outward relationship.",
+      "teaching": "The explanation returns to the horn/antler distinction in Agriculture I, pages 83–84.",
+      "section": "session-26.html#page-101",
+      "status": "explained"
+    },
+    {
+      "id": "H101c",
+      "page": 101,
+      "location": 2127,
+      "voice": "Rudolf Steiner",
+      "idea": "A kidney–bladder process is said to preserve the activity associated with yarrow.",
+      "teaching": "The organ process links the plant’s sulfur relationship to the proposed sheath.",
+      "section": "session-26.html#page-101",
+      "status": "explained"
+    },
+    {
+      "id": "H101d",
+      "page": 101,
+      "location": 2127,
+      "voice": "Rudolf Steiner",
+      "idea": "The bladder’s material constitution matters to that process.",
+      "teaching": "The organ is treated as an active participant, not merely a storage bag.",
+      "section": "session-26.html#page-101",
+      "status": "explained"
+    },
+    {
+      "id": "H101e",
+      "page": 101,
+      "location": 2127,
+      "voice": "Rudolf Steiner",
+      "idea": "Thin material can embody extensive forces: the bladder as a cosmic replica.",
+      "teaching": "The substance/force distinction explains the comparison, with the lack of a demonstrated mechanism made explicit.",
+      "section": "session-26.html#page-101",
+      "status": "explained"
+    },
+    {
+      "id": "H102a",
+      "page": 102,
+      "location": 2149,
+      "voice": "Rudolf Steiner",
+      "idea": "Yarrow is associated primarily with potash activity.",
+      "teaching": "Yarrow’s sulfur/potassium role is compared directly with the chamomile role.",
+      "section": "session-26.html#page-102",
+      "status": "explained"
+    },
+    {
+      "id": "H102b",
+      "page": 102,
+      "location": 2149,
+      "voice": "Rudolf Steiner",
+      "idea": "Drawing in calcium as well requires another plant.",
+      "teaching": "The surrounding text identifies chamomile and explains the added calcium relation and intestinal sheath.",
+      "section": "session-26.html#page-102",
+      "status": "explained"
+    },
+    {
+      "id": "H114a",
+      "page": 114,
+      "location": 2409,
+      "voice": "Marcia Merryman Means",
+      "idea": "Mercury, Venus and Moon influences pass through soil and support reproductive succession.",
+      "teaching": "The editor’s synopsis is distinguished from the lecture; pages 115–117 explain the soil/lime route and seed succession.",
+      "section": "session-30.html#page-114",
+      "status": "explained"
+    },
+    {
+      "id": "H114b",
+      "page": 114,
+      "location": 2409,
+      "voice": "Marcia Merryman Means",
+      "idea": "Jupiter, Mars and Saturn influences support fruiting.",
+      "teaching": "Fruiting is unpacked through the following distinction between edible expansion and propagation, with the silica relationship explained.",
+      "section": "session-30.html#page-114",
+      "status": "explained"
+    }
+  ],
+  "concepts": [
+    {
+      "id": "C001.1",
+      "text": "Cover: title, Steiner attribution, seven lectures, Courtney introduction",
+      "page": 1,
+      "section": "session-00.html#page-1",
+      "status": "explained"
+    },
+    {
+      "id": "C002.1",
+      "text": "Full title: healing and revitalizing Earth",
+      "page": 2,
+      "section": "session-00.html#page-2",
+      "status": "explained"
+    },
+    {
+      "id": "C002.2",
+      "text": "publisher and distinct introduction credit",
+      "page": 2,
+      "section": "session-00.html#page-2",
+      "status": "explained"
+    },
+    {
+      "id": "C003.1",
+      "text": "Three source lecture cycles and their translators",
+      "page": 3,
+      "section": "session-00.html#page-3",
+      "status": "explained"
+    },
+    {
+      "id": "C003.2",
+      "text": "Means as editor and author of chapter introductions",
+      "page": 3,
+      "section": "session-00.html#page-3",
+      "status": "explained"
+    },
+    {
+      "id": "C003.3",
+      "text": "Gardner as agricultural annotator",
+      "page": 3,
+      "section": "session-00.html#page-3",
+      "status": "explained"
+    },
+    {
+      "id": "C003.4",
+      "text": "introduction copyright",
+      "page": 3,
+      "section": "session-00.html#page-3",
+      "status": "explained"
+    },
+    {
+      "id": "C004.1",
+      "text": "Introduction followed by seven numbered chapters and further reading",
+      "page": 4,
+      "section": "session-00.html#page-4",
+      "status": "explained"
+    },
+    {
+      "id": "C004.2",
+      "text": "contents heading differs from introduction heading",
+      "page": 4,
+      "section": "session-00.html#page-4",
+      "status": "explained"
+    },
+    {
+      "id": "C005.1",
+      "text": "Courtney's problem of an unclear practical definition",
+      "page": 5,
+      "section": "session-01.html#page-5",
+      "status": "explained"
+    },
+    {
+      "id": "C005.2",
+      "text": "sympathetic Steiner biography",
+      "page": 5,
+      "section": "session-01.html#page-5",
+      "status": "explained"
+    },
+    {
+      "id": "C005.3",
+      "text": "spiritual science",
+      "page": 5,
+      "section": "session-01.html#page-5",
+      "status": "explained"
+    },
+    {
+      "id": "C005.4",
+      "text": "eight-lecture agricultural origin",
+      "page": 5,
+      "section": "session-01.html#page-5",
+      "status": "explained"
+    },
+    {
+      "id": "C006.1",
+      "text": "Reported agricultural deterioration",
+      "page": 6,
+      "section": "session-01.html#page-6",
+      "status": "explained"
+    },
+    {
+      "id": "C006.2",
+      "text": "fertilizer critique and Law of the Minimum",
+      "page": 6,
+      "section": "session-01.html#page-6",
+      "status": "explained"
+    },
+    {
+      "id": "C006.3",
+      "text": "dying Earth and withdrawing nature forces",
+      "page": 6,
+      "section": "session-01.html#page-6",
+      "status": "explained"
+    },
+    {
+      "id": "C006.4",
+      "text": "nutrition–spiritual development–preparations argument",
+      "page": 6,
+      "section": "session-01.html#page-6",
+      "status": "explained"
+    },
+    {
+      "id": "C006.5",
+      "text": "speculative account of delay",
+      "page": 6,
+      "section": "session-01.html#page-6",
+      "status": "explained"
+    },
+    {
+      "id": "C007.1",
+      "text": "Farm individuality",
+      "page": 7,
+      "section": "session-01.html#page-7",
+      "status": "explained"
+    },
+    {
+      "id": "C007.2",
+      "text": "celestial rhythms",
+      "page": 7,
+      "section": "session-01.html#page-7",
+      "status": "explained"
+    },
+    {
+      "id": "C007.3",
+      "text": "preparations as distinguishing practice",
+      "page": 7,
+      "section": "session-01.html#page-7",
+      "status": "explained"
+    },
+    {
+      "id": "C007.4",
+      "text": "concessions about other farming traditions",
+      "page": 7,
+      "section": "session-01.html#page-7",
+      "status": "explained"
+    },
+    {
+      "id": "C007.5",
+      "text": "Figure 1 preparation numbers",
+      "page": 7,
+      "section": "session-01.html#page-7",
+      "status": "explained"
+    },
+    {
+      "id": "C008.1",
+      "text": "500 manure/winter and 501 silica/summer polarity",
+      "page": 8,
+      "section": "session-01.html#page-8",
+      "status": "explained"
+    },
+    {
+      "id": "C008.2",
+      "text": "502 yarrow/bladder",
+      "page": 8,
+      "section": "session-01.html#page-8",
+      "status": "explained"
+    },
+    {
+      "id": "C008.3",
+      "text": "503 chamomile/intestine",
+      "page": 8,
+      "section": "session-01.html#page-8",
+      "status": "explained"
+    },
+    {
+      "id": "C008.4",
+      "text": "504 nettle",
+      "page": 8,
+      "section": "session-01.html#page-8",
+      "status": "explained"
+    },
+    {
+      "id": "C008.5",
+      "text": "505 oak/skull",
+      "page": 8,
+      "section": "session-01.html#page-8",
+      "status": "explained"
+    },
+    {
+      "id": "C008.6",
+      "text": "506 dandelion/membrane",
+      "page": 8,
+      "section": "session-01.html#page-8",
+      "status": "explained"
+    },
+    {
+      "id": "C008.7",
+      "text": "507 valerian",
+      "page": 8,
+      "section": "session-01.html#page-8",
+      "status": "explained"
+    },
+    {
+      "id": "C008.8",
+      "text": "508 horsetail",
+      "page": 8,
+      "section": "session-01.html#page-8",
+      "status": "explained"
+    },
+    {
+      "id": "C009.1",
+      "text": "Disputed status of 508",
+      "page": 9,
+      "section": "session-01.html#page-9",
+      "status": "explained"
+    },
+    {
+      "id": "C009.2",
+      "text": "grape Brix, topsoil, rain and dew anecdotes",
+      "page": 9,
+      "section": "session-01.html#page-9",
+      "status": "explained"
+    },
+    {
+      "id": "C009.3",
+      "text": "understanding through doing",
+      "page": 9,
+      "section": "session-01.html#page-9",
+      "status": "explained"
+    },
+    {
+      "id": "C009.4",
+      "text": "anthology selection and context caveats",
+      "page": 9,
+      "section": "session-01.html#page-9",
+      "status": "explained"
+    },
+    {
+      "id": "C010.1",
+      "text": "Courtney's explicit preparation and spiritual bias",
+      "page": 10,
+      "section": "session-02.html#page-10",
+      "status": "explained"
+    },
+    {
+      "id": "C010.2",
+      "text": "why GA 136 and GA 230 accompany agriculture",
+      "page": 10,
+      "section": "session-02.html#page-10",
+      "status": "explained"
+    },
+    {
+      "id": "C010.3",
+      "text": "nature-spirit nourishment interpretation",
+      "page": 10,
+      "section": "session-02.html#page-10",
+      "status": "explained"
+    },
+    {
+      "id": "C010.4",
+      "text": "limited explicit elemental reference in agriculture",
+      "page": 10,
+      "section": "session-02.html#page-10",
+      "status": "explained"
+    },
+    {
+      "id": "C011.1",
+      "text": "Practical versus spiritual definition",
+      "page": 11,
+      "section": "session-02.html#page-11",
+      "status": "explained"
+    },
+    {
+      "id": "C011.2",
+      "text": "Pfeiffer, Koepf and Wildfeuer",
+      "page": 11,
+      "section": "session-02.html#page-11",
+      "status": "explained"
+    },
+    {
+      "id": "C011.3",
+      "text": "secrecy and diluted public explanations",
+      "page": 11,
+      "section": "session-02.html#page-11",
+      "status": "explained"
+    },
+    {
+      "id": "C011.4",
+      "text": "Rodale–Pfeiffer history as Courtney's account",
+      "page": 11,
+      "section": "session-02.html#page-11",
+      "status": "explained"
+    },
+    {
+      "id": "C012.1",
+      "text": "Courtney's materialist characterization of organic agriculture",
+      "page": 12,
+      "section": "session-02.html#page-12",
+      "status": "explained"
+    },
+    {
+      "id": "C012.2",
+      "text": "living Earth within living cosmos",
+      "page": 12,
+      "section": "session-02.html#page-12",
+      "status": "explained"
+    },
+    {
+      "id": "C012.3",
+      "text": "calendar success reports and failed replication",
+      "page": 12,
+      "section": "session-02.html#page-12",
+      "status": "explained"
+    },
+    {
+      "id": "C013.1",
+      "text": "Tropical signs, equal sidereal sectors and astronomical constellations",
+      "page": 13,
+      "section": "session-02.html#page-13",
+      "status": "explained"
+    },
+    {
+      "id": "C013.2",
+      "text": "precession",
+      "page": 13,
+      "section": "session-02.html#page-13",
+      "status": "explained"
+    },
+    {
+      "id": "C013.3",
+      "text": "need for calendar research",
+      "page": 13,
+      "section": "session-02.html#page-13",
+      "status": "explained"
+    },
+    {
+      "id": "C013.4",
+      "text": "preparations and life forces",
+      "page": 13,
+      "section": "session-02.html#page-13",
+      "status": "explained"
+    },
+    {
+      "id": "C013.5",
+      "text": "Pfeiffer's practical rhetoric",
+      "page": 13,
+      "section": "session-02.html#page-13",
+      "status": "explained"
+    },
+    {
+      "id": "C014.1",
+      "text": "Compost Starter and Field Spray",
+      "page": 14,
+      "section": "session-02.html#page-14",
+      "status": "explained"
+    },
+    {
+      "id": "C014.2",
+      "text": "Koepf's spiritual framing",
+      "page": 14,
+      "section": "session-02.html#page-14",
+      "status": "explained"
+    },
+    {
+      "id": "C014.3",
+      "text": "Wildfeuer's critique of materialism",
+      "page": 14,
+      "section": "session-02.html#page-14",
+      "status": "explained"
+    },
+    {
+      "id": "C014.4",
+      "text": "changing audiences and degrees of disclosure",
+      "page": 14,
+      "section": "session-02.html#page-14",
+      "status": "explained"
+    },
+    {
+      "id": "C015.1",
+      "text": "Omission of horsetail",
+      "page": 15,
+      "section": "session-02.html#page-15",
+      "status": "explained"
+    },
+    {
+      "id": "C015.2",
+      "text": "Courtney's efficacy and courage argument",
+      "page": 15,
+      "section": "session-02.html#page-15",
+      "status": "explained"
+    },
+    {
+      "id": "C015.3",
+      "text": "personal interpretive path",
+      "page": 15,
+      "section": "session-02.html#page-15",
+      "status": "explained"
+    },
+    {
+      "id": "C015.4",
+      "text": "Pfeiffer-mediated urgency quotations",
+      "page": 15,
+      "section": "session-02.html#page-15",
+      "status": "explained"
+    },
+    {
+      "id": "C016.1",
+      "text": "Urgency and Earth healing",
+      "page": 16,
+      "section": "session-03.html#page-16",
+      "status": "explained"
+    },
+    {
+      "id": "C016.2",
+      "text": "plant as inverted human",
+      "page": 16,
+      "section": "session-03.html#page-16",
+      "status": "explained"
+    },
+    {
+      "id": "C016.3",
+      "text": "root/nerve-sense, leaf-flower/rhythm, fruit/metabolism",
+      "page": 16,
+      "section": "session-03.html#page-16",
+      "status": "explained"
+    },
+    {
+      "id": "C016.4",
+      "text": "physical, etheric, astral and ego across kingdoms",
+      "page": 16,
+      "section": "session-03.html#page-16",
+      "status": "explained"
+    },
+    {
+      "id": "C017.1",
+      "text": "Ninefold human being",
+      "page": 17,
+      "section": "session-03.html#page-17",
+      "status": "explained"
+    },
+    {
+      "id": "C017.2",
+      "text": "Figures 2–3 plant/human correspondences",
+      "page": 17,
+      "section": "session-03.html#page-17",
+      "status": "explained"
+    },
+    {
+      "id": "C017.3",
+      "text": "four formative ethers",
+      "page": 17,
+      "section": "session-03.html#page-17",
+      "status": "explained"
+    },
+    {
+      "id": "C017.4",
+      "text": "forces versus substances",
+      "page": 17,
+      "section": "session-03.html#page-17",
+      "status": "explained"
+    },
+    {
+      "id": "C017.5",
+      "text": "limestone and silica polarity",
+      "page": 17,
+      "section": "session-03.html#page-17",
+      "status": "explained"
+    },
+    {
+      "id": "C018.1",
+      "text": "Figure 4 ether/element correspondences",
+      "page": 18,
+      "section": "session-03.html#page-18",
+      "status": "explained"
+    },
+    {
+      "id": "C018.2",
+      "text": "Figure 5 geographic polarities",
+      "page": 18,
+      "section": "session-03.html#page-18",
+      "status": "explained"
+    },
+    {
+      "id": "C018.3",
+      "text": "clay and compost mediation",
+      "page": 18,
+      "section": "session-03.html#page-18",
+      "status": "explained"
+    },
+    {
+      "id": "C018.4",
+      "text": "Europe-centered compost tradition",
+      "page": 18,
+      "section": "session-03.html#page-18",
+      "status": "explained"
+    },
+    {
+      "id": "C018.5",
+      "text": "Courtney's Africa extension",
+      "page": 18,
+      "section": "session-03.html#page-18",
+      "status": "explained"
+    },
+    {
+      "id": "C019.1",
+      "text": "Podolinsky and prepared 500",
+      "page": 19,
+      "section": "session-03.html#page-19",
+      "status": "explained"
+    },
+    {
+      "id": "C019.2",
+      "text": "balancing Australian cosmic with earthly forces",
+      "page": 19,
+      "section": "session-03.html#page-19",
+      "status": "explained"
+    },
+    {
+      "id": "C019.3",
+      "text": "Courtney's American silica recommendation",
+      "page": 19,
+      "section": "session-03.html#page-19",
+      "status": "explained"
+    },
+    {
+      "id": "C019.4",
+      "text": "Porter distribution experience",
+      "page": 19,
+      "section": "session-03.html#page-19",
+      "status": "explained"
+    },
+    {
+      "id": "C019.5",
+      "text": "conflicting scorching warnings",
+      "page": 19,
+      "section": "session-03.html#page-19",
+      "status": "explained"
+    },
+    {
+      "id": "C020.1",
+      "text": "Horsetail dispute",
+      "page": 20,
+      "section": "session-04.html#page-20",
+      "status": "explained"
+    },
+    {
+      "id": "C020.2",
+      "text": "problem–solution reading of Agriculture III",
+      "page": 20,
+      "section": "session-04.html#page-20",
+      "status": "explained"
+    },
+    {
+      "id": "C020.3",
+      "text": "comet/plant and feminine/masculine analogies",
+      "page": 20,
+      "section": "session-04.html#page-20",
+      "status": "explained"
+    },
+    {
+      "id": "C020.4",
+      "text": "water/fire constellations",
+      "page": 20,
+      "section": "session-04.html#page-20",
+      "status": "explained"
+    },
+    {
+      "id": "C020.5",
+      "text": "rain-control claim and proof qualification",
+      "page": 20,
+      "section": "session-04.html#page-20",
+      "status": "explained"
+    },
+    {
+      "id": "C021.1",
+      "text": "Nine preparations as a totality",
+      "page": 21,
+      "section": "session-04.html#page-21",
+      "status": "explained"
+    },
+    {
+      "id": "C021.2",
+      "text": "Figure 6 comet analogy",
+      "page": 21,
+      "section": "session-04.html#page-21",
+      "status": "explained"
+    },
+    {
+      "id": "C021.3",
+      "text": "Lucifer and Ahriman geographic roles",
+      "page": 21,
+      "section": "session-04.html#page-21",
+      "status": "explained"
+    },
+    {
+      "id": "C021.4",
+      "text": "Asuras, Sorath, 666 and speculative 1998 deadline",
+      "page": 21,
+      "section": "session-04.html#page-21",
+      "status": "explained"
+    },
+    {
+      "id": "C022.1",
+      "text": "Catastrophe predictions and Courtney's preparation claim",
+      "page": 22,
+      "section": "session-04.html#page-22",
+      "status": "explained"
+    },
+    {
+      "id": "C022.2",
+      "text": "Shoreline mediation",
+      "page": 22,
+      "section": "session-04.html#page-22",
+      "status": "explained"
+    },
+    {
+      "id": "C022.3",
+      "text": "America beyond national borders",
+      "page": 22,
+      "section": "session-04.html#page-22",
+      "status": "explained"
+    },
+    {
+      "id": "C022.4",
+      "text": "projected constellations and national emblems",
+      "page": 22,
+      "section": "session-04.html#page-22",
+      "status": "explained"
+    },
+    {
+      "id": "C023.1",
+      "text": "Dixon's Mexican-mysteries narrative",
+      "page": 23,
+      "section": "session-04.html#page-23",
+      "status": "explained"
+    },
+    {
+      "id": "C023.2",
+      "text": "fear, sacrifice and fire-earth catastrophe mechanism",
+      "page": 23,
+      "section": "session-04.html#page-23",
+      "status": "explained"
+    },
+    {
+      "id": "C023.3",
+      "text": "nine subnature layers",
+      "page": 23,
+      "section": "session-04.html#page-23",
+      "status": "explained"
+    },
+    {
+      "id": "C023.4",
+      "text": "opposition to Golgotha",
+      "page": 23,
+      "section": "session-04.html#page-23",
+      "status": "explained"
+    },
+    {
+      "id": "C024.1",
+      "text": "Vitzliputzli, music and elemental redirection",
+      "page": 24,
+      "section": "session-04.html#page-24",
+      "status": "explained"
+    },
+    {
+      "id": "C024.2",
+      "text": "Figure 7 subnature/human correspondence and dates",
+      "page": 24,
+      "section": "session-04.html#page-24",
+      "status": "partly explained; fine diagram transcription deferred"
+    },
+    {
+      "id": "C024.3",
+      "text": "tone ether and water",
+      "page": 24,
+      "section": "session-04.html#page-24",
+      "status": "explained"
+    },
+    {
+      "id": "C024.4",
+      "text": "Powell and Emmerich as further voices",
+      "page": 24,
+      "section": "session-04.html#page-24",
+      "status": "explained"
+    },
+    {
+      "id": "C025.1",
+      "text": "Christ ether-body exception",
+      "page": 25,
+      "section": "session-05.html#page-25",
+      "status": "explained"
+    },
+    {
+      "id": "C025.2",
+      "text": "twelve-year and thirty-three-and-a-third-year rhythms",
+      "page": 25,
+      "section": "session-05.html#page-25",
+      "status": "explained"
+    },
+    {
+      "id": "C025.3",
+      "text": "1933/1945 interpretation",
+      "page": 25,
+      "section": "session-05.html#page-25",
+      "status": "explained"
+    },
+    {
+      "id": "C025.4",
+      "text": "atomic war and subnature",
+      "page": 25,
+      "section": "session-05.html#page-25",
+      "status": "explained"
+    },
+    {
+      "id": "C025.5",
+      "text": "1992–2004 fire-earth period",
+      "page": 25,
+      "section": "session-05.html#page-25",
+      "status": "explained"
+    },
+    {
+      "id": "C026.1",
+      "text": "Technological shielding speculation",
+      "page": 26,
+      "section": "session-05.html#page-26",
+      "status": "explained"
+    },
+    {
+      "id": "C026.2",
+      "text": "preparations and Earth's breathing",
+      "page": 26,
+      "section": "session-05.html#page-26",
+      "status": "explained"
+    },
+    {
+      "id": "C026.3",
+      "text": "downwind healing conjecture",
+      "page": 26,
+      "section": "session-05.html#page-26",
+      "status": "explained"
+    },
+    {
+      "id": "C026.4",
+      "text": "contrail anecdote",
+      "page": 26,
+      "section": "session-05.html#page-26",
+      "status": "explained"
+    },
+    {
+      "id": "C026.5",
+      "text": "Malsch foundation-stone quotation introduced",
+      "page": 26,
+      "section": "session-05.html#page-26",
+      "status": "explained"
+    },
+    {
+      "id": "C027.1",
+      "text": "Earth spiritualization in Malsch quotation",
+      "page": 27,
+      "section": "session-05.html#page-27",
+      "status": "explained"
+    },
+    {
+      "id": "C027.2",
+      "text": "Courtney's preparation inference",
+      "page": 27,
+      "section": "session-05.html#page-27",
+      "status": "explained"
+    },
+    {
+      "id": "C027.3",
+      "text": "Keyserlingk testimony through Powell",
+      "page": 27,
+      "section": "session-05.html#page-27",
+      "status": "explained"
+    },
+    {
+      "id": "C027.4",
+      "text": "golden interior, Shamballa, Christ and dangerous helper-beings",
+      "page": 27,
+      "section": "session-05.html#page-27",
+      "status": "explained"
+    },
+    {
+      "id": "C028.1",
+      "text": "Courtney identifies preparations as tools for helpers",
+      "page": 28,
+      "section": "session-05.html#page-28",
+      "status": "explained"
+    },
+    {
+      "id": "C028.2",
+      "text": "Powell's Sputnik and technological/cultural chronology",
+      "page": 28,
+      "section": "session-05.html#page-28",
+      "status": "explained"
+    },
+    {
+      "id": "C028.3",
+      "text": "drug/soul correspondences",
+      "page": 28,
+      "section": "session-05.html#page-28",
+      "status": "explained"
+    },
+    {
+      "id": "C028.4",
+      "text": "American geographic thesis",
+      "page": 28,
+      "section": "session-05.html#page-28",
+      "status": "explained"
+    },
+    {
+      "id": "C029.1",
+      "text": "Steiner quotation links passions to geological catastrophe",
+      "page": 29,
+      "section": "session-06.html#page-29",
+      "status": "explained"
+    },
+    {
+      "id": "C029.2",
+      "text": "ethical transformation of Earth layers",
+      "page": 29,
+      "section": "session-06.html#page-29",
+      "status": "explained"
+    },
+    {
+      "id": "C029.3",
+      "text": "Powell's Beatitudes correspondence",
+      "page": 29,
+      "section": "session-06.html#page-29",
+      "status": "explained"
+    },
+    {
+      "id": "C029.4",
+      "text": "future descent explicitly speculative",
+      "page": 29,
+      "section": "session-06.html#page-29",
+      "status": "explained"
+    },
+    {
+      "id": "C030.1",
+      "text": "War of All against All",
+      "page": 30,
+      "section": "session-06.html#page-30",
+      "status": "explained"
+    },
+    {
+      "id": "C030.2",
+      "text": "nine-stage vortex and indispensable 508 as Courtney's picture",
+      "page": 30,
+      "section": "session-06.html#page-30",
+      "status": "explained"
+    },
+    {
+      "id": "C030.3",
+      "text": "Michael sword quotation and interpretive extension",
+      "page": 30,
+      "section": "session-06.html#page-30",
+      "status": "explained"
+    },
+    {
+      "id": "C031.1",
+      "text": "Novalis through Steiner",
+      "page": 31,
+      "section": "session-06.html#page-31",
+      "status": "explained"
+    },
+    {
+      "id": "C031.2",
+      "text": "Christ as planetary spirit",
+      "page": 31,
+      "section": "session-06.html#page-31",
+      "status": "explained"
+    },
+    {
+      "id": "C031.3",
+      "text": "ecological responsibility",
+      "page": 31,
+      "section": "session-06.html#page-31",
+      "status": "explained"
+    },
+    {
+      "id": "C031.4",
+      "text": "generalized Indigenous comparison",
+      "page": 31,
+      "section": "session-06.html#page-31",
+      "status": "explained"
+    },
+    {
+      "id": "C031.5",
+      "text": "Klett's new elementals and Courtney's redeemed-elementals alternative",
+      "page": 31,
+      "section": "session-06.html#page-31",
+      "status": "explained"
+    },
+    {
+      "id": "C031.6",
+      "text": "love as selfless will",
+      "page": 31,
+      "section": "session-06.html#page-31",
+      "status": "explained"
+    },
+    {
+      "id": "C032.1",
+      "text": "Klett's free human deed",
+      "page": 32,
+      "section": "session-06.html#page-32",
+      "status": "explained"
+    },
+    {
+      "id": "C032.2",
+      "text": "Courtney's life-ether conclusion and all-nine imperative",
+      "page": 32,
+      "section": "session-06.html#page-32",
+      "status": "explained"
+    },
+    {
+      "id": "C032.3",
+      "text": "translation comparison in notes",
+      "page": 32,
+      "section": "session-06.html#page-32",
+      "status": "explained"
+    },
+    {
+      "id": "C032.4",
+      "text": "Law of the Minimum definition",
+      "page": 32,
+      "section": "session-06.html#page-32",
+      "status": "explained"
+    },
+    {
+      "id": "C033.1",
+      "text": "Notes 4–27: practical dose and sequential-spray references",
+      "page": 33,
+      "section": "session-07.html#page-33",
+      "status": "explained"
+    },
+    {
+      "id": "C033.2",
+      "text": "source trail through Pfeiffer, Koepf and Wildfeuer",
+      "page": 33,
+      "section": "session-07.html#page-33",
+      "status": "explained"
+    },
+    {
+      "id": "C033.3",
+      "text": "Geographic Medicine",
+      "page": 33,
+      "section": "session-07.html#page-33",
+      "status": "explained"
+    },
+    {
+      "id": "C033.4",
+      "text": "astrosophy definition",
+      "page": 33,
+      "section": "session-07.html#page-33",
+      "status": "explained"
+    },
+    {
+      "id": "C034.1",
+      "text": "Notes 28–46: Mexican Mysteries, Gates, Shoreline, Emmerich, Keyserlingk, Beatitudes, Michael, Novalis and Klett",
+      "page": 34,
+      "section": "session-07.html#page-34",
+      "status": "explained"
+    },
+    {
+      "id": "C034.2",
+      "text": "nested citation chain",
+      "page": 34,
+      "section": "session-07.html#page-34",
+      "status": "explained"
+    },
+    {
+      "id": "C035.1",
+      "text": "Means's introduction versus Steiner's lecture opening",
+      "page": 35,
+      "section": "session-08.html#page-35",
+      "status": "explained"
+    },
+    {
+      "id": "C035.2",
+      "text": "schooling of perception",
+      "page": 35,
+      "section": "session-08.html#page-35",
+      "status": "explained"
+    },
+    {
+      "id": "C035.3",
+      "text": "two elemental classes",
+      "page": 35,
+      "section": "session-08.html#page-35",
+      "status": "explained"
+    },
+    {
+      "id": "C035.4",
+      "text": "assumed spiritual-science audience",
+      "page": 35,
+      "section": "session-08.html#page-35",
+      "status": "explained"
+    },
+    {
+      "id": "C036.1",
+      "text": "Physical includes perception, thinking about perception and action",
+      "page": 36,
+      "section": "session-08.html#page-36",
+      "status": "explained"
+    },
+    {
+      "id": "C036.2",
+      "text": "spiritual impulse in moral action",
+      "page": 36,
+      "section": "session-08.html#page-36",
+      "status": "explained"
+    },
+    {
+      "id": "C036.3",
+      "text": "study as soul education",
+      "page": 36,
+      "section": "session-08.html#page-36",
+      "status": "explained"
+    },
+    {
+      "id": "C036.4",
+      "text": "changing interests",
+      "page": 36,
+      "section": "session-08.html#page-36",
+      "status": "explained"
+    },
+    {
+      "id": "C037.1",
+      "text": "Esotericism begins with committed study",
+      "page": 37,
+      "section": "session-08.html#page-37",
+      "status": "explained"
+    },
+    {
+      "id": "C037.2",
+      "text": "color-vision analogy",
+      "page": 37,
+      "section": "session-08.html#page-37",
+      "status": "explained"
+    },
+    {
+      "id": "C037.3",
+      "text": "educated feeling versus sentimentality and pride",
+      "page": 37,
+      "section": "session-08.html#page-37",
+      "status": "explained"
+    },
+    {
+      "id": "C037.4",
+      "text": "claimed occult access",
+      "page": 37,
+      "section": "session-08.html#page-37",
+      "status": "explained"
+    },
+    {
+      "id": "C038.1",
+      "text": "Etheric body definition",
+      "page": 38,
+      "section": "session-08.html#page-38",
+      "status": "explained"
+    },
+    {
+      "id": "C038.2",
+      "text": "human unity versus nature's plurality",
+      "page": 38,
+      "section": "session-08.html#page-38",
+      "status": "explained"
+    },
+    {
+      "id": "C038.3",
+      "text": "moral perception method",
+      "page": 38,
+      "section": "session-08.html#page-38",
+      "status": "explained"
+    },
+    {
+      "id": "C038.4",
+      "text": "blue-sky starting exercise",
+      "page": 38,
+      "section": "session-08.html#page-38",
+      "status": "explained"
+    },
+    {
+      "id": "C039.1",
+      "text": "Blue to devotion and infinity",
+      "page": 39,
+      "section": "session-09.html#page-39",
+      "status": "explained"
+    },
+    {
+      "id": "C039.2",
+      "text": "green to creative thinking",
+      "page": 39,
+      "section": "session-09.html#page-39",
+      "status": "explained"
+    },
+    {
+      "id": "C039.3",
+      "text": "disappearance of sensory impression",
+      "page": 39,
+      "section": "session-09.html#page-39",
+      "status": "explained"
+    },
+    {
+      "id": "C039.4",
+      "text": "experience claimed conditionally available to everyone",
+      "page": 39,
+      "section": "session-09.html#page-39",
+      "status": "explained"
+    },
+    {
+      "id": "C040.1",
+      "text": "Snow-whiteness to substance",
+      "page": 40,
+      "section": "session-09.html#page-40",
+      "status": "explained"
+    },
+    {
+      "id": "C040.2",
+      "text": "tonic/octave to wish and reason",
+      "page": 40,
+      "section": "session-09.html#page-40",
+      "status": "explained"
+    },
+    {
+      "id": "C040.3",
+      "text": "sympathy/antipathy",
+      "page": 40,
+      "section": "session-09.html#page-40",
+      "status": "explained"
+    },
+    {
+      "id": "C040.4",
+      "text": "inner response as proposed access beyond sensory veil",
+      "page": 40,
+      "section": "session-09.html#page-40",
+      "status": "explained"
+    },
+    {
+      "id": "C041.1",
+      "text": "Elemental world",
+      "page": 41,
+      "section": "session-10.html#page-41",
+      "status": "explained"
+    },
+    {
+      "id": "C041.2",
+      "text": "fixed form versus metamorphosis",
+      "page": 41,
+      "section": "session-10.html#page-41",
+      "status": "explained"
+    },
+    {
+      "id": "C041.3",
+      "text": "descriptive analogy",
+      "page": 41,
+      "section": "session-10.html#page-41",
+      "status": "explained"
+    },
+    {
+      "id": "C041.4",
+      "text": "mine warmth as preparatory impression",
+      "page": 41,
+      "section": "session-10.html#page-41",
+      "status": "explained"
+    },
+    {
+      "id": "C042.1",
+      "text": "Mineral beings and imaginative vision",
+      "page": 42,
+      "section": "session-10.html#page-42",
+      "status": "explained"
+    },
+    {
+      "id": "C042.2",
+      "text": "love and trained attention as conditions",
+      "page": 42,
+      "section": "session-10.html#page-42",
+      "status": "explained"
+    },
+    {
+      "id": "C042.3",
+      "text": "occult meaning of empirical",
+      "page": 42,
+      "section": "session-10.html#page-42",
+      "status": "explained"
+    },
+    {
+      "id": "C042.4",
+      "text": "waterfall, mist and changing forms",
+      "page": 42,
+      "section": "session-10.html#page-42",
+      "status": "explained"
+    },
+    {
+      "id": "C043.1",
+      "text": "Water beings draw plants downward-to-upward from surrounding space",
+      "page": 43,
+      "section": "session-10.html#page-43",
+      "status": "explained"
+    },
+    {
+      "id": "C043.2",
+      "text": "distinction from internal upward impulse",
+      "page": 43,
+      "section": "session-10.html#page-43",
+      "status": "explained"
+    },
+    {
+      "id": "C043.3",
+      "text": "descriptive observations before theory",
+      "page": 43,
+      "section": "session-10.html#page-43",
+      "status": "explained"
+    },
+    {
+      "id": "C044.1",
+      "text": "Lecture conclusion and GA 136 lecture 1 provenance",
+      "page": 44,
+      "section": "session-10.html#page-44",
+      "status": "explained"
+    },
+    {
+      "id": "C045.1",
+      "text": "Means's overview",
+      "page": 45,
+      "section": "session-11.html#page-45",
+      "status": "explained"
+    },
+    {
+      "id": "C045.2",
+      "text": "sylphs and ripening",
+      "page": 45,
+      "section": "session-11.html#page-45",
+      "status": "explained"
+    },
+    {
+      "id": "C045.3",
+      "text": "fire spirits and seeds",
+      "page": 45,
+      "section": "session-11.html#page-45",
+      "status": "explained"
+    },
+    {
+      "id": "C045.4",
+      "text": "cycles and planetary spirit",
+      "page": 45,
+      "section": "session-11.html#page-45",
+      "status": "explained"
+    },
+    {
+      "id": "C045.5",
+      "text": "Steiner resumes previous lecture",
+      "page": 45,
+      "section": "session-11.html#page-45",
+      "status": "explained"
+    },
+    {
+      "id": "C046.1",
+      "text": "Air beings flash rather than retain form",
+      "page": 46,
+      "section": "session-11.html#page-46",
+      "status": "explained"
+    },
+    {
+      "id": "C046.2",
+      "text": "dry illuminated air versus water",
+      "page": 46,
+      "section": "session-11.html#page-46",
+      "status": "explained"
+    },
+    {
+      "id": "C046.3",
+      "text": "three elemental territories",
+      "page": 46,
+      "section": "session-11.html#page-46",
+      "status": "explained"
+    },
+    {
+      "id": "C046.4",
+      "text": "seed protectors introduced",
+      "page": 46,
+      "section": "session-11.html#page-46",
+      "status": "explained"
+    },
+    {
+      "id": "C047.1",
+      "text": "Fire beings transform environmental warmth",
+      "page": 47,
+      "section": "session-11.html#page-47",
+      "status": "explained"
+    },
+    {
+      "id": "C047.2",
+      "text": "four element territories",
+      "page": 47,
+      "section": "session-11.html#page-47",
+      "status": "explained"
+    },
+    {
+      "id": "C047.3",
+      "text": "Earth's etheric multiplicity",
+      "page": 47,
+      "section": "session-11.html#page-47",
+      "status": "explained"
+    },
+    {
+      "id": "C047.4",
+      "text": "question of Earth's astral body",
+      "page": 47,
+      "section": "session-11.html#page-47",
+      "status": "explained"
+    },
+    {
+      "id": "C048.1",
+      "text": "Claimed conscious sleep and GA 10 reference",
+      "page": 48,
+      "section": "session-11.html#page-48",
+      "status": "explained"
+    },
+    {
+      "id": "C048.2",
+      "text": "astral departure",
+      "page": 48,
+      "section": "session-11.html#page-48",
+      "status": "explained"
+    },
+    {
+      "id": "C048.3",
+      "text": "higher spirits distribute elemental work by season and region",
+      "page": 48,
+      "section": "session-11.html#page-48",
+      "status": "explained"
+    },
+    {
+      "id": "C049.1",
+      "text": "Participation versus external observation",
+      "page": 49,
+      "section": "session-11.html#page-49",
+      "status": "explained"
+    },
+    {
+      "id": "C049.2",
+      "text": "thought/feeling/will of cycle spirits",
+      "page": 49,
+      "section": "session-11.html#page-49",
+      "status": "explained"
+    },
+    {
+      "id": "C049.3",
+      "text": "seasons, day/night and Earth's rotation",
+      "page": 49,
+      "section": "session-11.html#page-49",
+      "status": "explained"
+    },
+    {
+      "id": "C050.1",
+      "text": "Successive veils",
+      "page": 50,
+      "section": "session-12.html#page-50",
+      "status": "explained"
+    },
+    {
+      "id": "C050.2",
+      "text": "sleeping I versus awakened astral body",
+      "page": 50,
+      "section": "session-12.html#page-50",
+      "status": "explained"
+    },
+    {
+      "id": "C050.3",
+      "text": "fragmentation danger and Dionysian analogy",
+      "page": 50,
+      "section": "session-12.html#page-50",
+      "status": "explained"
+    },
+    {
+      "id": "C050.4",
+      "text": "need for safeguards",
+      "page": 50,
+      "section": "session-12.html#page-50",
+      "status": "explained"
+    },
+    {
+      "id": "C051.1",
+      "text": "Memory as truthful valuation of accomplished deeds",
+      "page": 51,
+      "section": "session-12.html#page-51",
+      "status": "explained"
+    },
+    {
+      "id": "C051.2",
+      "text": "unsupported reincarnation claims",
+      "page": 51,
+      "section": "session-12.html#page-51",
+      "status": "explained"
+    },
+    {
+      "id": "C051.3",
+      "text": "karma and unrealized merit",
+      "page": 51,
+      "section": "session-12.html#page-51",
+      "status": "explained"
+    },
+    {
+      "id": "C051.4",
+      "text": "conscience and increased dishonesty risk",
+      "page": 51,
+      "section": "session-12.html#page-51",
+      "status": "explained"
+    },
+    {
+      "id": "C052.1",
+      "text": "Preserved conscience and memory",
+      "page": 52,
+      "section": "session-12.html#page-52",
+      "status": "explained"
+    },
+    {
+      "id": "C052.2",
+      "text": "I as continuity",
+      "page": 52,
+      "section": "session-12.html#page-52",
+      "status": "explained"
+    },
+    {
+      "id": "C052.3",
+      "text": "union beyond locality",
+      "page": 52,
+      "section": "session-12.html#page-52",
+      "status": "explained"
+    },
+    {
+      "id": "C052.4",
+      "text": "spiritual Sun during sleep",
+      "page": 52,
+      "section": "session-12.html#page-52",
+      "status": "explained"
+    },
+    {
+      "id": "C053.1",
+      "text": "Planetary unity as beginning rather than full differentiation",
+      "page": 53,
+      "section": "session-13.html#page-53",
+      "status": "explained"
+    },
+    {
+      "id": "C053.2",
+      "text": "cosmic relationship task",
+      "page": 53,
+      "section": "session-13.html#page-53",
+      "status": "explained"
+    },
+    {
+      "id": "C053.3",
+      "text": "Earth's sense apparatus",
+      "page": 53,
+      "section": "session-13.html#page-53",
+      "status": "explained"
+    },
+    {
+      "id": "C053.4",
+      "text": "four-level sequence",
+      "page": 53,
+      "section": "session-13.html#page-53",
+      "status": "explained"
+    },
+    {
+      "id": "C054.1",
+      "text": "Forces as imprints of nature spirits",
+      "page": 54,
+      "section": "session-13.html#page-54",
+      "status": "explained"
+    },
+    {
+      "id": "C054.2",
+      "text": "laws as imprints of cycle spirits",
+      "page": 54,
+      "section": "session-13.html#page-54",
+      "status": "explained"
+    },
+    {
+      "id": "C054.3",
+      "text": "maya",
+      "page": 54,
+      "section": "session-13.html#page-54",
+      "status": "explained"
+    },
+    {
+      "id": "C054.4",
+      "text": "art, philosophy and meaning as planetary-spirit trace",
+      "page": 54,
+      "section": "session-13.html#page-54",
+      "status": "explained"
+    },
+    {
+      "id": "C055.1",
+      "text": "Four imprints",
+      "page": 55,
+      "section": "session-13.html#page-55",
+      "status": "explained"
+    },
+    {
+      "id": "C055.2",
+      "text": "human–Earth correspondence",
+      "page": 55,
+      "section": "session-13.html#page-55",
+      "status": "explained"
+    },
+    {
+      "id": "C055.3",
+      "text": "planetary perception and fellowship",
+      "page": 55,
+      "section": "session-13.html#page-55",
+      "status": "explained"
+    },
+    {
+      "id": "C055.4",
+      "text": "GA 136 lecture 2 provenance",
+      "page": 55,
+      "section": "session-13.html#page-55",
+      "status": "explained"
+    },
+    {
+      "id": "C056.1",
+      "text": "Means's plant-cycle synopsis",
+      "page": 56,
+      "section": "session-14.html#page-56",
+      "status": "explained"
+    },
+    {
+      "id": "C056.2",
+      "text": "shift to Steiner",
+      "page": 56,
+      "section": "session-14.html#page-56",
+      "status": "explained"
+    },
+    {
+      "id": "C056.3",
+      "text": "visible and invisible as a whole",
+      "page": 56,
+      "section": "session-14.html#page-56",
+      "status": "explained"
+    },
+    {
+      "id": "C057.1",
+      "text": "Plant mystery versus animal will",
+      "page": 57,
+      "section": "session-14.html#page-57",
+      "status": "explained"
+    },
+    {
+      "id": "C057.2",
+      "text": "loss of elemental knowledge",
+      "page": 57,
+      "section": "session-14.html#page-57",
+      "status": "explained"
+    },
+    {
+      "id": "C057.3",
+      "text": "gnomes as mineral mediators",
+      "page": 57,
+      "section": "session-14.html#page-57",
+      "status": "explained"
+    },
+    {
+      "id": "C057.4",
+      "text": "spiritual vision as claimed method",
+      "page": 57,
+      "section": "session-14.html#page-57",
+      "status": "explained"
+    },
+    {
+      "id": "C058.1",
+      "text": "Gnomes as immediate sense-intellect",
+      "page": 58,
+      "section": "session-14.html#page-58",
+      "status": "explained"
+    },
+    {
+      "id": "C058.2",
+      "text": "plant brings cosmic ideas downward",
+      "page": 58,
+      "section": "session-14.html#page-58",
+      "status": "explained"
+    },
+    {
+      "id": "C058.3",
+      "text": "autumn/winter preservation",
+      "page": 58,
+      "section": "session-14.html#page-58",
+      "status": "explained"
+    },
+    {
+      "id": "C058.4",
+      "text": "contrast with discursive reasoning",
+      "page": 58,
+      "section": "session-14.html#page-58",
+      "status": "explained"
+    },
+    {
+      "id": "C059.1",
+      "text": "Gnome irony about logic",
+      "page": 59,
+      "section": "session-14.html#page-59",
+      "status": "explained"
+    },
+    {
+      "id": "C059.2",
+      "text": "amphibian-form danger",
+      "page": 59,
+      "section": "session-14.html#page-59",
+      "status": "explained"
+    },
+    {
+      "id": "C059.3",
+      "text": "antipathy supplies upward thrust",
+      "page": 59,
+      "section": "session-14.html#page-59",
+      "status": "explained"
+    },
+    {
+      "id": "C059.4",
+      "text": "earthly home versus resistance to earthly fixation",
+      "page": 59,
+      "section": "session-14.html#page-59",
+      "status": "explained"
+    },
+    {
+      "id": "C060.1",
+      "text": "Undines as dreaming metamorphosis",
+      "page": 60,
+      "section": "session-14.html#page-60",
+      "status": "explained"
+    },
+    {
+      "id": "C060.2",
+      "text": "fish-form avoidance",
+      "page": 60,
+      "section": "session-14.html#page-60",
+      "status": "explained"
+    },
+    {
+      "id": "C060.3",
+      "text": "combining/separating substances",
+      "page": 60,
+      "section": "session-14.html#page-60",
+      "status": "explained"
+    },
+    {
+      "id": "C060.4",
+      "text": "water–air boundary and leaf chemistry",
+      "page": 60,
+      "section": "session-14.html#page-60",
+      "status": "explained"
+    },
+    {
+      "id": "C061.1",
+      "text": "Sylphs in air and warmth",
+      "page": 61,
+      "section": "session-15.html#page-61",
+      "status": "explained"
+    },
+    {
+      "id": "C061.2",
+      "text": "bird-flight cosmic music",
+      "page": 61,
+      "section": "session-15.html#page-61",
+      "status": "explained"
+    },
+    {
+      "id": "C061.3",
+      "text": "externally kindled ego",
+      "page": 61,
+      "section": "session-15.html#page-61",
+      "status": "explained"
+    },
+    {
+      "id": "C061.4",
+      "text": "love versus gnome/undine antipathy",
+      "page": 61,
+      "section": "session-15.html#page-61",
+      "status": "explained"
+    },
+    {
+      "id": "C062.1",
+      "text": "Sylph light and undine chemistry weave ideal plant form",
+      "page": 62,
+      "section": "session-15.html#page-62",
+      "status": "explained"
+    },
+    {
+      "id": "C062.2",
+      "text": "autumn descent to gnomes",
+      "page": 62,
+      "section": "session-15.html#page-62",
+      "status": "explained"
+    },
+    {
+      "id": "C062.3",
+      "text": "explicit rejection of botanical fertilization",
+      "page": 62,
+      "section": "session-15.html#page-62",
+      "status": "explained"
+    },
+    {
+      "id": "C063.1",
+      "text": "Fire spirits collect warmth",
+      "page": 63,
+      "section": "session-15.html#page-63",
+      "status": "explained"
+    },
+    {
+      "id": "C063.2",
+      "text": "pollen airships",
+      "page": 63,
+      "section": "session-15.html#page-63",
+      "status": "explained"
+    },
+    {
+      "id": "C063.3",
+      "text": "cosmic male seed and earthly female form",
+      "page": 63,
+      "section": "session-15.html#page-63",
+      "status": "explained"
+    },
+    {
+      "id": "C063.4",
+      "text": "cambium",
+      "page": 63,
+      "section": "session-15.html#page-63",
+      "status": "explained"
+    },
+    {
+      "id": "C063.5",
+      "text": "underground winter fertilization asserted literally",
+      "page": 63,
+      "section": "session-15.html#page-63",
+      "status": "explained"
+    },
+    {
+      "id": "C064.1",
+      "text": "Life, chemical, light and warmth ethers as cooperative cycle",
+      "page": 64,
+      "section": "session-15.html#page-64",
+      "status": "explained"
+    },
+    {
+      "id": "C064.2",
+      "text": "Goethe's instinctive objection",
+      "page": 64,
+      "section": "session-15.html#page-64",
+      "status": "explained"
+    },
+    {
+      "id": "C064.3",
+      "text": "insects and intensified fire-spirit affinity",
+      "page": 64,
+      "section": "session-15.html#page-64",
+      "status": "explained"
+    },
+    {
+      "id": "C065.1",
+      "text": "Bee aura",
+      "page": 65,
+      "section": "session-16.html#page-65",
+      "status": "explained"
+    },
+    {
+      "id": "C065.2",
+      "text": "spiritualized matter and human incarnation",
+      "page": 65,
+      "section": "session-16.html#page-65",
+      "status": "explained"
+    },
+    {
+      "id": "C065.3",
+      "text": "warmth returning to Earth",
+      "page": 65,
+      "section": "session-16.html#page-65",
+      "status": "explained"
+    },
+    {
+      "id": "C065.4",
+      "text": "wonder retained through explanation",
+      "page": 65,
+      "section": "session-16.html#page-65",
+      "status": "explained"
+    },
+    {
+      "id": "C065.5",
+      "text": "recap of cooperating forces",
+      "page": 65,
+      "section": "session-16.html#page-65",
+      "status": "explained"
+    },
+    {
+      "id": "C066.1",
+      "text": "Antipathy, density, gravity and magnetism",
+      "page": 66,
+      "section": "session-16.html#page-66",
+      "status": "explained"
+    },
+    {
+      "id": "C066.2",
+      "text": "sympathy, love and sacrifice",
+      "page": 66,
+      "section": "session-16.html#page-66",
+      "status": "explained"
+    },
+    {
+      "id": "C066.3",
+      "text": "opposing streams meet as plant life",
+      "page": 66,
+      "section": "session-16.html#page-66",
+      "status": "explained"
+    },
+    {
+      "id": "C066.4",
+      "text": "fertilization disagreement restated",
+      "page": 66,
+      "section": "session-16.html#page-66",
+      "status": "explained"
+    },
+    {
+      "id": "C067.1",
+      "text": "Means's animal/sleep synopsis",
+      "page": 67,
+      "section": "session-17.html#page-67",
+      "status": "explained"
+    },
+    {
+      "id": "C067.2",
+      "text": "harmful displaced forces",
+      "page": 67,
+      "section": "session-17.html#page-67",
+      "status": "explained"
+    },
+    {
+      "id": "C067.3",
+      "text": "Steiner's opening about lost perception",
+      "page": 67,
+      "section": "session-17.html#page-67",
+      "status": "explained"
+    },
+    {
+      "id": "C068.1",
+      "text": "Physical/etheric instruments as limit",
+      "page": 68,
+      "section": "session-17.html#page-68",
+      "status": "explained"
+    },
+    {
+      "id": "C068.2",
+      "text": "ancient Saturn developmental scheme",
+      "page": 68,
+      "section": "session-17.html#page-68",
+      "status": "explained"
+    },
+    {
+      "id": "C068.3",
+      "text": "animal incompleteness",
+      "page": 68,
+      "section": "session-17.html#page-68",
+      "status": "explained"
+    },
+    {
+      "id": "C068.4",
+      "text": "gnome gravity-body and vigilance",
+      "page": 68,
+      "section": "session-17.html#page-68",
+      "status": "explained"
+    },
+    {
+      "id": "C069.1",
+      "text": "Gnome attention and independence",
+      "page": 69,
+      "section": "session-17.html#page-69",
+      "status": "explained"
+    },
+    {
+      "id": "C069.2",
+      "text": "goblin proverb and classroom example",
+      "page": 69,
+      "section": "session-17.html#page-69",
+      "status": "explained"
+    },
+    {
+      "id": "C069.3",
+      "text": "dream masks",
+      "page": 69,
+      "section": "session-17.html#page-69",
+      "status": "explained"
+    },
+    {
+      "id": "C069.4",
+      "text": "unprepared death imagery",
+      "page": 69,
+      "section": "session-17.html#page-69",
+      "status": "explained"
+    },
+    {
+      "id": "C070.1",
+      "text": "Falling-asleep entombment image",
+      "page": 70,
+      "section": "session-17.html#page-70",
+      "status": "explained"
+    },
+    {
+      "id": "C070.2",
+      "text": "undines and external armor",
+      "page": 70,
+      "section": "session-17.html#page-70",
+      "status": "explained"
+    },
+    {
+      "id": "C070.3",
+      "text": "claimed inadequacy of material explanation",
+      "page": 70,
+      "section": "session-17.html#page-70",
+      "status": "explained"
+    },
+    {
+      "id": "C070.4",
+      "text": "Inspiration in deep sleep",
+      "page": 70,
+      "section": "session-17.html#page-70",
+      "status": "explained"
+    },
+    {
+      "id": "C071.1",
+      "text": "Sylph complements bird with metabolism/limbs",
+      "page": 71,
+      "section": "session-18.html#page-71",
+      "status": "explained"
+    },
+    {
+      "id": "C071.2",
+      "text": "bird-dependent ego",
+      "page": 71,
+      "section": "session-18.html#page-71",
+      "status": "explained"
+    },
+    {
+      "id": "C071.3",
+      "text": "awakening dream/light sensitivity",
+      "page": 71,
+      "section": "session-18.html#page-71",
+      "status": "explained"
+    },
+    {
+      "id": "C071.4",
+      "text": "butterfly complement introduced",
+      "page": 71,
+      "section": "session-18.html#page-71",
+      "status": "explained"
+    },
+    {
+      "id": "C072.1",
+      "text": "Winged-human composite",
+      "page": 72,
+      "section": "session-18.html#page-72",
+      "status": "explained"
+    },
+    {
+      "id": "C072.2",
+      "text": "upward versus downward complements",
+      "page": 72,
+      "section": "session-18.html#page-72",
+      "status": "explained"
+    },
+    {
+      "id": "C072.3",
+      "text": "fire spirits and observing thought",
+      "page": 72,
+      "section": "session-18.html#page-72",
+      "status": "explained"
+    },
+    {
+      "id": "C072.4",
+      "text": "world thoughts and reflected brain images",
+      "page": 72,
+      "section": "session-18.html#page-72",
+      "status": "explained"
+    },
+    {
+      "id": "C072.5",
+      "text": "Esoteric Science standpoint",
+      "page": 72,
+      "section": "session-18.html#page-72",
+      "status": "explained"
+    },
+    {
+      "id": "C073.1",
+      "text": "Benevolent and malevolent beings",
+      "page": 73,
+      "section": "session-18.html#page-73",
+      "status": "explained"
+    },
+    {
+      "id": "C073.2",
+      "text": "misplaced formative activity",
+      "page": 73,
+      "section": "session-18.html#page-73",
+      "status": "explained"
+    },
+    {
+      "id": "C073.3",
+      "text": "parasites",
+      "page": 73,
+      "section": "session-18.html#page-73",
+      "status": "explained"
+    },
+    {
+      "id": "C073.4",
+      "text": "attentiveness and spiritualist criticism",
+      "page": 73,
+      "section": "session-18.html#page-73",
+      "status": "explained"
+    },
+    {
+      "id": "C073.5",
+      "text": "brain-development paradox",
+      "page": 73,
+      "section": "session-18.html#page-73",
+      "status": "explained"
+    },
+    {
+      "id": "C074.1",
+      "text": "Spiritual lower brain versus physical upper brain",
+      "page": 74,
+      "section": "session-19.html#page-74",
+      "status": "explained"
+    },
+    {
+      "id": "C074.2",
+      "text": "elimination metamorphosis",
+      "page": 74,
+      "section": "session-19.html#page-74",
+      "status": "explained"
+    },
+    {
+      "id": "C074.3",
+      "text": "qualification about old remedies",
+      "page": 74,
+      "section": "session-19.html#page-74",
+      "status": "explained"
+    },
+    {
+      "id": "C074.4",
+      "text": "destructive and regenerative powers",
+      "page": 74,
+      "section": "session-19.html#page-74",
+      "status": "explained"
+    },
+    {
+      "id": "C074.5",
+      "text": "nightshade introduced",
+      "page": 74,
+      "section": "session-19.html#page-74",
+      "status": "explained"
+    },
+    {
+      "id": "C075.1",
+      "text": "Nightshade and bird/human difference",
+      "page": 75,
+      "section": "session-19.html#page-75",
+      "status": "explained"
+    },
+    {
+      "id": "C075.2",
+      "text": "poisonous almonds and displaced fire activity",
+      "page": 75,
+      "section": "session-19.html#page-75",
+      "status": "explained"
+    },
+    {
+      "id": "C075.3",
+      "text": "location determines beneficial versus harmful effect",
+      "page": 75,
+      "section": "session-19.html#page-75",
+      "status": "explained"
+    },
+    {
+      "id": "C076.1",
+      "text": "Brahma/Vishnu/Shiva correspondences",
+      "page": 76,
+      "section": "session-19.html#page-76",
+      "status": "explained"
+    },
+    {
+      "id": "C076.2",
+      "text": "visible–invisible cooperation",
+      "page": 76,
+      "section": "session-19.html#page-76",
+      "status": "explained"
+    },
+    {
+      "id": "C076.3",
+      "text": "death and rebirth",
+      "page": 76,
+      "section": "session-19.html#page-76",
+      "status": "explained"
+    },
+    {
+      "id": "C076.4",
+      "text": "earthly forms as readable signs",
+      "page": 76,
+      "section": "session-19.html#page-76",
+      "status": "explained"
+    },
+    {
+      "id": "C076.5",
+      "text": "highlighted recognition of supersensible nature",
+      "page": 76,
+      "section": "session-19.html#page-76",
+      "status": "explained"
+    },
+    {
+      "id": "C077.1",
+      "text": "Means's horn-preparation synopsis",
+      "page": 77,
+      "section": "session-20.html#page-77",
+      "status": "explained"
+    },
+    {
+      "id": "C077.2",
+      "text": "Steiner's whole-nature method",
+      "page": 77,
+      "section": "session-20.html#page-77",
+      "status": "explained"
+    },
+    {
+      "id": "C077.3",
+      "text": "critique of narrow investigation",
+      "page": 77,
+      "section": "session-20.html#page-77",
+      "status": "explained"
+    },
+    {
+      "id": "C078.1",
+      "text": "Finger/earlobe analogy",
+      "page": 78,
+      "section": "session-20.html#page-78",
+      "status": "explained"
+    },
+    {
+      "id": "C078.2",
+      "text": "historical protein example and long-term effects",
+      "page": 78,
+      "section": "session-20.html#page-78",
+      "status": "explained"
+    },
+    {
+      "id": "C078.3",
+      "text": "qualified criticism of scientific revision",
+      "page": 78,
+      "section": "session-20.html#page-78",
+      "status": "explained"
+    },
+    {
+      "id": "C078.4",
+      "text": "nourishment as forces",
+      "page": 78,
+      "section": "session-20.html#page-78",
+      "status": "explained"
+    },
+    {
+      "id": "C079.1",
+      "text": "Food as activity stimulus versus atmospheric substance",
+      "page": 79,
+      "section": "session-20.html#page-79",
+      "status": "explained"
+    },
+    {
+      "id": "C079.2",
+      "text": "experiment/theory distinction",
+      "page": 79,
+      "section": "session-20.html#page-79",
+      "status": "explained"
+    },
+    {
+      "id": "C079.3",
+      "text": "comb analogy",
+      "page": 79,
+      "section": "session-20.html#page-79",
+      "status": "explained"
+    },
+    {
+      "id": "C079.4",
+      "text": "tree comparison introduced",
+      "page": 79,
+      "section": "session-20.html#page-79",
+      "status": "explained"
+    },
+    {
+      "id": "C080.1",
+      "text": "Humus mound and bark analogy",
+      "page": 80,
+      "section": "session-20.html#page-80",
+      "status": "explained"
+    },
+    {
+      "id": "C080.2",
+      "text": "elevated earth and etheric vitality",
+      "page": 80,
+      "section": "session-20.html#page-80",
+      "status": "explained"
+    },
+    {
+      "id": "C080.3",
+      "text": "life extends beyond roots",
+      "page": 80,
+      "section": "session-20.html#page-80",
+      "status": "explained"
+    },
+    {
+      "id": "C080.4",
+      "text": "fertilization as soil enlivening",
+      "page": 80,
+      "section": "session-20.html#page-80",
+      "status": "explained"
+    },
+    {
+      "id": "C080.5",
+      "text": "plant parasitism metaphor",
+      "page": 80,
+      "section": "session-20.html#page-80",
+      "status": "explained"
+    },
+    {
+      "id": "C081.1",
+      "text": "Black-earth exception",
+      "page": 81,
+      "section": "session-21.html#page-81",
+      "status": "explained"
+    },
+    {
+      "id": "C081.2",
+      "text": "personal relationship to manure",
+      "page": 81,
+      "section": "session-21.html#page-81",
+      "status": "explained"
+    },
+    {
+      "id": "C081.3",
+      "text": "skin boundary and retained smell",
+      "page": 81,
+      "section": "session-21.html#page-81",
+      "status": "explained"
+    },
+    {
+      "id": "C081.4",
+      "text": "aromatic meadow",
+      "page": 81,
+      "section": "session-21.html#page-81",
+      "status": "explained"
+    },
+    {
+      "id": "C081.5",
+      "text": "nitrogen and living soil",
+      "page": 81,
+      "section": "session-21.html#page-81",
+      "status": "explained"
+    },
+    {
+      "id": "C082.1",
+      "text": "Minerals affect watery rather than earthy element in Steiner's account",
+      "page": 82,
+      "section": "session-21.html#page-82",
+      "status": "explained"
+    },
+    {
+      "id": "C082.2",
+      "text": "compost etheric/astral balance",
+      "page": 82,
+      "section": "session-21.html#page-82",
+      "status": "explained"
+    },
+    {
+      "id": "C082.3",
+      "text": "lime and oxygen",
+      "page": 82,
+      "section": "session-21.html#page-82",
+      "status": "explained"
+    },
+    {
+      "id": "C082.4",
+      "text": "pasture and inner animal vitality",
+      "page": 82,
+      "section": "session-21.html#page-82",
+      "status": "explained"
+    },
+    {
+      "id": "C083.1",
+      "text": "Layering and odor/nitrogen retention",
+      "page": 83,
+      "section": "session-21.html#page-83",
+      "status": "explained"
+    },
+    {
+      "id": "C083.2",
+      "text": "life and astrality",
+      "page": 83,
+      "section": "session-21.html#page-83",
+      "status": "explained"
+    },
+    {
+      "id": "C083.3",
+      "text": "horns/hoofs turn forces inward",
+      "page": 83,
+      "section": "session-21.html#page-83",
+      "status": "explained"
+    },
+    {
+      "id": "C083.4",
+      "text": "antlers send forces outward",
+      "page": 83,
+      "section": "session-21.html#page-83",
+      "status": "explained"
+    },
+    {
+      "id": "C083.5",
+      "text": "form and temperament",
+      "page": 83,
+      "section": "session-21.html#page-83",
+      "status": "explained"
+    },
+    {
+      "id": "C084.1",
+      "text": "Horn–digestion claim",
+      "page": 84,
+      "section": "session-21.html#page-84",
+      "status": "explained"
+    },
+    {
+      "id": "C084.2",
+      "text": "manure carries etheric/astral forces outward",
+      "page": 84,
+      "section": "session-21.html#page-84",
+      "status": "explained"
+    },
+    {
+      "id": "C084.3",
+      "text": "preserving forces through decay",
+      "page": 84,
+      "section": "session-21.html#page-84",
+      "status": "explained"
+    },
+    {
+      "id": "C084.4",
+      "text": "microbes treated as indicators",
+      "page": 84,
+      "section": "session-21.html#page-84",
+      "status": "explained"
+    },
+    {
+      "id": "C085.1",
+      "text": "Horn-manure burial and winter inwardness",
+      "page": 85,
+      "section": "session-22.html#page-85",
+      "status": "explained"
+    },
+    {
+      "id": "C085.2",
+      "text": "reported odor change",
+      "page": 85,
+      "section": "session-22.html#page-85",
+      "status": "explained"
+    },
+    {
+      "id": "C085.3",
+      "text": "concentration and dilution",
+      "page": 85,
+      "section": "session-22.html#page-85",
+      "status": "explained"
+    },
+    {
+      "id": "C085.4",
+      "text": "stirring reversal and intimate mixing",
+      "page": 85,
+      "section": "session-22.html#page-85",
+      "status": "explained"
+    },
+    {
+      "id": "C085.5",
+      "text": "personal participation",
+      "page": 85,
+      "section": "session-22.html#page-85",
+      "status": "explained"
+    },
+    {
+      "id": "C086.1",
+      "text": "Supplement to ordinary manure",
+      "page": 86,
+      "section": "session-22.html#page-86",
+      "status": "explained"
+    },
+    {
+      "id": "C086.2",
+      "text": "horn silica and summer polarity",
+      "page": 86,
+      "section": "session-22.html#page-86",
+      "status": "explained"
+    },
+    {
+      "id": "C086.3",
+      "text": "small dose and spraying",
+      "page": 86,
+      "section": "session-22.html#page-86",
+      "status": "explained"
+    },
+    {
+      "id": "C086.4",
+      "text": "upward/downward complement",
+      "page": 86,
+      "section": "session-22.html#page-86",
+      "status": "explained"
+    },
+    {
+      "id": "C086.5",
+      "text": "yield appearance versus nourishment",
+      "page": 86,
+      "section": "session-22.html#page-86",
+      "status": "explained"
+    },
+    {
+      "id": "C087.1",
+      "text": "Human-centered whole-nature conclusion",
+      "page": 87,
+      "section": "session-22.html#page-87",
+      "status": "explained"
+    },
+    {
+      "id": "C087.2",
+      "text": "dilution scaling untested",
+      "page": 87,
+      "section": "session-22.html#page-87",
+      "status": "explained"
+    },
+    {
+      "id": "C087.3",
+      "text": "hand versus machine",
+      "page": 87,
+      "section": "session-22.html#page-87",
+      "status": "explained"
+    },
+    {
+      "id": "C087.4",
+      "text": "Ritter-remedy analogy",
+      "page": 87,
+      "section": "session-22.html#page-87",
+      "status": "explained"
+    },
+    {
+      "id": "C088.1",
+      "text": "Enthusiasm as proposed mediator",
+      "page": 88,
+      "section": "session-22.html#page-88",
+      "status": "explained"
+    },
+    {
+      "id": "C088.2",
+      "text": "social stirring",
+      "page": 88,
+      "section": "session-22.html#page-88",
+      "status": "explained"
+    },
+    {
+      "id": "C088.3",
+      "text": "dilution requires remixing",
+      "page": 88,
+      "section": "session-22.html#page-88",
+      "status": "explained"
+    },
+    {
+      "id": "C088.4",
+      "text": "dynamic versus material effect",
+      "page": 88,
+      "section": "session-22.html#page-88",
+      "status": "explained"
+    },
+    {
+      "id": "C088.5",
+      "text": "initial misunderstanding of filtering question",
+      "page": 88,
+      "section": "session-22.html#page-88",
+      "status": "explained"
+    },
+    {
+      "id": "C089.1",
+      "text": "Strainer concession",
+      "page": 89,
+      "section": "session-23.html#page-89",
+      "status": "explained"
+    },
+    {
+      "id": "C089.2",
+      "text": "Swiss bucket and measures unresolved",
+      "page": 89,
+      "section": "session-23.html#page-89",
+      "status": "explained"
+    },
+    {
+      "id": "C089.3",
+      "text": "horn reuse tentative",
+      "page": 89,
+      "section": "session-23.html#page-89",
+      "status": "explained"
+    },
+    {
+      "id": "C089.4",
+      "text": "locality and hemispheric qualification",
+      "page": 89,
+      "section": "session-23.html#page-89",
+      "status": "explained"
+    },
+    {
+      "id": "C089.5",
+      "text": "cow age and horn size",
+      "page": 89,
+      "section": "session-23.html#page-89",
+      "status": "explained"
+    },
+    {
+      "id": "C090.1",
+      "text": "Female cow versus bull/ox horns",
+      "page": 90,
+      "section": "session-23.html#page-90",
+      "status": "explained"
+    },
+    {
+      "id": "C090.2",
+      "text": "sowing/reproduction/nutrition distinction",
+      "page": 90,
+      "section": "session-23.html#page-90",
+      "status": "explained"
+    },
+    {
+      "id": "C090.3",
+      "text": "sand and rain untested",
+      "page": 90,
+      "section": "session-23.html#page-90",
+      "status": "explained"
+    },
+    {
+      "id": "C090.4",
+      "text": "storage and disinfection claims",
+      "page": 90,
+      "section": "session-23.html#page-90",
+      "status": "explained"
+    },
+    {
+      "id": "C090.5",
+      "text": "seed chaos",
+      "page": 90,
+      "section": "session-23.html#page-90",
+      "status": "explained"
+    },
+    {
+      "id": "C091.1",
+      "text": "Optional silica and wheat/sainfoin comparison",
+      "page": 91,
+      "section": "session-23.html#page-91",
+      "status": "explained"
+    },
+    {
+      "id": "C091.2",
+      "text": "plot size empirical",
+      "page": 91,
+      "section": "session-23.html#page-91",
+      "status": "explained"
+    },
+    {
+      "id": "C091.3",
+      "text": "horn versus diluted-mixture storage",
+      "page": 91,
+      "section": "session-23.html#page-91",
+      "status": "explained"
+    },
+    {
+      "id": "C091.4",
+      "text": "spraying does not lose forces",
+      "page": 91,
+      "section": "session-23.html#page-91",
+      "status": "explained"
+    },
+    {
+      "id": "C091.5",
+      "text": "silica-horn storage",
+      "page": 91,
+      "section": "session-23.html#page-91",
+      "status": "explained"
+    },
+    {
+      "id": "C092.1",
+      "text": "Humus burial site",
+      "page": 92,
+      "section": "session-23.html#page-92",
+      "status": "explained"
+    },
+    {
+      "id": "C092.2",
+      "text": "machinery accepted with specific stirring reservation",
+      "page": 92,
+      "section": "session-23.html#page-92",
+      "status": "explained"
+    },
+    {
+      "id": "C092.3",
+      "text": "excessive dose and rank growth",
+      "page": 92,
+      "section": "session-23.html#page-92",
+      "status": "explained"
+    },
+    {
+      "id": "C092.4",
+      "text": "cow versus horse manure question",
+      "page": 92,
+      "section": "session-23.html#page-92",
+      "status": "explained"
+    },
+    {
+      "id": "C093.1",
+      "text": "Before-sowing preference and late trial",
+      "page": 93,
+      "section": "session-24.html#page-93",
+      "status": "explained"
+    },
+    {
+      "id": "C093.2",
+      "text": "horn reuse limit",
+      "page": 93,
+      "section": "session-24.html#page-93",
+      "status": "explained"
+    },
+    {
+      "id": "C093.3",
+      "text": "personal meditation/nitrogen claim",
+      "page": 93,
+      "section": "session-24.html#page-93",
+      "status": "explained"
+    },
+    {
+      "id": "C093.4",
+      "text": "seasonal concentration and pest-control proposal",
+      "page": 93,
+      "section": "session-24.html#page-93",
+      "status": "explained"
+    },
+    {
+      "id": "C094.1",
+      "text": "Peasant philosophy and cultural loss",
+      "page": 94,
+      "section": "session-24.html#page-94",
+      "status": "explained"
+    },
+    {
+      "id": "C094.2",
+      "text": "almanac anecdote",
+      "page": 94,
+      "section": "session-24.html#page-94",
+      "status": "explained"
+    },
+    {
+      "id": "C094.3",
+      "text": "translate intuition into numerical tables",
+      "page": 94,
+      "section": "session-24.html#page-94",
+      "status": "explained"
+    },
+    {
+      "id": "C094.4",
+      "text": "respect public understanding",
+      "page": 94,
+      "section": "session-24.html#page-94",
+      "status": "explained"
+    },
+    {
+      "id": "C094.5",
+      "text": "soil-dependent lime",
+      "page": 94,
+      "section": "session-24.html#page-94",
+      "status": "explained"
+    },
+    {
+      "id": "C095.1",
+      "text": "Compost turning and covering",
+      "page": 95,
+      "section": "session-24.html#page-95",
+      "status": "explained"
+    },
+    {
+      "id": "C095.2",
+      "text": "transitional potash magnesia",
+      "page": 95,
+      "section": "session-24.html#page-95",
+      "status": "explained"
+    },
+    {
+      "id": "C095.3",
+      "text": "ordinary manure remains necessary",
+      "page": 95,
+      "section": "session-24.html#page-95",
+      "status": "explained"
+    },
+    {
+      "id": "C095.4",
+      "text": "notes on black earth, feldspar, numbers 500/501 and bucket volume",
+      "page": 95,
+      "section": "session-24.html#page-95",
+      "status": "explained"
+    },
+    {
+      "id": "C096.1",
+      "text": "Means's six-preparation overview",
+      "page": 96,
+      "section": "session-25.html#page-96",
+      "status": "explained"
+    },
+    {
+      "id": "C096.2",
+      "text": "Steiner reiterates supplementation",
+      "page": 96,
+      "section": "session-25.html#page-96",
+      "status": "explained"
+    },
+    {
+      "id": "C096.3",
+      "text": "soil as continuation of plant life",
+      "page": 96,
+      "section": "session-25.html#page-96",
+      "status": "explained"
+    },
+    {
+      "id": "C096.4",
+      "text": "mound/bark bridge",
+      "page": 96,
+      "section": "session-25.html#page-96",
+      "status": "explained"
+    },
+    {
+      "id": "C097.1",
+      "text": "Acknowledge legitimate modern achievements",
+      "page": 97,
+      "section": "session-25.html#page-97",
+      "status": "explained"
+    },
+    {
+      "id": "C097.2",
+      "text": "farming removes forces",
+      "page": 97,
+      "section": "session-25.html#page-97",
+      "status": "explained"
+    },
+    {
+      "id": "C097.3",
+      "text": "flies/dirty-room analogy",
+      "page": 97,
+      "section": "session-25.html#page-97",
+      "status": "explained"
+    },
+    {
+      "id": "C097.4",
+      "text": "bacteria as effect and indicator rather than effective inoculant",
+      "page": 97,
+      "section": "session-25.html#page-97",
+      "status": "explained"
+    },
+    {
+      "id": "C098.1",
+      "text": "Positive proposals needed with criticism",
+      "page": 98,
+      "section": "session-25.html#page-98",
+      "status": "explained"
+    },
+    {
+      "id": "C098.2",
+      "text": "organic versus mineral enlivening",
+      "page": 98,
+      "section": "session-25.html#page-98",
+      "status": "explained"
+    },
+    {
+      "id": "C098.3",
+      "text": "macrocosm over microscopy",
+      "page": 98,
+      "section": "session-25.html#page-98",
+      "status": "explained"
+    },
+    {
+      "id": "C098.4",
+      "text": "earthly nutrients versus alleged heavenly trace inputs",
+      "page": 98,
+      "section": "session-25.html#page-98",
+      "status": "explained"
+    },
+    {
+      "id": "C099.1",
+      "text": "Exhaustion despite manure",
+      "page": 99,
+      "section": "session-25.html#page-99",
+      "status": "explained"
+    },
+    {
+      "id": "C099.2",
+      "text": "receptivity versus adding substances",
+      "page": 99,
+      "section": "session-25.html#page-99",
+      "status": "explained"
+    },
+    {
+      "id": "C099.3",
+      "text": "fine doses",
+      "page": 99,
+      "section": "session-25.html#page-99",
+      "status": "explained"
+    },
+    {
+      "id": "C099.4",
+      "text": "Kolisko and homeopathy",
+      "page": 99,
+      "section": "session-25.html#page-99",
+      "status": "explained"
+    },
+    {
+      "id": "C099.5",
+      "text": "horn sprays versus further manure treatment",
+      "page": 99,
+      "section": "session-25.html#page-99",
+      "status": "explained"
+    },
+    {
+      "id": "C100.1",
+      "text": "Substitution possible except nettle",
+      "page": 100,
+      "section": "session-26.html#page-100",
+      "status": "explained"
+    },
+    {
+      "id": "C100.2",
+      "text": "main organic elements and potash",
+      "page": 100,
+      "section": "session-26.html#page-100",
+      "status": "explained"
+    },
+    {
+      "id": "C100.3",
+      "text": "yarrow sulfur organization",
+      "page": 100,
+      "section": "session-26.html#page-100",
+      "status": "explained"
+    },
+    {
+      "id": "C100.4",
+      "text": "nature spirits and astral weakness",
+      "page": 100,
+      "section": "session-26.html#page-100",
+      "status": "explained"
+    },
+    {
+      "id": "C100.5",
+      "text": "wild presence and inflorescences",
+      "page": 100,
+      "section": "session-26.html#page-100",
+      "status": "explained"
+    },
+    {
+      "id": "C101.1",
+      "text": "Yarrow summer/winter preparation",
+      "page": 101,
+      "section": "session-26.html#page-101",
+      "status": "explained"
+    },
+    {
+      "id": "C101.2",
+      "text": "wide radiant effect and radium analogy",
+      "page": 101,
+      "section": "session-26.html#page-101",
+      "status": "explained"
+    },
+    {
+      "id": "C101.3",
+      "text": "nutrient reception",
+      "page": 101,
+      "section": "session-26.html#page-101",
+      "status": "explained"
+    },
+    {
+      "id": "C101.4",
+      "text": "highlighted deer/cosmos, antlers, urinary process and bladder forces",
+      "page": 101,
+      "section": "session-26.html#page-101",
+      "status": "explained"
+    },
+    {
+      "id": "C102.1",
+      "text": "Cow/deer contrast and bladder enhancement",
+      "page": 102,
+      "section": "session-26.html#page-102",
+      "status": "explained"
+    },
+    {
+      "id": "C102.2",
+      "text": "highlighted potash versus calcium",
+      "page": 102,
+      "section": "session-26.html#page-102",
+      "status": "explained"
+    },
+    {
+      "id": "C102.3",
+      "text": "chamomile's sulfur/calcium role",
+      "page": 102,
+      "section": "session-26.html#page-102",
+      "status": "explained"
+    },
+    {
+      "id": "C102.4",
+      "text": "intestinal sheath and winter earthy vitality",
+      "page": 102,
+      "section": "session-26.html#page-102",
+      "status": "explained"
+    },
+    {
+      "id": "C103.1",
+      "text": "Chamomile snow/sun setting, nitrogen retention and plant health",
+      "page": 103,
+      "section": "session-26.html#page-103",
+      "status": "explained"
+    },
+    {
+      "id": "C103.2",
+      "text": "mountain-railway analogy",
+      "page": 103,
+      "section": "session-26.html#page-103",
+      "status": "explained"
+    },
+    {
+      "id": "C103.3",
+      "text": "substitutions",
+      "page": 103,
+      "section": "session-26.html#page-103",
+      "status": "explained"
+    },
+    {
+      "id": "C103.4",
+      "text": "nettle sulfur/potash/calcium/iron and heart analogy",
+      "page": 103,
+      "section": "session-26.html#page-103",
+      "status": "explained"
+    },
+    {
+      "id": "C104.1",
+      "text": "Nettle iron redistribution qualification",
+      "page": 104,
+      "section": "session-27.html#page-104",
+      "status": "explained"
+    },
+    {
+      "id": "C104.2",
+      "text": "year-long burial without animal sheath",
+      "page": 104,
+      "section": "session-27.html#page-104",
+      "status": "explained"
+    },
+    {
+      "id": "C104.3",
+      "text": "intelligent manure/soil and nitrogen retention",
+      "page": 104,
+      "section": "session-27.html#page-104",
+      "status": "explained"
+    },
+    {
+      "id": "C104.4",
+      "text": "nutrition versus size",
+      "page": 104,
+      "section": "session-27.html#page-104",
+      "status": "explained"
+    },
+    {
+      "id": "C104.5",
+      "text": "diagnosis versus cure",
+      "page": 104,
+      "section": "session-27.html#page-104",
+      "status": "explained"
+    },
+    {
+      "id": "C105.1",
+      "text": "Organic calcium and oak",
+      "page": 105,
+      "section": "session-27.html#page-105",
+      "status": "explained"
+    },
+    {
+      "id": "C105.2",
+      "text": "etheric restraint and astral access",
+      "page": 105,
+      "section": "session-27.html#page-105",
+      "status": "explained"
+    },
+    {
+      "id": "C105.3",
+      "text": "skull, water and decay",
+      "page": 105,
+      "section": "session-27.html#page-105",
+      "status": "explained"
+    },
+    {
+      "id": "C105.4",
+      "text": "disease prevention claim",
+      "page": 105,
+      "section": "session-27.html#page-105",
+      "status": "explained"
+    },
+    {
+      "id": "C105.5",
+      "text": "silica-receptivity problem",
+      "page": 105,
+      "section": "session-27.html#page-105",
+      "status": "explained"
+    },
+    {
+      "id": "C106.1",
+      "text": "Alchemical potash/lime-to-nitrogen claim under hydrogen",
+      "page": 106,
+      "section": "session-27.html#page-106",
+      "status": "explained"
+    },
+    {
+      "id": "C106.2",
+      "text": "silicon transformation",
+      "page": 106,
+      "section": "session-27.html#page-106",
+      "status": "explained"
+    },
+    {
+      "id": "C106.3",
+      "text": "macrocosmic premise",
+      "page": 106,
+      "section": "session-27.html#page-106",
+      "status": "explained"
+    },
+    {
+      "id": "C106.4",
+      "text": "dandelion potassium–silica mediation",
+      "page": 106,
+      "section": "session-27.html#page-106",
+      "status": "explained"
+    },
+    {
+      "id": "C107.1",
+      "text": "Dandelion mesentery/winter",
+      "page": 107,
+      "section": "session-27.html#page-107",
+      "status": "explained"
+    },
+    {
+      "id": "C107.2",
+      "text": "plant sensitivity and distant resource uptake",
+      "page": 107,
+      "section": "session-27.html#page-107",
+      "status": "explained"
+    },
+    {
+      "id": "C107.3",
+      "text": "five solid additions",
+      "page": 107,
+      "section": "session-27.html#page-107",
+      "status": "explained"
+    },
+    {
+      "id": "C107.4",
+      "text": "valerian liquid/phosphorus",
+      "page": 107,
+      "section": "session-27.html#page-107",
+      "status": "explained"
+    },
+    {
+      "id": "C107.5",
+      "text": "six-preparation synthesis",
+      "page": 107,
+      "section": "session-27.html#page-107",
+      "status": "explained"
+    },
+    {
+      "id": "C108.1",
+      "text": "Male red deer and perennial nettle clarified",
+      "page": 108,
+      "section": "session-28.html#page-108",
+      "status": "explained"
+    },
+    {
+      "id": "C108.2",
+      "text": "rain balance and peat",
+      "page": 108,
+      "section": "session-28.html#page-108",
+      "status": "explained"
+    },
+    {
+      "id": "C108.3",
+      "text": "preparations also promote weeds",
+      "page": 108,
+      "section": "session-28.html#page-108",
+      "status": "explained"
+    },
+    {
+      "id": "C108.4",
+      "text": "Krantz method and long-term reservation",
+      "page": 108,
+      "section": "session-28.html#page-108",
+      "status": "explained"
+    },
+    {
+      "id": "C109.1",
+      "text": "Heating versus loose storage",
+      "page": 109,
+      "section": "session-28.html#page-109",
+      "status": "explained"
+    },
+    {
+      "id": "C109.2",
+      "text": "mound height/site",
+      "page": 109,
+      "section": "session-28.html#page-109",
+      "status": "explained"
+    },
+    {
+      "id": "C109.3",
+      "text": "vineyard adaptation deferred beyond selection",
+      "page": 109,
+      "section": "session-28.html#page-109",
+      "status": "explained"
+    },
+    {
+      "id": "C109.4",
+      "text": "unpaved soil contact",
+      "page": 109,
+      "section": "session-28.html#page-109",
+      "status": "explained"
+    },
+    {
+      "id": "C109.5",
+      "text": "sand/clay/loess distinctions",
+      "page": 109,
+      "section": "session-28.html#page-109",
+      "status": "explained"
+    },
+    {
+      "id": "C110.1",
+      "text": "Conflicting dandelion/yarrow fodder reports",
+      "page": 110,
+      "section": "session-28.html#page-110",
+      "status": "explained"
+    },
+    {
+      "id": "C110.2",
+      "text": "animal instinct claim",
+      "page": 110,
+      "section": "session-28.html#page-110",
+      "status": "explained"
+    },
+    {
+      "id": "C110.3",
+      "text": "dose and use versus inherent substance",
+      "page": 110,
+      "section": "session-28.html#page-110",
+      "status": "explained"
+    },
+    {
+      "id": "C110.4",
+      "text": "yeast/medicine analogy",
+      "page": 110,
+      "section": "session-28.html#page-110",
+      "status": "explained"
+    },
+    {
+      "id": "C110.5",
+      "text": "tiny cultivation area sufficient",
+      "page": 110,
+      "section": "session-28.html#page-110",
+      "status": "explained"
+    },
+    {
+      "id": "C111.1",
+      "text": "Storage after mixing",
+      "page": 111,
+      "section": "session-29.html#page-111",
+      "status": "explained"
+    },
+    {
+      "id": "C111.2",
+      "text": "separated burial",
+      "page": 111,
+      "section": "session-29.html#page-111",
+      "status": "explained"
+    },
+    {
+      "id": "C111.3",
+      "text": "surrounded placement and radiations",
+      "page": 111,
+      "section": "session-29.html#page-111",
+      "status": "explained"
+    },
+    {
+      "id": "C111.4",
+      "text": "distributed holes versus single-hole uncertainty",
+      "page": 111,
+      "section": "session-29.html#page-111",
+      "status": "explained"
+    },
+    {
+      "id": "C111.5",
+      "text": "Quercus robur",
+      "page": 111,
+      "section": "session-29.html#page-111",
+      "status": "explained"
+    },
+    {
+      "id": "C112.1",
+      "text": "Living outer bark",
+      "page": 112,
+      "section": "session-29.html#page-112",
+      "status": "explained"
+    },
+    {
+      "id": "C112.2",
+      "text": "topsoil/frost",
+      "page": 112,
+      "section": "session-29.html#page-112",
+      "status": "explained"
+    },
+    {
+      "id": "C112.3",
+      "text": "fine quartz",
+      "page": 112,
+      "section": "session-29.html#page-112",
+      "status": "explained"
+    },
+    {
+      "id": "C112.4",
+      "text": "food/air assimilation and glove analogy",
+      "page": 112,
+      "section": "session-29.html#page-112",
+      "status": "explained"
+    },
+    {
+      "id": "C112.5",
+      "text": "species and Kolisko notes",
+      "page": 112,
+      "section": "session-29.html#page-112",
+      "status": "explained"
+    },
+    {
+      "id": "C113.1",
+      "text": "77 percent refers to ash analysis",
+      "page": 113,
+      "section": "session-29.html#page-113",
+      "status": "explained"
+    },
+    {
+      "id": "C113.2",
+      "text": "Quercus robur versus rubra",
+      "page": 113,
+      "section": "session-29.html#page-113",
+      "status": "explained"
+    },
+    {
+      "id": "C113.3",
+      "text": "mesentery portion uncertain",
+      "page": 113,
+      "section": "session-29.html#page-113",
+      "status": "explained"
+    },
+    {
+      "id": "C113.4",
+      "text": "numbers 502–507",
+      "page": 113,
+      "section": "session-29.html#page-113",
+      "status": "explained"
+    },
+    {
+      "id": "C113.5",
+      "text": "deer and loess notes",
+      "page": 113,
+      "section": "session-29.html#page-113",
+      "status": "explained"
+    },
+    {
+      "id": "C114.1",
+      "text": "Highlighted Means near/distant planet distinction",
+      "page": 114,
+      "section": "session-30.html#page-114",
+      "status": "explained"
+    },
+    {
+      "id": "C114.2",
+      "text": "editor's confident pest synopsis",
+      "page": 114,
+      "section": "session-30.html#page-114",
+      "status": "explained"
+    },
+    {
+      "id": "C114.3",
+      "text": "Steiner's narrower examples-for-experiments opening",
+      "page": 114,
+      "section": "session-30.html#page-114",
+      "status": "explained"
+    },
+    {
+      "id": "C114.4",
+      "text": "weeds introduced",
+      "page": 114,
+      "section": "session-30.html#page-114",
+      "status": "explained"
+    },
+    {
+      "id": "C115.1",
+      "text": "Weed as human relational category",
+      "page": 115,
+      "section": "session-30.html#page-115",
+      "status": "explained"
+    },
+    {
+      "id": "C115.2",
+      "text": "near planets through soil/lime and distant planets/silica",
+      "page": 115,
+      "section": "session-30.html#page-115",
+      "status": "explained"
+    },
+    {
+      "id": "C115.3",
+      "text": "phylloxera historical example",
+      "page": 115,
+      "section": "session-30.html#page-115",
+      "status": "explained"
+    },
+    {
+      "id": "C116.1",
+      "text": "Seed succession versus edible expansion",
+      "page": 116,
+      "section": "session-30.html#page-116",
+      "status": "explained"
+    },
+    {
+      "id": "C116.2",
+      "text": "reflected sunlight plus lunar forces",
+      "page": 116,
+      "section": "session-30.html#page-116",
+      "status": "explained"
+    },
+    {
+      "id": "C116.3",
+      "text": "former Moon–Earth unity",
+      "page": 116,
+      "section": "session-30.html#page-116",
+      "status": "explained"
+    },
+    {
+      "id": "C116.4",
+      "text": "reproduction as intensified growth",
+      "page": 116,
+      "section": "session-30.html#page-116",
+      "status": "explained"
+    },
+    {
+      "id": "C117.1",
+      "text": "Moon as cosmic reflector",
+      "page": 117,
+      "section": "session-30.html#page-117",
+      "status": "explained"
+    },
+    {
+      "id": "C117.2",
+      "text": "physical proof unavailable",
+      "page": 117,
+      "section": "session-30.html#page-117",
+      "status": "explained"
+    },
+    {
+      "id": "C117.3",
+      "text": "full/new moon and delayed effects",
+      "page": 117,
+      "section": "session-30.html#page-117",
+      "status": "explained"
+    },
+    {
+      "id": "C117.4",
+      "text": "wet-year weeds",
+      "page": 117,
+      "section": "session-30.html#page-117",
+      "status": "explained"
+    },
+    {
+      "id": "C117.5",
+      "text": "block lunar receptivity",
+      "page": 117,
+      "section": "session-30.html#page-117",
+      "status": "explained"
+    },
+    {
+      "id": "C118.1",
+      "text": "Seed-ash counterforce",
+      "page": 118,
+      "section": "session-31.html#page-118",
+      "status": "explained"
+    },
+    {
+      "id": "C118.2",
+      "text": "four-year claim",
+      "page": 118,
+      "section": "session-31.html#page-118",
+      "status": "explained"
+    },
+    {
+      "id": "C118.3",
+      "text": "dandelion use versus suppression",
+      "page": 118,
+      "section": "session-31.html#page-118",
+      "status": "explained"
+    },
+    {
+      "id": "C118.4",
+      "text": "Kolisko appeal",
+      "page": 118,
+      "section": "session-31.html#page-118",
+      "status": "explained"
+    },
+    {
+      "id": "C118.5",
+      "text": "external testing as compromise with inherent certainty",
+      "page": 118,
+      "section": "session-31.html#page-118",
+      "status": "explained"
+    },
+    {
+      "id": "C119.1",
+      "text": "Arithmetic/workforce analogy",
+      "page": 119,
+      "section": "session-31.html#page-119",
+      "status": "explained"
+    },
+    {
+      "id": "C119.2",
+      "text": "adverse results reinterpreted",
+      "page": 119,
+      "section": "session-31.html#page-119",
+      "status": "explained"
+    },
+    {
+      "id": "C119.3",
+      "text": "historical mouse-control criticism",
+      "page": 119,
+      "section": "session-31.html#page-119",
+      "status": "explained"
+    },
+    {
+      "id": "C119.4",
+      "text": "neighboring fields and imposed uniformity",
+      "page": 119,
+      "section": "session-31.html#page-119",
+      "status": "explained"
+    },
+    {
+      "id": "C120.1",
+      "text": "Shared understanding versus police",
+      "page": 120,
+      "section": "session-31.html#page-120",
+      "status": "explained"
+    },
+    {
+      "id": "C120.2",
+      "text": "mouse-skin ash and Venus/Scorpion",
+      "page": 120,
+      "section": "session-31.html#page-120",
+      "status": "explained"
+    },
+    {
+      "id": "C120.3",
+      "text": "animal retention of lunar forces",
+      "page": 120,
+      "section": "session-31.html#page-120",
+      "status": "explained"
+    },
+    {
+      "id": "C120.4",
+      "text": "zodiacal extension",
+      "page": 120,
+      "section": "session-31.html#page-120",
+      "status": "explained"
+    },
+    {
+      "id": "C120.5",
+      "text": "wide effect and coverage gaps",
+      "page": 120,
+      "section": "session-31.html#page-120",
+      "status": "explained"
+    },
+    {
+      "id": "C121.1",
+      "text": "Rodent/insect distinction",
+      "page": 121,
+      "section": "session-32.html#page-121",
+      "status": "explained"
+    },
+    {
+      "id": "C121.2",
+      "text": "beet-nematode symptoms",
+      "page": 121,
+      "section": "session-32.html#page-121",
+      "status": "explained"
+    },
+    {
+      "id": "C121.3",
+      "text": "displaced cosmic influences",
+      "page": 121,
+      "section": "session-32.html#page-121",
+      "status": "explained"
+    },
+    {
+      "id": "C121.4",
+      "text": "conditions-of-life analogy",
+      "page": 121,
+      "section": "session-32.html#page-121",
+      "status": "explained"
+    },
+    {
+      "id": "C121.5",
+      "text": "cockchafer and four-year cycle",
+      "page": 121,
+      "section": "session-32.html#page-121",
+      "status": "explained"
+    },
+    {
+      "id": "C122.1",
+      "text": "Whole-creature ash versus skin",
+      "page": 122,
+      "section": "session-32.html#page-122",
+      "status": "explained"
+    },
+    {
+      "id": "C122.2",
+      "text": "Sun/Bull timing and broader constellation arc",
+      "page": 122,
+      "section": "session-32.html#page-122",
+      "status": "explained"
+    },
+    {
+      "id": "C122.3",
+      "text": "seasonally differentiated Sun",
+      "page": 122,
+      "section": "session-32.html#page-122",
+      "status": "explained"
+    },
+    {
+      "id": "C122.4",
+      "text": "fire reverses fertility",
+      "page": 122,
+      "section": "session-32.html#page-122",
+      "status": "explained"
+    },
+    {
+      "id": "C122.5",
+      "text": "nematode/insect conflation",
+      "page": 122,
+      "section": "session-32.html#page-122",
+      "status": "explained"
+    },
+    {
+      "id": "C123.1",
+      "text": "Pepper metaphor and spreading destruction",
+      "page": 123,
+      "section": "session-32.html#page-123",
+      "status": "explained"
+    },
+    {
+      "id": "C123.2",
+      "text": "plants lack internal astral body",
+      "page": 123,
+      "section": "session-32.html#page-123",
+      "status": "explained"
+    },
+    {
+      "id": "C123.3",
+      "text": "disease redefined",
+      "page": 123,
+      "section": "session-32.html#page-123",
+      "status": "explained"
+    },
+    {
+      "id": "C123.4",
+      "text": "lunar water mediation and wet seasons",
+      "page": 123,
+      "section": "session-32.html#page-123",
+      "status": "explained"
+    },
+    {
+      "id": "C124.1",
+      "text": "Over-enlivened soil and raised soil-level image",
+      "page": 124,
+      "section": "session-32.html#page-124",
+      "status": "explained"
+    },
+    {
+      "id": "C124.2",
+      "text": "fungi and seeds",
+      "page": 124,
+      "section": "session-32.html#page-124",
+      "status": "explained"
+    },
+    {
+      "id": "C124.3",
+      "text": "horsetail limits mediation",
+      "page": 124,
+      "section": "session-32.html#page-124",
+      "status": "explained"
+    },
+    {
+      "id": "C124.4",
+      "text": "kidney analogy and testing qualification",
+      "page": 124,
+      "section": "session-32.html#page-124",
+      "status": "explained"
+    },
+    {
+      "id": "C125.1",
+      "text": "Compass analogy and macrocosmic method",
+      "page": 125,
+      "section": "session-33.html#page-125",
+      "status": "explained"
+    },
+    {
+      "id": "C125.2",
+      "text": "science as grasp of effective forces",
+      "page": 125,
+      "section": "session-33.html#page-125",
+      "status": "explained"
+    },
+    {
+      "id": "C125.3",
+      "text": "ethics question",
+      "page": 125,
+      "section": "session-33.html#page-125",
+      "status": "explained"
+    },
+    {
+      "id": "C125.4",
+      "text": "famine/civilization necessity argument",
+      "page": 125,
+      "section": "session-33.html#page-125",
+      "status": "explained"
+    },
+    {
+      "id": "C126.1",
+      "text": "Misuse and Atlantis narrative",
+      "page": 126,
+      "section": "session-33.html#page-126",
+      "status": "explained"
+    },
+    {
+      "id": "C126.2",
+      "text": "restricted knowledge versus printing",
+      "page": 126,
+      "section": "session-33.html#page-126",
+      "status": "explained"
+    },
+    {
+      "id": "C126.3",
+      "text": "moral education and agricultural circle",
+      "page": 126,
+      "section": "session-33.html#page-126",
+      "status": "explained"
+    },
+    {
+      "id": "C126.4",
+      "text": "good/harm depends on location",
+      "page": 126,
+      "section": "session-33.html#page-126",
+      "status": "explained"
+    },
+    {
+      "id": "C126.5",
+      "text": "nerve-cord distinction",
+      "page": 126,
+      "section": "session-33.html#page-126",
+      "status": "explained"
+    },
+    {
+      "id": "C127.1",
+      "text": "Chamomile/nettle identification",
+      "page": 127,
+      "section": "session-33.html#page-127",
+      "status": "explained"
+    },
+    {
+      "id": "C127.2",
+      "text": "aquatic weeds and underground pests",
+      "page": 127,
+      "section": "session-33.html#page-127",
+      "status": "explained"
+    },
+    {
+      "id": "C127.3",
+      "text": "vineyards explicitly untested",
+      "page": 127,
+      "section": "session-33.html#page-127",
+      "status": "explained"
+    },
+    {
+      "id": "C127.4",
+      "text": "downy mildew",
+      "page": 127,
+      "section": "session-33.html#page-127",
+      "status": "explained"
+    },
+    {
+      "id": "C127.5",
+      "text": "wine/abstinence tension and pragmatic tolerance",
+      "page": 127,
+      "section": "session-33.html#page-127",
+      "status": "explained"
+    },
+    {
+      "id": "C128.1",
+      "text": "Stag-bladder substitute unknown",
+      "page": 128,
+      "section": "session-34.html#page-128",
+      "status": "explained"
+    },
+    {
+      "id": "C128.2",
+      "text": "insect constellation tests",
+      "page": 128,
+      "section": "session-34.html#page-128",
+      "status": "explained"
+    },
+    {
+      "id": "C128.3",
+      "text": "Venus visibility wording",
+      "page": 128,
+      "section": "session-34.html#page-128",
+      "status": "explained"
+    },
+    {
+      "id": "C128.4",
+      "text": "potato tops",
+      "page": 128,
+      "section": "session-34.html#page-128",
+      "status": "explained"
+    },
+    {
+      "id": "C128.5",
+      "text": "peritoneum not tripe",
+      "page": 128,
+      "section": "session-34.html#page-128",
+      "status": "explained"
+    },
+    {
+      "id": "C128.6",
+      "text": "fruit-crop detail deferred",
+      "page": 128,
+      "section": "session-34.html#page-128",
+      "status": "explained"
+    },
+    {
+      "id": "C128.7",
+      "text": "ordinary practice retained",
+      "page": 128,
+      "section": "session-34.html#page-128",
+      "status": "explained"
+    },
+    {
+      "id": "C129.1",
+      "text": "Continue proven methods",
+      "page": 129,
+      "section": "session-34.html#page-129",
+      "status": "explained"
+    },
+    {
+      "id": "C129.2",
+      "text": "sheep/pig manure qualification",
+      "page": 129,
+      "section": "session-34.html#page-129",
+      "status": "explained"
+    },
+    {
+      "id": "C129.3",
+      "text": "mineral-fertilizer rejection and reduced manure-frequency prediction",
+      "page": 129,
+      "section": "session-34.html#page-129",
+      "status": "explained"
+    },
+    {
+      "id": "C129.4",
+      "text": "queen-breeding warning",
+      "page": 129,
+      "section": "session-34.html#page-129",
+      "status": "explained"
+    },
+    {
+      "id": "C129.5",
+      "text": "larva/adult timing",
+      "page": 129,
+      "section": "session-34.html#page-129",
+      "status": "explained"
+    },
+    {
+      "id": "C129.6",
+      "text": "sign/constellation note",
+      "page": 129,
+      "section": "session-34.html#page-129",
+      "status": "explained"
+    },
+    {
+      "id": "C130.1",
+      "text": "Hollow chamomile head identification",
+      "page": 130,
+      "section": "session-34.html#page-130",
+      "status": "explained"
+    },
+    {
+      "id": "C130.2",
+      "text": "uncertain garden-chamomile identity",
+      "page": 130,
+      "section": "session-34.html#page-130",
+      "status": "explained"
+    },
+    {
+      "id": "C130.3",
+      "text": "editorial temporal reading of Venus behind Sun",
+      "page": 130,
+      "section": "session-34.html#page-130",
+      "status": "explained"
+    },
+    {
+      "id": "C130.4",
+      "text": "eight-year Venus cycle",
+      "page": 130,
+      "section": "session-34.html#page-130",
+      "status": "explained"
+    },
+    {
+      "id": "C130.5",
+      "text": "Bees source",
+      "page": 130,
+      "section": "session-34.html#page-130",
+      "status": "explained"
+    },
+    {
+      "id": "C131.1",
+      "text": "Further reading: Goethean observation, plants, soil, bees, nutrition and formative processes",
+      "page": 131,
+      "section": "session-35.html#page-131",
+      "status": "explained"
+    },
+    {
+      "id": "C131.2",
+      "text": "bibliographic pointers rather than supplied chapters",
+      "page": 131,
+      "section": "session-35.html#page-131",
+      "status": "explained"
+    },
+    {
+      "id": "C132.1",
+      "text": "Further reading: farming histories, preparations, Goethean science, planetary botany, medicinal plants and Pfeiffer",
+      "page": 132,
+      "section": "session-35.html#page-132",
+      "status": "explained"
+    },
+    {
+      "id": "C133.1",
+      "text": "Further reading: practice, perception, water, land relationships and full Agriculture editions",
+      "page": 133,
+      "section": "session-35.html#page-133",
+      "status": "explained"
+    },
+    {
+      "id": "C133.2",
+      "text": "bibliography is not evidence of verification",
+      "page": 133,
+      "section": "session-35.html#page-133",
+      "status": "explained"
+    },
+    {
+      "id": "C134.1",
+      "text": "Further reading: Steiner's wider cosmology, knowledge, medicine and nature",
+      "page": 134,
+      "section": "session-35.html#page-134",
+      "status": "explained"
+    },
+    {
+      "id": "C134.2",
+      "text": "related authors on horticulture and landscapes",
+      "page": 134,
+      "section": "session-35.html#page-134",
+      "status": "explained"
+    },
+    {
+      "id": "C135.1",
+      "text": "Further reading: calendars, etheric forces, nature-spirit interviews, flowforms and preparation manuals",
+      "page": 135,
+      "section": "session-35.html#page-135",
+      "status": "explained"
+    },
+    {
+      "id": "C135.2",
+      "text": "historical editions and access limits",
+      "page": 135,
+      "section": "session-35.html#page-135",
+      "status": "explained"
+    }
+  ],
+  "limits": [
+    "All 135 capture pages have an inventory entry and teaching commentary. Every identified highlighted idea has a dedicated explanation and an audit link. Page coverage does not mean every printed sentence is reproduced.",
+    "Figure 7’s conceptual structure and the dates discussed in the surrounding prose are taught. A reliable transcription and independent reconciliation of every small handwritten date and alternative layer label in that diagram remains deferred; no such details have been guessed.",
+    "The bibliography is covered as a reading map. The contents of all its listed books, and the complete source works behind Courtney’s nested citations, have not been independently read or verified in this task.",
+    "The full GA 136, GA 230 and GA 327 cycles are outside this anthology. Later orchard, vineyard, livestock and other discussions promised within the original courses are not silently reconstructed.",
+    "The scientific comparisons address specific disagreements. They are not a systematic review of all biodynamic farming trials, preparation efficacy or calendar research.",
+    "The new detailed companion is in English. The existing nine-lesson course remains available in English and Brazilian Portuguese; a complete Portuguese translation of this expansion is not included.",
+    "Page references are PDF captures. The Kindle locations recorded for highlights identify the displayed capture start, not the exact beginning of each highlighted sentence.",
+    "The PDF contains flattened page images and no PDF annotation objects. Four visible yellow highlight passages were identified by screening all 135 extracted images and inspecting the candidates at full size. Marks absent from this supplied capture cannot be audited."
+  ]
+}
