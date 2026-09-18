@@ -1,0 +1,177 @@
+{
+  "source": "2012 Sophia Books; Kelly/Barton; GA 57, Berlin 4 March 1909",
+  "sourceChapters": 1,
+  "studySessions": 6,
+  "concepts": [
+    {
+      "id": "FT.01",
+      "sourcePages": "1–5",
+      "lesson": "FT-L1",
+      "explanationSection": "FT-L1 / Detailed teaching / FT.01",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.02",
+      "sourcePages": "6",
+      "lesson": "FT-L1",
+      "explanationSection": "FT-L1 / Detailed teaching / FT.02",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.03",
+      "sourcePages": "7",
+      "lesson": "FT-L1",
+      "explanationSection": "FT-L1 / Detailed teaching / FT.03",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.04",
+      "sourcePages": "7",
+      "lesson": "FT-L1",
+      "explanationSection": "FT-L1 / Detailed teaching / FT.04",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.05",
+      "sourcePages": "7–8",
+      "lesson": "FT-L1",
+      "explanationSection": "FT-L1 / Detailed teaching / FT.05",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.06",
+      "sourcePages": "8",
+      "lesson": "FT-L2",
+      "explanationSection": "FT-L2 / Detailed teaching / FT.06",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.07",
+      "sourcePages": "8",
+      "lesson": "FT-L2",
+      "explanationSection": "FT-L2 / Detailed teaching / FT.07",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.08",
+      "sourcePages": "8–9",
+      "lesson": "FT-L2",
+      "explanationSection": "FT-L2 / Detailed teaching / FT.08",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.09",
+      "sourcePages": "8–10",
+      "lesson": "FT-L2",
+      "explanationSection": "FT-L2 / Detailed teaching / FT.09",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.10",
+      "sourcePages": "9–10",
+      "lesson": "FT-L2",
+      "explanationSection": "FT-L2 / Detailed teaching / FT.10",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.11",
+      "sourcePages": "9–10",
+      "lesson": "FT-L2",
+      "explanationSection": "FT-L2 / Detailed teaching / FT.11",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.12",
+      "sourcePages": "9–10",
+      "lesson": "FT-L2",
+      "explanationSection": "FT-L2 / Detailed teaching / FT.12",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.13",
+      "sourcePages": "10–11",
+      "lesson": "FT-L3",
+      "explanationSection": "FT-L3 / Detailed teaching / FT.13",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.14",
+      "sourcePages": "11",
+      "lesson": "FT-L3",
+      "explanationSection": "FT-L3 / Detailed teaching / FT.14",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.15",
+      "sourcePages": "11",
+      "lesson": "FT-L4",
+      "explanationSection": "FT-L4 / Detailed teaching / FT.15",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.16",
+      "sourcePages": "11–12",
+      "lesson": "FT-L4",
+      "explanationSection": "FT-L4 / Detailed teaching / FT.16",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.17",
+      "sourcePages": "12",
+      "lesson": "FT-L4",
+      "explanationSection": "FT-L4 / Detailed teaching / FT.17",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.18",
+      "sourcePages": "12",
+      "lesson": "FT-L4",
+      "explanationSection": "FT-L4 / Detailed teaching / FT.18",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.19",
+      "sourcePages": "13",
+      "lesson": "FT-L5",
+      "explanationSection": "FT-L5 / Detailed teaching / FT.19",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.20",
+      "sourcePages": "13",
+      "lesson": "FT-L5",
+      "explanationSection": "FT-L5 / Detailed teaching / FT.20",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.21",
+      "sourcePages": "14",
+      "lesson": "FT-L6",
+      "explanationSection": "FT-L6 / Detailed teaching / FT.21",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.22",
+      "sourcePages": "15",
+      "lesson": "FT-L6",
+      "explanationSection": "FT-L6 / Detailed teaching / FT.22",
+      "status": "explained-in-study-draft"
+    },
+    {
+      "id": "FT.23",
+      "sourcePages": "16",
+      "lesson": "FT-L6",
+      "explanationSection": "FT-L6 / Detailed teaching / FT.23",
+      "status": "explained-in-study-draft"
+    }
+  ],
+  "highlights": {
+    "scope": "Lecture pages 6–13, notes 14 and publisher note 16 individually inspected",
+    "result": "No obvious coloured user highlights seen",
+    "limits": "Faint marks and other copies not certified"
+  },
+  "pending": [
+    "Independent background research",
+    "Final bilingual website integration"
+  ]
+}

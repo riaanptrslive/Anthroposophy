@@ -1,0 +1,1005 @@
+{
+  "scope": "Fresh sequential reading and explanatory research notes; not final website lessons",
+  "witnesses": [
+    {
+      "id": "fuller",
+      "pdfPages": 147,
+      "substantiveSuppliedPages": "1–144",
+      "missing": "Title/imprint, foreword, translation introduction and beginning of 1918 preface",
+      "excluded": "Part dividers and advertising at 145–147 are not substantive chapters"
+    },
+    {
+      "id": "essential",
+      "pdfPages": 70,
+      "editor": "Frederick Amrine",
+      "year": 2022,
+      "format": "Abridgement plus six editorial appendices",
+      "repetition": "Capture 63 repeats much of 62, then continues"
+    }
+  ],
+  "units": [
+    {
+      "id": "FF.01",
+      "heading": "An independent foundation, with a missing opening — PDF 1–2",
+      "file": "freedom-framing-and-appendix.md",
+      "anchor": "ff01--an-independent-foundation-with-a-missing-opening--pdf-12",
+      "explanationWords": 98,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FF.02",
+      "heading": "Appropriation rather than received conviction — PDF 2–3, revised 1894 preface",
+      "file": "freedom-framing-and-appendix.md",
+      "anchor": "ff02--appropriation-rather-than-received-conviction--pdf-23-revised-1894-preface",
+      "explanationWords": 95,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FF.03",
+      "heading": "Philosophy as an art of living with ideas — PDF 3–4",
+      "file": "freedom-framing-and-appendix.md",
+      "anchor": "ff03--philosophy-as-an-art-of-living-with-ideas--pdf-34",
+      "explanationWords": 98,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FC.01",
+      "heading": "Two incomplete abstractions and a fuller reality — PDF 129–131",
+      "file": "freedom-framing-and-appendix.md",
+      "anchor": "fc01--two-incomplete-abstractions-and-a-fuller-reality--pdf-129131",
+      "explanationWords": 98,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FC.02",
+      "heading": "Shared ideas and immanent spiritual language — PDF 131–132",
+      "file": "freedom-framing-and-appendix.md",
+      "anchor": "fc02--shared-ideas-and-immanent-spiritual-language--pdf-131132",
+      "explanationWords": 96,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FC.03",
+      "heading": "A purpose becomes an act through an individual — PDF 132–133",
+      "file": "freedom-framing-and-appendix.md",
+      "anchor": "fc03--a-purpose-becomes-an-act-through-an-individual--pdf-132133",
+      "explanationWords": 93,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FC.04",
+      "heading": "Why Part II depends on Part I — PDF 133–134, first addition",
+      "file": "freedom-framing-and-appendix.md",
+      "anchor": "fc04--why-part-ii-depends-on-part-i--pdf-133134-first-addition",
+      "explanationWords": 97,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FC.05",
+      "heading": "Foundation is not deduction of later spiritual findings — PDF 134–135, second addition",
+      "file": "freedom-framing-and-appendix.md",
+      "anchor": "fc05--foundation-is-not-deduction-of-later-spiritual-findings--pdf-134135-second-addition",
+      "explanationWords": 95,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FA.01",
+      "heading": "The enclosure premise creates the other-minds problem — PDF 136–137",
+      "file": "freedom-framing-and-appendix.md",
+      "anchor": "fa01--the-enclosure-premise-creates-the-other-minds-problem--pdf-136137",
+      "explanationWords": 95,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FA.02",
+      "heading": "Encounter and alternating attention — PDF 137–138",
+      "file": "freedom-framing-and-appendix.md",
+      "anchor": "fa02--encounter-and-alternating-attention--pdf-137138",
+      "explanationWords": 102,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FA.03",
+      "heading": "Hartmann's alternatives and counting tests — PDF 138–139",
+      "file": "freedom-framing-and-appendix.md",
+      "anchor": "fa03--hartmanns-alternatives-and-counting-tests--pdf-138139",
+      "explanationWords": 90,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FA.04",
+      "heading": "A continuous object is more than an intermittent percept — PDF 139–140",
+      "file": "freedom-framing-and-appendix.md",
+      "anchor": "fa04--a-continuous-object-is-more-than-an-intermittent-percept--pdf-139140",
+      "explanationWords": 99,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FN.01",
+      "heading": "Notes can define terms or establish textual boundaries — PDF 141–143",
+      "file": "freedom-framing-and-appendix.md",
+      "anchor": "fn01--notes-can-define-terms-or-establish-textual-boundaries--pdf-141143",
+      "explanationWords": 112,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FN.02",
+      "heading": "A reading list is an editorial route, not more source evidence — PDF 144",
+      "file": "freedom-framing-and-appendix.md",
+      "anchor": "fn02--a-reading-list-is-an-editorial-route-not-more-source-evidence--pdf-144",
+      "explanationWords": 104,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F1.01",
+      "heading": "The dispute and the wrong target. PDF 6–7",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f101--the-dispute-and-the-wrong-target-pdf-67",
+      "explanationWords": 81,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F1.02",
+      "heading": "Spinoza's conscious stone. PDF 7–8",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f102--spinozas-conscious-stone-pdf-78",
+      "explanationWords": 104,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F1.03",
+      "heading": "Character and inward determination. PDF 8–9",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f103--character-and-inward-determination-pdf-89",
+      "explanationWords": 90,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F1.04",
+      "heading": "Doing what one wants and forming the want. PDF 9–10",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f104--doing-what-one-wants-and-forming-the-want-pdf-910",
+      "explanationWords": 89,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F1.05",
+      "heading": "The donkey analogy and thought in feeling. PDF 10–11",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f105--the-donkey-analogy-and-thought-in-feeling-pdf-1011",
+      "explanationWords": 111,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F2.01",
+      "heading": "Dissatisfaction and the I/world division. PDF 12–13",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f201--dissatisfaction-and-the-iworld-division-pdf-1213",
+      "explanationWords": 92,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F2.02",
+      "heading": "Dualism's bridge problem and three monisms. PDF 13–14",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f202--dualisms-bridge-problem-and-three-monisms-pdf-1314",
+      "explanationWords": 84,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F2.03",
+      "heading": "Materialism and spiritualism shift the problem. PDF 14–15",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f203--materialism-and-spiritualism-shift-the-problem-pdf-1415",
+      "explanationWords": 95,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F2.04",
+      "heading": "Lange, circularity and the search within nature. PDF 15–16",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f204--lange-circularity-and-the-search-within-nature-pdf-1516",
+      "explanationWords": 105,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F2.05",
+      "heading": "A qualification about vocabulary. PDF 16",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f205--a-qualification-about-vocabulary-pdf-16",
+      "explanationWords": 57,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F3.01",
+      "heading": "Observing an event and supplying its conceptual connection. PDF 17–19",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f301--observing-an-event-and-supplying-its-conceptual-connection-pdf-1719",
+      "explanationWords": 100,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F3.02",
+      "heading": "Thinking is ordinarily overlooked and observed retrospectively. PDF 19–21",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f302--thinking-is-ordinarily-overlooked-and-observed-retrospectively-pdf-1921",
+      "explanationWords": 91,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F3.03",
+      "heading": "Why feeling is not the same case. PDF 19–20",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f303--why-feeling-is-not-the-same-case-pdf-1920",
+      "explanationWords": 92,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F3.04",
+      "heading": "Conceptual reasons and physiological conditions. PDF 21–22",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f304--conceptual-reasons-and-physiological-conditions-pdf-2122",
+      "explanationWords": 114,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F3.05",
+      "heading": "Descartes and the content of the secure starting point. PDF 22–23",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f305--descartes-and-the-content-of-the-secure-starting-point-pdf-2223",
+      "explanationWords": 91,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F3.06",
+      "heading": "Creating, knowing and the digestion objection. PDF 23–25",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f306--creating-knowing-and-the-digestion-objection-pdf-2325",
+      "explanationWords": 109,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F3.07",
+      "heading": "Consciousness and the order of explanation. PDF 25–26",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f307--consciousness-and-the-order-of-explanation-pdf-2526",
+      "explanationWords": 101,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F3.08",
+      "heading": "The 1918 addition: activity, willing and an alleged hidden process. PDF 26–28",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f308--the-1918-addition-activity-willing-and-an-alleged-hidden-process-pdf-2628",
+      "explanationWords": 119,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F4.01",
+      "heading": "Thinking precedes the concept as a starting point. PDF 29–30",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f401--thinking-precedes-the-concept-as-a-starting-point-pdf-2930",
+      "explanationWords": 108,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F4.02",
+      "heading": "Subject, object and the meaning of percept. PDF 30–32",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f402--subject-object-and-the-meaning-of-percept-pdf-3032",
+      "explanationWords": 114,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F4.03",
+      "heading": "Correcting appearances and two dependencies. PDF 32–34",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f403--correcting-appearances-and-two-dependencies-pdf-3234",
+      "explanationWords": 107,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F4.04",
+      "heading": "Berkeley, mental pictures and critical idealism. PDF 33–36",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f404--berkeley-mental-pictures-and-critical-idealism-pdf-3336",
+      "explanationWords": 122,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F4.05",
+      "heading": "The physiological argument and its alleged circularity. PDF 36–40",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f405--the-physiological-argument-and-its-alleged-circularity-pdf-3640",
+      "explanationWords": 176,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F5.01",
+      "heading": "An invalid proof does not settle a thesis. PDF 41–44",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f501--an-invalid-proof-does-not-settle-a-thesis-pdf-4144",
+      "explanationWords": 131,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F5.02",
+      "heading": "Why exclude the concept from the thing? PDF 44–46",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f502--why-exclude-the-concept-from-the-thing-pdf-4446",
+      "explanationWords": 110,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F5.03",
+      "heading": "Shared content, finite standpoint. PDF 46–47",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f503--shared-content-finite-standpoint-pdf-4647",
+      "explanationWords": 88,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F5.04",
+      "heading": "Intuition, explanatory relations and the will objection. PDF 47–51",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f504--intuition-explanatory-relations-and-the-will-objection-pdf-4751",
+      "explanationWords": 154,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F5.05",
+      "heading": "The 1918 addition: work through one's own confusion. PDF 51–53",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f505--the-1918-addition-work-through-ones-own-confusion-pdf-5153",
+      "explanationWords": 112,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F6.01",
+      "heading": "The skin is not an absolute metaphysical boundary. PDF 54–55",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f601--the-skin-is-not-an-absolute-metaphysical-boundary-pdf-5455",
+      "explanationWords": 85,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F6.02",
+      "heading": "Mental picture as individualized concept. PDF 55–56",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f602--mental-picture-as-individualized-concept-pdf-5556",
+      "explanationWords": 94,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F6.03",
+      "heading": "Experience needs both encounter and understanding. PDF 56",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f603--experience-needs-both-encounter-and-understanding-pdf-56",
+      "explanationWords": 61,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F6.04",
+      "heading": "Feeling and two sources of individuality. PDF 56–57",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f604--feeling-and-two-sources-of-individuality-pdf-5657",
+      "explanationWords": 88,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F7.01",
+      "heading": "Two factors are not two worlds. PDF 58–60",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f701--two-factors-are-not-two-worlds-pdf-5860",
+      "explanationWords": 110,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F7.02",
+      "heading": "How two factors become four. PDF 60–61",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f702--how-two-factors-become-four-pdf-6061",
+      "explanationWords": 83,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F7.03",
+      "heading": "Naïve realism becomes metaphysical realism. PDF 61–64",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f703--naïve-realism-becomes-metaphysical-realism-pdf-6164",
+      "explanationWords": 107,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F7.04",
+      "heading": "Different knowers and inductive inference. PDF 65–67",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f704--different-knowers-and-inductive-inference-pdf-6567",
+      "explanationWords": 93,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F7.05",
+      "heading": "The 1918 addition: more senses are not the whole issue. PDF 67–69",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f705--the-1918-addition-more-senses-are-not-the-whole-issue-pdf-6769",
+      "explanationWords": 121,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F8.01",
+      "heading": "The self is also something to be understood — PDF 71",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f801--the-self-is-also-something-to-be-understood--pdf-71",
+      "explanationWords": 88,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F8.02",
+      "heading": "Feeling gives an immediate relation, not a complete explanation — PDF 71–72",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f802--feeling-gives-an-immediate-relation-not-a-complete-explanation--pdf-7172",
+      "explanationWords": 102,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F8.03",
+      "heading": "Experienced willing and a universal will are different claims — PDF 72–73",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f803--experienced-willing-and-a-universal-will-are-different-claims--pdf-7273",
+      "explanationWords": 101,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F8.04",
+      "heading": "Living thinking versus its pale retrospective image — PDF 74, 1918 addition",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f804--living-thinking-versus-its-pale-retrospective-image--pdf-74-1918-addition",
+      "explanationWords": 102,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F9.01",
+      "heading": "Intuition, bodily traces and ego-consciousness — PDF 75–77",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f901--intuition-bodily-traces-and-ego-consciousness--pdf-7577",
+      "explanationWords": 110,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F9.02",
+      "heading": "Motive and driving force — PDF 77–79",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f902--motive-and-driving-force--pdf-7779",
+      "explanationWords": 104,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F9.03",
+      "heading": "Pleasure, authority and conscience as motives — PDF 79–81",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f903--pleasure-authority-and-conscience-as-motives--pdf-7981",
+      "explanationWords": 92,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F9.04",
+      "heading": "Insight is not one compulsory goal — PDF 81–82",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f904--insight-is-not-one-compulsory-goal--pdf-8182",
+      "explanationWords": 98,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F9.05",
+      "heading": "Ethical individualism and love of the deed — PDF 82–84",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f905--ethical-individualism-and-love-of-the-deed--pdf-8284",
+      "explanationWords": 99,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F9.06",
+      "heading": "The criminal impulse objection and developmental limits — PDF 84–85",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f906--the-criminal-impulse-objection-and-developmental-limits--pdf-8485",
+      "explanationWords": 106,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F9.07",
+      "heading": "Shared ideas and the possibility of disagreement — PDF 85–86",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f907--shared-ideas-and-the-possibility-of-disagreement--pdf-8586",
+      "explanationWords": 111,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F9.08",
+      "heading": "Freedom as achieved possibility — PDF 86–88",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f908--freedom-as-achieved-possibility--pdf-8688",
+      "explanationWords": 101,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F9.09",
+      "heading": "Institutions and the individual — PDF 88–89",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f909--institutions-and-the-individual--pdf-8889",
+      "explanationWords": 102,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F10.01",
+      "heading": "Authority can change its location without changing its structure — PDF 90–91",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1001--authority-can-change-its-location-without-changing-its-structure--pdf-9091",
+      "explanationWords": 91,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F10.02",
+      "heading": "Hartmann's cosmic task is a reported opposing view — PDF 91–92",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1002--hartmanns-cosmic-task-is-a-reported-opposing-view--pdf-9192",
+      "explanationWords": 82,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F10.03",
+      "heading": "Actual constraint and the developmental possibility of freedom — PDF 92–94",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1003--actual-constraint-and-the-developmental-possibility-of-freedom--pdf-9294",
+      "explanationWords": 99,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F10.04",
+      "heading": "Universal content, individual realization, and materialist explanation — PDF 94–95, additions",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1004--universal-content-individual-realization-and-materialist-explanation--pdf-9495-additions",
+      "explanationWords": 99,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F11.01",
+      "heading": "The future effect acts through a present representation — PDF 96–97",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1101--the-future-effect-acts-through-a-present-representation--pdf-9697",
+      "explanationWords": 94,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F11.02",
+      "heading": "Natural order does not automatically establish a planner — PDF 97–98",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1102--natural-order-does-not-automatically-establish-a-planner--pdf-9798",
+      "explanationWords": 94,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F11.03",
+      "heading": "Human purposes and a larger spiritual world — PDF 98–99 and addition",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1103--human-purposes-and-a-larger-spiritual-world--pdf-9899-and-addition",
+      "explanationWords": 107,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F12.01",
+      "heading": "A general command does not specify a particular deed — PDF 100–101",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1201--a-general-command-does-not-specify-a-particular-deed--pdf-100101",
+      "explanationWords": 95,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F12.02",
+      "heading": "Intuition, imagination and technique — PDF 101–102",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1202--intuition-imagination-and-technique--pdf-101102",
+      "explanationWords": 95,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F12.03",
+      "heading": "Ethics can study creations without prescribing them in advance — PDF 102–103",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1203--ethics-can-study-creations-without-prescribing-them-in-advance--pdf-102103",
+      "explanationWords": 97,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F12.04",
+      "heading": "Evolution and novelty — PDF 103–105",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1204--evolution-and-novelty--pdf-103105",
+      "explanationWords": 113,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F12.05",
+      "heading": "Freely willing and being able to execute — PDF 105–106",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1205--freely-willing-and-being-able-to-execute--pdf-105106",
+      "explanationWords": 88,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F12.06",
+      "heading": "What the additional observation is meant to establish — PDF 106–107, addition",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1206--what-the-additional-observation-is-meant-to-establish--pdf-106107-addition",
+      "explanationWords": 99,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F13.01",
+      "heading": "Three positions must not be merged — PDF 108–110",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1301--three-positions-must-not-be-merged--pdf-108110",
+      "explanationWords": 98,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F13.02",
+      "heading": "Striving is not identical with pain — PDF 110–111",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1302--striving-is-not-identical-with-pain--pdf-110111",
+      "explanationWords": 95,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F13.03",
+      "heading": "Correcting an estimate is different from deleting an actual pleasure — PDF 112–114",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1303--correcting-an-estimate-is-different-from-deleting-an-actual-pleasure--pdf-112114",
+      "explanationWords": 95,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F13.04",
+      "heading": "The limits of the life-balance argument — PDF 114–116",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1304--the-limits-of-the-life-balance-argument--pdf-114116",
+      "explanationWords": 104,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F13.05",
+      "heading": "Fulfilment is relative to a definite desire — PDF 116–118",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1305--fulfilment-is-relative-to-a-definite-desire--pdf-116118",
+      "explanationWords": 97,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F13.06",
+      "heading": "Wanted ends and painful obstacles — PDF 118–120",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1306--wanted-ends-and-painful-obstacles--pdf-118120",
+      "explanationWords": 108,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F13.07",
+      "heading": "The exception: interchangeable means can be compared — PDF 120–121",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1307--the-exception-interchangeable-means-can-be-compared--pdf-120121",
+      "explanationWords": 90,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F13.08",
+      "heading": "Moral ideals can be genuinely wanted — PDF 121–124",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1308--moral-ideals-can-be-genuinely-wanted--pdf-121124",
+      "explanationWords": 116,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F14.01",
+      "heading": "A category does not exhaust its member — PDF 125",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1401--a-category-does-not-exhaust-its-member--pdf-125",
+      "explanationWords": 89,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F14.02",
+      "heading": "Women and the harm of prescribed roles — PDF 125–126",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1402--women-and-the-harm-of-prescribed-roles--pdf-125126",
+      "explanationWords": 101,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F14.03",
+      "heading": "Understanding requires receiving the person's own concepts — PDF 126–127",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1403--understanding-requires-receiving-the-persons-own-concepts--pdf-126127",
+      "explanationWords": 93,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "F14.04",
+      "heading": "Individual contributions within communities — PDF 127",
+      "file": "freedom-chapter-notes.md",
+      "anchor": "f1404--individual-contributions-within-communities--pdf-127",
+      "explanationWords": 100,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE.01",
+      "heading": "Amrine's selection changes the reader's encounter — PDF 4",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe01--amrines-selection-changes-the-readers-encounter--pdf-4",
+      "explanationWords": 100,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE.02",
+      "heading": "Excerpted framing does not restore missing edition matter — PDF 7–8",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe02--excerpted-framing-does-not-restore-missing-edition-matter--pdf-78",
+      "explanationWords": 84,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE1.01",
+      "heading": "Vorstellung is not always a visual picture — PDF 51",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe101--vorstellung-is-not-always-a-visual-picture--pdf-51",
+      "explanationWords": 115,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE2.01",
+      "heading": "Debt, critique and a contested interpretation — PDF 52",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe201--debt-critique-and-a-contested-interpretation--pdf-52",
+      "explanationWords": 116,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE3.01",
+      "heading": "Biography, philosophical scheme and reception — PDF 53–54",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe301--biography-philosophical-scheme-and-reception--pdf-5354",
+      "explanationWords": 119,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE4.01",
+      "heading": "A biographical narrative of theory formation — PDF 55–56",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe401--a-biographical-narrative-of-theory-formation--pdf-5556",
+      "explanationWords": 102,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE4.02",
+      "heading": "Harsh rhetoric and later theory — PDF 56",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe402--harsh-rhetoric-and-later-theory--pdf-56",
+      "explanationWords": 95,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE5.01",
+      "heading": "Biological, philosophical and artistic roles — PDF 57",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe501--biological-philosophical-and-artistic-roles--pdf-57",
+      "explanationWords": 92,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE5.02",
+      "heading": "The developmental claim and natural-form art — PDF 57",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe502--the-developmental-claim-and-natural-form-art--pdf-57",
+      "explanationWords": 105,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE6.01",
+      "heading": "Study as catharsis — PDF 58–59, reported 1908 lecture",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe601--study-as-catharsis--pdf-5859-reported-1908-lecture",
+      "explanationWords": 102,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE6.02",
+      "heading": "An intermediate, reportedly more exact path — PDF 59, reported 1909 work",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe602--an-intermediate-reportedly-more-exact-path--pdf-59-reported-1909-work",
+      "explanationWords": 91,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE6.03",
+      "heading": "Redemption, clairvoyance and participation — PDF 59–60, reported 1912–1914 lectures",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe603--redemption-clairvoyance-and-participation--pdf-5960-reported-19121914-lectures",
+      "explanationWords": 105,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE6.04",
+      "heading": "A Pauline reading of knowledge — PDF 60–61, reported 1917 lecture",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe604--a-pauline-reading-of-knowledge--pdf-6061-reported-1917-lecture",
+      "explanationWords": 92,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE6.05",
+      "heading": "Inactive images, freedom and the danger of undisciplined willing — PDF 61–63, reported 1918 lectures",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe605--inactive-images-freedom-and-the-danger-of-undisciplined-willing--pdf-6163-reported-1918-lectures",
+      "explanationWords": 105,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE6.06",
+      "heading": "Beholding thinking and transforming cognition — PDF 62–65, reported 1920 lectures",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe606--beholding-thinking-and-transforming-cognition--pdf-6265-reported-1920-lectures",
+      "explanationWords": 100,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE6.07",
+      "heading": "Seed, later development and etheric experience — PDF 65–67, reported 1921 and 1923 lectures",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe607--seed-later-development-and-etheric-experience--pdf-6567-reported-1921-and-1923-lectures",
+      "explanationWords": 97,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE6.08",
+      "heading": "Autobiography as retrospective explanation — PDF 67–68",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe608--autobiography-as-retrospective-explanation--pdf-6768",
+      "explanationWords": 112,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE6.09",
+      "heading": "Fifteen contemplation sentences require their contexts — PDF 69–70",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe609--fifteen-contemplation-sentences-require-their-contexts--pdf-6970",
+      "explanationWords": 134,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    },
+    {
+      "id": "FE6.10",
+      "heading": "Editorial notes set scope, not automatic proof — PDF 70",
+      "file": "freedom-essential-comparison.md",
+      "anchor": "fe610--editorial-notes-set-scope-not-automatic-proof--pdf-70",
+      "explanationWords": 84,
+      "status": "explained-in-research-notes",
+      "finalWebsiteLesson": "pending"
+    }
+  ],
+  "highlights": {
+    "status": "All 217 capture pages reviewed in contact sheets; no obvious coloured text highlights seen",
+    "warning": "Faint marks and other user copies are not certified; editorial emphasis is not automatically a user highlight"
+  },
+  "pending": [
+    "Fuller witness opening pages",
+    "Final lesson-format expansion and website integration",
+    "Faint-mark verification and any separate user highlights",
+    "Primary-source and scientific background checks",
+    "Fine-grained German/English and edition collation"
+  ]
+}

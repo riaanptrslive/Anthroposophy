@@ -1,0 +1,2 @@
+const search=document.querySelector('#book-search');
+if(search){const cards=[...document.querySelectorAll('[data-book]')];search.addEventListener('input',()=>{const query=search.value.trim().toLocaleLowerCase();let count=0;for(const card of cards){card.hidden=!card.dataset.book.includes(query);if(!card.hidden)count++;}document.querySelector('#book-count').textContent=`${count} of ${cards.length} books and source records`;document.querySelector('#no-results').hidden=count!==0;});}

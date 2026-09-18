@@ -262,7 +262,7 @@ for(const prefix of ['', 'pt/']){
  }
  for(const c of selfConnections){const h=fs.readFileSync(path.join(root,prefix,c.target),'utf8');if((h.match(/<!-- self-connection:start -->/g)||[]).length!==1||!h.includes(c[prefix?'pt':'en'][1]))errors.push(prefix+c.target+': missing Koepke supplement');}
 }
-const courseFiles=files.filter(f=>f!=='learning-review.html');
+const courseFiles=files.filter(f=>f!=='learning-review.html'&&!/^study[\\/]/.test(f));
 if(courseFiles.length!==619) errors.push(`Expected 619 course and reference HTML pages (including 41 detailed Biodynamics companion pages), got ${courseFiles.length}`);
 if(errors.length){console.error(errors.join('\n'));process.exit(1);}
 console.log(`Passed: ${files.length} pages, local links and anchors, bilingual courses and source companions, headings, examples, answers, and rubrics.`);

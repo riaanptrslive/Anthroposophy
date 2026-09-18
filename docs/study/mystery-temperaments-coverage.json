@@ -1,0 +1,155 @@
+{
+  "scope": "Qualified explanation of supplied readable discussion; exact edition unidentified",
+  "units": [
+    {
+      "id": "MT.01",
+      "heading": "Attribution is not edition verification — PDF 1–2",
+      "file": "mystery-temperaments-close-reading.md",
+      "status": "explained-with-witness-limitations",
+      "explanationWords": 80,
+      "lessonCandidate": "MT-L1"
+    },
+    {
+      "id": "MT.02",
+      "heading": "General knowledge must become particular understanding — PDF 3–5",
+      "file": "mystery-temperaments-close-reading.md",
+      "status": "explained-with-witness-limitations",
+      "explanationWords": 94,
+      "lessonCandidate": "MT-L1"
+    },
+    {
+      "id": "MT.03",
+      "heading": "Inheritance, spiritual continuity and the analogy of kingdoms — PDF 5–7",
+      "file": "mystery-temperaments-close-reading.md",
+      "status": "explained-with-witness-limitations",
+      "explanationWords": 96,
+      "lessonCandidate": "MT-L1"
+    },
+    {
+      "id": "MT.04",
+      "heading": "A spiritual history is proposed as the source of capacities — PDF 7–8",
+      "file": "mystery-temperaments-close-reading.md",
+      "status": "explained-with-witness-limitations",
+      "explanationWords": 89,
+      "lessonCandidate": "MT-L2"
+    },
+    {
+      "id": "MT.05",
+      "heading": "The musical-genius objection and bodily instruments — PDF 8–9",
+      "file": "mystery-temperaments-close-reading.md",
+      "status": "explained-with-witness-limitations",
+      "explanationWords": 113,
+      "lessonCandidate": "MT-L2"
+    },
+    {
+      "id": "MT.06",
+      "heading": "Temperament as a mediating relation — PDF 9–10",
+      "file": "mystery-temperaments-close-reading.md",
+      "status": "explained-with-witness-limitations",
+      "explanationWords": 87,
+      "lessonCandidate": "MT-L2"
+    },
+    {
+      "id": "MT.07",
+      "heading": "Constitution, cause and bodily manifestation — PDF 10–12",
+      "file": "mystery-temperaments-close-reading.md",
+      "status": "explained-with-witness-limitations",
+      "explanationWords": 108,
+      "lessonCandidate": "MT-L3"
+    },
+    {
+      "id": "MT.08",
+      "heading": "Predominance and the four relations — PDF 13–15",
+      "file": "mystery-temperaments-close-reading.md",
+      "status": "explained-with-witness-limitations",
+      "explanationWords": 80,
+      "lessonCandidate": "MT-L3"
+    },
+    {
+      "id": "MT.09",
+      "heading": "Inward comfort and a resistant instrument — PDF 15–16",
+      "file": "mystery-temperaments-close-reading.md",
+      "status": "explained-with-witness-limitations",
+      "explanationWords": 82,
+      "lessonCandidate": "MT-L3"
+    },
+    {
+      "id": "MT.10",
+      "heading": "Appearance, proportion and unproved inference — PDF 16–19",
+      "file": "mystery-temperaments-close-reading.md",
+      "status": "explained-with-witness-limitations",
+      "explanationWords": 85,
+      "lessonCandidate": "MT-L3"
+    },
+    {
+      "id": "MT.11",
+      "heading": "Mixture and the value of diversity — PDF 19–20",
+      "file": "mystery-temperaments-close-reading.md",
+      "status": "explained-with-witness-limitations",
+      "explanationWords": 87,
+      "lessonCandidate": "MT-L3"
+    },
+    {
+      "id": "MT.12",
+      "heading": "Historical danger labels — PDF 20",
+      "file": "mystery-temperaments-close-reading.md",
+      "status": "explained-with-witness-limitations",
+      "explanationWords": 84,
+      "lessonCandidate": "MT-L3"
+    },
+    {
+      "id": "MT.13",
+      "heading": "Sanguine education begins with a real interest — PDF 21–23",
+      "file": "mystery-temperaments-close-reading.md",
+      "status": "explained-with-witness-limitations",
+      "explanationWords": 96,
+      "lessonCandidate": "MT-L4"
+    },
+    {
+      "id": "MT.14",
+      "heading": "Choleric authority and the stronger obstacle wording — PDF 23–24",
+      "file": "mystery-temperaments-close-reading.md",
+      "status": "explained-with-witness-limitations",
+      "explanationWords": 99,
+      "lessonCandidate": "MT-L4"
+    },
+    {
+      "id": "MT.15",
+      "heading": "Melancholic suffering, compassion and a real tension — PDF 24–25, 27",
+      "file": "mystery-temperaments-close-reading.md",
+      "status": "explained-with-witness-limitations",
+      "explanationWords": 102,
+      "lessonCandidate": "MT-L4"
+    },
+    {
+      "id": "MT.16",
+      "heading": "Phlegmatic participation through peers — PDF 26–27",
+      "file": "mystery-temperaments-close-reading.md",
+      "status": "explained-with-witness-limitations",
+      "explanationWords": 84,
+      "lessonCandidate": "MT-L4"
+    },
+    {
+      "id": "MT.17",
+      "heading": "Reason designs conditions, with an unresolved contrast — PDF 27–29",
+      "file": "mystery-temperaments-close-reading.md",
+      "status": "explained-with-witness-limitations",
+      "explanationWords": 97,
+      "lessonCandidate": "MT-L5"
+    },
+    {
+      "id": "MT.18",
+      "heading": "Knowledge becomes conduct and life is proposed as the test — PDF 29–31",
+      "file": "mystery-temperaments-close-reading.md",
+      "status": "explained-with-witness-limitations",
+      "explanationWords": 94,
+      "lessonCandidate": "MT-L5"
+    }
+  ],
+  "pending": [
+    "Authoritative edition and wording comparison",
+    "Damaged column joins",
+    "Complete visual highlight review",
+    "Final lesson expansion and website integration"
+  ]
+}

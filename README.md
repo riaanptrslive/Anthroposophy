@@ -6,6 +6,12 @@ Research, source comparisons, lecture timestamps, illustration briefs and future
 
 ## Website
 
+### Detailed study library — 18 September 2026
+
+The website now integrates the saved research at `docs/study/index.html`: 20 source records, 93 reading/reference pages, 14 separate Freedom chapter pages, six Four Temperaments sessions, and four linked coverage reports. English and Portuguese homepages and course indexes link to the library; new detailed material is in English. Source limitations and pending lesson expansion remain explicit. Website integration does not certify all books as fully analysed.
+
+Build with `node scripts/build-all.mjs` or update the library alone with `node scripts/build-study-library.mjs`. Validate with `node scripts/check-site.mjs` and `node scripts/check-study-library.mjs`. GitHub Pages serves the committed `docs` directory on `main`.
+
 ### Detailed Biodynamics companion — 17 September 2026
 
 The new English companion at `docs/biodynamics/companion/index.html` follows the introduction and all seven chapters in **36 lessons**, with **135 page commentaries**, **560 source-inventory items**, and **11 distinct ideas from four highlighted passages**. It includes a source map prepared before lessons, glossary, original teaching examples, explained questions, scientific comparisons, a downloadable complete Markdown companion and a concept-by-concept coverage audit. The earlier nine-lesson bilingual route links to this expansion.
