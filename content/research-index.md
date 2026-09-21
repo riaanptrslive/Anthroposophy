@@ -38,6 +38,12 @@ Chapter 9 update — 12 September 2026: [Complete lecture review and bilingual L
 
 # Research and course development record
 
+Chapter-led course revision — 21 September 2026: [Course-by-course record](chapter-curriculum-revision.md) documents the source chapter → concept → lesson → application structure across all 20 paths and 590 lesson pages, six rewritten Theosophy explanations and ten revised Luke concept checks. All 22 checks pass; 760 HTML pages. This structural revision uses existing source analyses and does not certify a fresh complete reading of every book. Prepared locally; not published.
+
+Parents and educators implementation — 20 September 2026: [Implementation and verification record](everyday-learning-implementation.md) documents the everyday-learning update across all 590 lesson pages, eight bilingual units, situation finder and shared notebooks. This implements the review below; the review remains a record of the earlier analysis. Prepared locally; not published.
+
+Parents and educators review — 20 September 2026: [Website and course audit](parents-educators-course-audit.md) records live desktop/mobile observations, current structural checks, priorities and a proposed eight-unit everyday-life route. The [repair-conversation pilot](parents-educators-pilot-lesson.md) makes the recommended teaching approach concrete. Analysis and English prototype only; no website change or deployment.
+
 This folder keeps the source analysis, teaching decisions and implementation plans under Git version control. Begin here when adding a book, lecture or illustration. The website is generated into `docs/`; editorial notes remain in `content/`.
 
 ## Chapter 8 update — 12 September 2026

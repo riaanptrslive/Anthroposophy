@@ -19,7 +19,9 @@ for(const lang of ['en','pt']){
   for(const v of l.texts)assert.ok(h.includes(`id="${v}"`));
   const alternate=h.match(/<link rel="alternate"[^>]*href="([^"]+)"/)[1];assert.equal(path.resolve(path.dirname(file),alternate),path.resolve(other+'/meditation/'+id+'.html'));
   assert.ok(h.includes('data-download=')&&h.includes('id="reflection"'));
-  assert.ok(!h.includes('data-note-field=')&&!h.includes('localStorage'));
+  assert.ok(h.includes(`data-study-id="meditation/${id}"`));
+  assert.ok(h.includes('data-note-field="first"')&&h.includes('data-save-notes'));
+  assert.ok(h.includes('guided-study.v1.js')&&!h.includes('localStorage'));
   assert.ok(l[lang].steps.length>=3&&l[lang].explain.length>=2);
  }
  const home=fs.readFileSync(base+'/index.html','utf8');assert.equal((home.match(/<!-- meditation-card:start -->/g)||[]).length,1);

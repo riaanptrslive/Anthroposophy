@@ -1,0 +1,4747 @@
+{
+  "lessons": 590,
+  "courses": [
+    "foundations",
+    "theosophy",
+    "meditation",
+    "parents-educators",
+    "according-to-luke",
+    "ancient-myths",
+    "biodynamics-companion",
+    "biodynamics",
+    "colour",
+    "encountering-the-self",
+    "foodwise",
+    "higher-worlds",
+    "mystery-temperaments",
+    "nutrition",
+    "phases",
+    "philosophy-of-freedom",
+    "practical-thinking",
+    "temperaments",
+    "understand-temperament",
+    "understanding-temperaments"
+  ],
+  "entries": [
+    {
+      "id": "foundations/01",
+      "course": "foundations",
+      "courseTitle": "Foundations",
+      "lang": "en",
+      "title": "What are we studying?",
+      "url": "foundations/01.html"
+    },
+    {
+      "id": "foundations/02",
+      "course": "foundations",
+      "courseTitle": "Foundations",
+      "lang": "en",
+      "title": "Observation, interpretation and knowledge",
+      "url": "foundations/02.html"
+    },
+    {
+      "id": "foundations/03",
+      "course": "foundations",
+      "courseTitle": "Foundations",
+      "lang": "en",
+      "title": "Body, soul and spirit: three relationships to the world",
+      "url": "foundations/03.html"
+    },
+    {
+      "id": "foundations/04",
+      "course": "foundations",
+      "courseTitle": "Foundations",
+      "lang": "en",
+      "title": "Thinking, feeling and willing: activities, not another list of bodies",
+      "url": "foundations/04.html"
+    },
+    {
+      "id": "foundations/05",
+      "course": "foundations",
+      "courseTitle": "Foundations",
+      "lang": "en",
+      "title": "Matter and living organization",
+      "url": "foundations/05.html"
+    },
+    {
+      "id": "foundations/06",
+      "course": "foundations",
+      "courseTitle": "Foundations",
+      "lang": "en",
+      "title": "Inward experience and the I",
+      "url": "foundations/06.html"
+    },
+    {
+      "id": "foundations/07",
+      "course": "foundations",
+      "courseTitle": "Foundations",
+      "lang": "en",
+      "title": "The threefold bodily organization",
+      "url": "foundations/07.html"
+    },
+    {
+      "id": "foundations/08",
+      "course": "foundations",
+      "courseTitle": "Foundations",
+      "lang": "en",
+      "title": "How the accounts relate without becoming interchangeable",
+      "url": "foundations/08.html"
+    },
+    {
+      "id": "foundations/09",
+      "course": "foundations",
+      "courseTitle": "Foundations",
+      "lang": "en",
+      "title": "How inner life becomes differentiated",
+      "url": "foundations/09.html"
+    },
+    {
+      "id": "foundations/10",
+      "course": "foundations",
+      "courseTitle": "Foundations",
+      "lang": "en",
+      "title": "Individuality and spiritual development",
+      "url": "foundations/10.html"
+    },
+    {
+      "id": "foundations/11",
+      "course": "foundations",
+      "courseTitle": "Foundations",
+      "lang": "en",
+      "title": "Memory, capacity and biography",
+      "url": "foundations/11.html"
+    },
+    {
+      "id": "foundations/12",
+      "course": "foundations",
+      "courseTitle": "Foundations",
+      "lang": "en",
+      "title": "Freedom and responsible action",
+      "url": "foundations/12.html"
+    },
+    {
+      "id": "foundations/13",
+      "course": "foundations",
+      "courseTitle": "Foundations",
+      "lang": "en",
+      "title": "Reincarnation: the proposed continuity of individuality",
+      "url": "foundations/13.html"
+    },
+    {
+      "id": "foundations/14",
+      "course": "foundations",
+      "courseTitle": "Foundations",
+      "lang": "en",
+      "title": "Karma: action, consequence and destiny",
+      "url": "foundations/14.html"
+    },
+    {
+      "id": "foundations/15",
+      "course": "foundations",
+      "courseTitle": "Foundations",
+      "lang": "en",
+      "title": "What Steiner means by the soul world",
+      "url": "foundations/15.html"
+    },
+    {
+      "id": "foundations/16",
+      "course": "foundations",
+      "courseTitle": "Foundations",
+      "lang": "en",
+      "title": "What Steiner means by the spiritual world",
+      "url": "foundations/16.html"
+    },
+    {
+      "id": "foundations/17",
+      "course": "foundations",
+      "courseTitle": "Foundations",
+      "lang": "en",
+      "title": "The path of knowledge",
+      "url": "foundations/17.html"
+    },
+    {
+      "id": "foundations/18",
+      "course": "foundations",
+      "courseTitle": "Foundations",
+      "lang": "en",
+      "title": "Bring the relationships together",
+      "url": "foundations/18.html"
+    },
+    {
+      "id": "theosophy/00",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Why study anthroposophy?",
+      "url": "lessons/00.html"
+    },
+    {
+      "id": "theosophy/01",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Encountering the world",
+      "url": "lessons/01.html"
+    },
+    {
+      "id": "theosophy/02",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Embodiment and inner experience",
+      "url": "lessons/02.html"
+    },
+    {
+      "id": "theosophy/03",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Life, sensation, and formative organization",
+      "url": "lessons/03.html"
+    },
+    {
+      "id": "theosophy/04",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Three aspects of soul",
+      "url": "lessons/04.html"
+    },
+    {
+      "id": "theosophy/05",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "The I and spiritual individuality",
+      "url": "lessons/05.html"
+    },
+    {
+      "id": "theosophy/06",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "One human being, several classifications",
+      "url": "lessons/06.html"
+    },
+    {
+      "id": "theosophy/07",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Memory, learning, and lasting effects",
+      "url": "lessons/07.html"
+    },
+    {
+      "id": "theosophy/08",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Individuality and repeated lives",
+      "url": "lessons/08.html"
+    },
+    {
+      "id": "theosophy/09",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Action and destiny",
+      "url": "lessons/09.html"
+    },
+    {
+      "id": "theosophy/10",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "The soul world",
+      "url": "lessons/10.html"
+    },
+    {
+      "id": "theosophy/11",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Attachment and release",
+      "url": "lessons/11.html"
+    },
+    {
+      "id": "theosophy/12",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Archetypes and spiritland",
+      "url": "lessons/12.html"
+    },
+    {
+      "id": "theosophy/13",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "From experience to capacity",
+      "url": "lessons/13.html"
+    },
+    {
+      "id": "theosophy/14",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Individuality, purpose, and return",
+      "url": "lessons/14.html"
+    },
+    {
+      "id": "theosophy/15",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Nature and the three worlds",
+      "url": "lessons/15.html"
+    },
+    {
+      "id": "theosophy/16",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Collective and elemental beings",
+      "url": "lessons/16.html"
+    },
+    {
+      "id": "theosophy/17",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Thought forms and aura",
+      "url": "lessons/17.html"
+    },
+    {
+      "id": "theosophy/18",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Thoughtful receptivity",
+      "url": "lessons/18.html"
+    },
+    {
+      "id": "theosophy/19",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Feeling without automatic reaction",
+      "url": "lessons/19.html"
+    },
+    {
+      "id": "theosophy/20",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Coherent thinking and responsible action",
+      "url": "lessons/20.html"
+    },
+    {
+      "id": "theosophy/21",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Freedom, individuality, and everyday life",
+      "url": "lessons/21.html"
+    },
+    {
+      "id": "theosophy/22",
+      "course": "theosophy",
+      "courseTitle": "Theosophy",
+      "lang": "en",
+      "title": "Bring the book together",
+      "url": "lessons/22.html"
+    },
+    {
+      "id": "meditation/00",
+      "course": "meditation",
+      "courseTitle": "Meditation and Inner Life",
+      "lang": "en",
+      "title": "What meditation is meant to teach",
+      "url": "meditation/00.html"
+    },
+    {
+      "id": "meditation/01",
+      "course": "meditation",
+      "courseTitle": "Meditation and Inner Life",
+      "lang": "en",
+      "title": "A verse: understand it, then live with it",
+      "url": "meditation/01.html"
+    },
+    {
+      "id": "meditation/02",
+      "course": "meditation",
+      "courseTitle": "Meditation and Inner Life",
+      "lang": "en",
+      "title": "The six supporting exercises",
+      "url": "meditation/02.html"
+    },
+    {
+      "id": "meditation/03",
+      "course": "meditation",
+      "courseTitle": "Meditation and Inner Life",
+      "lang": "en",
+      "title": "The backward review: learning from the day",
+      "url": "meditation/03.html"
+    },
+    {
+      "id": "meditation/04",
+      "course": "meditation",
+      "courseTitle": "Meditation and Inner Life",
+      "lang": "en",
+      "title": "The Calendar of the Soul: one verse through a week",
+      "url": "meditation/04.html"
+    },
+    {
+      "id": "meditation/05",
+      "course": "meditation",
+      "courseTitle": "Meditation and Inner Life",
+      "lang": "en",
+      "title": "The Rose Cross: why preparation matters",
+      "url": "meditation/05.html"
+    },
+    {
+      "id": "meditation/06",
+      "course": "meditation",
+      "courseTitle": "Meditation and Inner Life",
+      "lang": "en",
+      "title": "The Foundation Stone: the whole meditation",
+      "url": "meditation/06.html"
+    },
+    {
+      "id": "meditation/07",
+      "course": "meditation",
+      "courseTitle": "Meditation and Inner Life",
+      "lang": "en",
+      "title": "Working with the Foundation Stone over time",
+      "url": "meditation/07.html"
+    },
+    {
+      "id": "meditation/08",
+      "course": "meditation",
+      "courseTitle": "Meditation and Inner Life",
+      "lang": "en",
+      "title": "A rhythm that serves your life",
+      "url": "meditation/08.html"
+    },
+    {
+      "id": "parents-educators/01",
+      "course": "parents-educators",
+      "courseTitle": "Parents and educators",
+      "lang": "en",
+      "title": "What actually happened?",
+      "url": "parents-educators/01.html"
+    },
+    {
+      "id": "parents-educators/02",
+      "course": "parents-educators",
+      "courseTitle": "Parents and educators",
+      "lang": "en",
+      "title": "What am I overlooking?",
+      "url": "parents-educators/02.html"
+    },
+    {
+      "id": "parents-educators/03",
+      "course": "parents-educators",
+      "courseTitle": "Parents and educators",
+      "lang": "en",
+      "title": "A rhythm that fits our life",
+      "url": "parents-educators/03.html"
+    },
+    {
+      "id": "parents-educators/04",
+      "course": "parents-educators",
+      "courseTitle": "Parents and educators",
+      "lang": "en",
+      "title": "Different ways into the same task",
+      "url": "parents-educators/04.html"
+    },
+    {
+      "id": "parents-educators/05",
+      "course": "parents-educators",
+      "courseTitle": "Parents and educators",
+      "lang": "en",
+      "title": "A boundary and a way to repair",
+      "url": "parents-educators/05.html"
+    },
+    {
+      "id": "parents-educators/06",
+      "course": "parents-educators",
+      "courseTitle": "Parents and educators",
+      "lang": "en",
+      "title": "Learning through imagination and making",
+      "url": "parents-educators/06.html"
+    },
+    {
+      "id": "parents-educators/07",
+      "course": "parents-educators",
+      "courseTitle": "Parents and educators",
+      "lang": "en",
+      "title": "Development and the individual child",
+      "url": "parents-educators/07.html"
+    },
+    {
+      "id": "parents-educators/08",
+      "course": "parents-educators",
+      "courseTitle": "Parents and educators",
+      "lang": "en",
+      "title": "From a good intention to a thoughtful deed",
+      "url": "parents-educators/08.html"
+    },
+    {
+      "id": "according-to-luke/00",
+      "course": "according-to-luke",
+      "courseTitle": "According to Luke",
+      "lang": "en",
+      "title": "How to read this course",
+      "url": "according-to-luke/lessons/00.html"
+    },
+    {
+      "id": "according-to-luke/01",
+      "course": "according-to-luke",
+      "courseTitle": "According to Luke",
+      "lang": "en",
+      "title": "Imagination, Inspiration and Intuition",
+      "url": "according-to-luke/lessons/01.html"
+    },
+    {
+      "id": "according-to-luke/02",
+      "course": "according-to-luke",
+      "courseTitle": "According to Luke",
+      "lang": "en",
+      "title": "From Bodhisattva to Buddha: compassion",
+      "url": "according-to-luke/lessons/02.html"
+    },
+    {
+      "id": "according-to-luke/03",
+      "course": "according-to-luke",
+      "courseTitle": "According to Luke",
+      "lang": "en",
+      "title": "The Eightfold Path and the Nirmanakaya",
+      "url": "according-to-luke/lessons/03.html"
+    },
+    {
+      "id": "according-to-luke/04",
+      "course": "according-to-luke",
+      "courseTitle": "According to Luke",
+      "lang": "en",
+      "title": "Two genealogies and two Jesus children",
+      "url": "according-to-luke/lessons/04.html"
+    },
+    {
+      "id": "according-to-luke/05",
+      "course": "according-to-luke",
+      "courseTitle": "According to Luke",
+      "lang": "en",
+      "title": "Zarathustra’s I and the convergence of streams",
+      "url": "according-to-luke/lessons/05.html"
+    },
+    {
+      "id": "according-to-luke/06",
+      "course": "according-to-luke",
+      "courseTitle": "According to Luke",
+      "lang": "en",
+      "title": "Moses, Elijah and John: moral development",
+      "url": "according-to-luke/lessons/06.html"
+    },
+    {
+      "id": "according-to-luke/07",
+      "course": "according-to-luke",
+      "courseTitle": "According to Luke",
+      "lang": "en",
+      "title": "The baptism: Jesus and the Christ being",
+      "url": "according-to-luke/lessons/07.html"
+    },
+    {
+      "id": "according-to-luke/08",
+      "course": "according-to-luke",
+      "courseTitle": "According to Luke",
+      "lang": "en",
+      "title": "The I, soul and body in Luke’s healing narratives",
+      "url": "according-to-luke/lessons/08.html"
+    },
+    {
+      "id": "according-to-luke/09",
+      "course": "according-to-luke",
+      "courseTitle": "According to Luke",
+      "lang": "en",
+      "title": "Buddha’s teaching and Christ’s power of love",
+      "url": "according-to-luke/lessons/09.html"
+    },
+    {
+      "id": "according-to-luke/10",
+      "course": "according-to-luke",
+      "courseTitle": "According to Luke",
+      "lang": "en",
+      "title": "Golgotha, initiation and hope",
+      "url": "according-to-luke/lessons/10.html"
+    },
+    {
+      "id": "according-to-luke/11",
+      "course": "according-to-luke",
+      "courseTitle": "According to Luke",
+      "lang": "en",
+      "title": "Your synthesis: understanding and compassionate action",
+      "url": "according-to-luke/lessons/11.html"
+    },
+    {
+      "id": "ancient-myths/00",
+      "course": "ancient-myths",
+      "courseTitle": "Myth and Consciousness",
+      "lang": "en",
+      "title": "Reading a myth",
+      "url": "ancient-myths/lessons/00.html"
+    },
+    {
+      "id": "ancient-myths/01",
+      "course": "ancient-myths",
+      "courseTitle": "Myth and Consciousness",
+      "lang": "en",
+      "title": "Isis, Osiris and the Greek gods",
+      "url": "ancient-myths/lessons/01.html"
+    },
+    {
+      "id": "ancient-myths/02",
+      "course": "ancient-myths",
+      "courseTitle": "Myth and Consciousness",
+      "lang": "en",
+      "title": "Images, language and changing consciousness",
+      "url": "ancient-myths/lessons/02.html"
+    },
+    {
+      "id": "ancient-myths/03",
+      "course": "ancient-myths",
+      "courseTitle": "Myth and Consciousness",
+      "lang": "en",
+      "title": "The veil of Isis and the search for knowledge",
+      "url": "ancient-myths/lessons/03.html"
+    },
+    {
+      "id": "ancient-myths/04",
+      "course": "ancient-myths",
+      "courseTitle": "Myth and Consciousness",
+      "lang": "en",
+      "title": "Individuality, heredity and freedom",
+      "url": "ancient-myths/lessons/04.html"
+    },
+    {
+      "id": "ancient-myths/05",
+      "course": "ancient-myths",
+      "courseTitle": "Myth and Consciousness",
+      "lang": "en",
+      "title": "Humanity’s development and lifelong learning",
+      "url": "ancient-myths/lessons/05.html"
+    },
+    {
+      "id": "ancient-myths/06",
+      "course": "ancient-myths",
+      "courseTitle": "Myth and Consciousness",
+      "lang": "en",
+      "title": "From head knowledge to heartfelt understanding",
+      "url": "ancient-myths/lessons/06.html"
+    },
+    {
+      "id": "ancient-myths/07",
+      "course": "ancient-myths",
+      "courseTitle": "Myth and Consciousness",
+      "lang": "en",
+      "title": "Myth in education: interpretation and a final project",
+      "url": "ancient-myths/lessons/07.html"
+    },
+    {
+      "id": "biodynamics-companion/00",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Identify the book’s voices",
+      "url": "biodynamics/companion/session-00.html"
+    },
+    {
+      "id": "biodynamics-companion/01",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "What makes agriculture biodynamic here?",
+      "url": "biodynamics/companion/session-01.html"
+    },
+    {
+      "id": "biodynamics-companion/02",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "How the anthology constructs its argument",
+      "url": "biodynamics/companion/session-02.html"
+    },
+    {
+      "id": "biodynamics-companion/03",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Learn the correspondences before using them",
+      "url": "biodynamics/companion/session-03.html"
+    },
+    {
+      "id": "biodynamics-companion/04",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Follow the move from horsetail to subnature",
+      "url": "biodynamics/companion/session-04.html"
+    },
+    {
+      "id": "biodynamics-companion/05",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Read the Christian chronology with source discipline",
+      "url": "biodynamics/companion/session-05.html"
+    },
+    {
+      "id": "biodynamics-companion/06",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Understand Courtney’s conclusion",
+      "url": "biodynamics/companion/session-06.html"
+    },
+    {
+      "id": "biodynamics-companion/07",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Follow a reference chain",
+      "url": "biodynamics/companion/session-07.html"
+    },
+    {
+      "id": "biodynamics-companion/08",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Why the knower must change",
+      "url": "biodynamics/companion/session-08.html"
+    },
+    {
+      "id": "biodynamics-companion/09",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Read the perception exercises closely",
+      "url": "biodynamics/companion/session-09.html"
+    },
+    {
+      "id": "biodynamics-companion/10",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Form, transformation and plant emergence",
+      "url": "biodynamics/companion/session-10.html"
+    },
+    {
+      "id": "biodynamics-companion/11",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "From living activity to seasonal order",
+      "url": "biodynamics/companion/session-11.html"
+    },
+    {
+      "id": "biodynamics-companion/12",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Memory and conscience as conditions of study",
+      "url": "biodynamics/companion/session-12.html"
+    },
+    {
+      "id": "biodynamics-companion/13",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Forces, laws and meaning",
+      "url": "biodynamics/companion/session-13.html"
+    },
+    {
+      "id": "biodynamics-companion/14",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Gnomes and undines in the plant cycle",
+      "url": "biodynamics/companion/session-14.html"
+    },
+    {
+      "id": "biodynamics-companion/15",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Light, warmth and the fertilization disagreement",
+      "url": "biodynamics/companion/session-15.html"
+    },
+    {
+      "id": "biodynamics-companion/16",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Bring the four activities together",
+      "url": "biodynamics/companion/session-16.html"
+    },
+    {
+      "id": "biodynamics-companion/17",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Animal complements and dream masks",
+      "url": "biodynamics/companion/session-17.html"
+    },
+    {
+      "id": "biodynamics-companion/18",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Observe thought and examine displaced activity",
+      "url": "biodynamics/companion/session-18.html"
+    },
+    {
+      "id": "biodynamics-companion/19",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Read nature as signs: your highlighted passage",
+      "url": "biodynamics/companion/session-19.html"
+    },
+    {
+      "id": "biodynamics-companion/20",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Why fertilization becomes soil enlivening",
+      "url": "biodynamics/companion/session-20.html"
+    },
+    {
+      "id": "biodynamics-companion/21",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Manure, boundaries and animal form",
+      "url": "biodynamics/companion/session-21.html"
+    },
+    {
+      "id": "biodynamics-companion/22",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "The two horn preparations and participation",
+      "url": "biodynamics/companion/session-22.html"
+    },
+    {
+      "id": "biodynamics-companion/23",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Read practical uncertainty honestly",
+      "url": "biodynamics/companion/session-23.html"
+    },
+    {
+      "id": "biodynamics-companion/24",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "From personal judgment to shared measures",
+      "url": "biodynamics/companion/session-24.html"
+    },
+    {
+      "id": "biodynamics-companion/25",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Why compost receives further treatment",
+      "url": "biodynamics/companion/session-25.html"
+    },
+    {
+      "id": "biodynamics-companion/26",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Yarrow and chamomile: your highlighted reasoning",
+      "url": "biodynamics/companion/session-26.html"
+    },
+    {
+      "id": "biodynamics-companion/27",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Nettle, oak, dandelion and valerian",
+      "url": "biodynamics/companion/session-27.html"
+    },
+    {
+      "id": "biodynamics-companion/28",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Manure management and conflicting testimony",
+      "url": "biodynamics/companion/session-28.html"
+    },
+    {
+      "id": "biodynamics-companion/29",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Details that alter the meaning",
+      "url": "biodynamics/companion/session-29.html"
+    },
+    {
+      "id": "biodynamics-companion/30",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Near and distant planets: your editor’s highlight",
+      "url": "biodynamics/companion/session-30.html"
+    },
+    {
+      "id": "biodynamics-companion/31",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Testing, certainty and weed or mouse proposals",
+      "url": "biodynamics/companion/session-31.html"
+    },
+    {
+      "id": "biodynamics-companion/32",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Pests, disease and horsetail",
+      "url": "biodynamics/companion/session-32.html"
+    },
+    {
+      "id": "biodynamics-companion/33",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "The ethics of practical knowledge",
+      "url": "biodynamics/companion/session-33.html"
+    },
+    {
+      "id": "biodynamics-companion/34",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Finish with qualifications intact",
+      "url": "biodynamics/companion/session-34.html"
+    },
+    {
+      "id": "biodynamics-companion/35",
+      "course": "biodynamics-companion",
+      "courseTitle": "Biodynamics · detailed companion",
+      "lang": "en",
+      "title": "Build a source-grounded final explanation",
+      "url": "biodynamics/companion/session-35.html"
+    },
+    {
+      "id": "biodynamics/00",
+      "course": "biodynamics",
+      "courseTitle": "Biodynamics",
+      "lang": "en",
+      "title": "Orientation: the farm as a living individuality",
+      "url": "biodynamics/lessons/00.html"
+    },
+    {
+      "id": "biodynamics/01",
+      "course": "biodynamics",
+      "courseTitle": "Biodynamics",
+      "lang": "en",
+      "title": "Spiritual Beings I: learning to attend to nature",
+      "url": "biodynamics/lessons/01.html"
+    },
+    {
+      "id": "biodynamics/02",
+      "course": "biodynamics",
+      "courseTitle": "Biodynamics",
+      "lang": "en",
+      "title": "Spiritual Beings II: rhythms, Earth and responsibility",
+      "url": "biodynamics/lessons/02.html"
+    },
+    {
+      "id": "biodynamics/03",
+      "course": "biodynamics",
+      "courseTitle": "Biodynamics",
+      "lang": "en",
+      "title": "Elementals I: a spiritual picture of plant growth",
+      "url": "biodynamics/lessons/03.html"
+    },
+    {
+      "id": "biodynamics/04",
+      "course": "biodynamics",
+      "courseTitle": "Biodynamics",
+      "lang": "en",
+      "title": "Elementals II: complementary forms and displaced activity",
+      "url": "biodynamics/lessons/04.html"
+    },
+    {
+      "id": "biodynamics/05",
+      "course": "biodynamics",
+      "courseTitle": "Biodynamics",
+      "lang": "en",
+      "title": "Agriculture I: living soil and the two horn preparations",
+      "url": "biodynamics/lessons/05.html"
+    },
+    {
+      "id": "biodynamics/06",
+      "course": "biodynamics",
+      "courseTitle": "Biodynamics",
+      "lang": "en",
+      "title": "Agriculture II: the six compost preparations",
+      "url": "biodynamics/lessons/06.html"
+    },
+    {
+      "id": "biodynamics/07",
+      "course": "biodynamics",
+      "courseTitle": "Biodynamics",
+      "lang": "en",
+      "title": "Agriculture III: weeds, pests and the question of evidence",
+      "url": "biodynamics/lessons/07.html"
+    },
+    {
+      "id": "biodynamics/08",
+      "course": "biodynamics",
+      "courseTitle": "Biodynamics",
+      "lang": "en",
+      "title": "Final project: a portrait of a living place",
+      "url": "biodynamics/lessons/08.html"
+    },
+    {
+      "id": "colour/00",
+      "course": "colour",
+      "courseTitle": "Colour",
+      "lang": "en",
+      "title": "Reading colour with eyes, feeling and judgment",
+      "url": "colour/lessons/00.html"
+    },
+    {
+      "id": "colour/01",
+      "course": "colour",
+      "courseTitle": "Colour",
+      "lang": "en",
+      "title": "Colour relationships and the four image colours",
+      "url": "colour/lessons/01.html"
+    },
+    {
+      "id": "colour/02",
+      "course": "colour",
+      "courseTitle": "Colour",
+      "lang": "en",
+      "title": "Image and lustre: three ways a colour spreads",
+      "url": "colour/lessons/02.html"
+    },
+    {
+      "id": "colour/03",
+      "course": "colour",
+      "courseTitle": "Colour",
+      "lang": "en",
+      "title": "Letting form emerge from colour",
+      "url": "colour/lessons/03.html"
+    },
+    {
+      "id": "colour/04",
+      "course": "colour",
+      "courseTitle": "Colour",
+      "lang": "en",
+      "title": "Colour as movement and a shared artistic language",
+      "url": "colour/lessons/04.html"
+    },
+    {
+      "id": "colour/05",
+      "course": "colour",
+      "courseTitle": "Colour",
+      "lang": "en",
+      "title": "Colour, tone and the quality of feeling",
+      "url": "colour/lessons/05.html"
+    },
+    {
+      "id": "colour/06",
+      "course": "colour",
+      "courseTitle": "Colour",
+      "lang": "en",
+      "title": "Light, thought, darkness and will",
+      "url": "colour/lessons/06.html"
+    },
+    {
+      "id": "colour/07",
+      "course": "colour",
+      "courseTitle": "Colour",
+      "lang": "en",
+      "title": "Physical causes and meaningful action",
+      "url": "colour/lessons/07.html"
+    },
+    {
+      "id": "colour/08",
+      "course": "colour",
+      "courseTitle": "Colour",
+      "lang": "en",
+      "title": "Light, dark and the conditions of seeing",
+      "url": "colour/lessons/08.html"
+    },
+    {
+      "id": "colour/09",
+      "course": "colour",
+      "courseTitle": "Colour",
+      "lang": "en",
+      "title": "From linear perspective to colour perspective",
+      "url": "colour/lessons/09.html"
+    },
+    {
+      "id": "colour/10",
+      "course": "colour",
+      "courseTitle": "Colour",
+      "lang": "en",
+      "title": "Composition between weight and radiance",
+      "url": "colour/lessons/10.html"
+    },
+    {
+      "id": "colour/11",
+      "course": "colour",
+      "courseTitle": "Colour",
+      "lang": "en",
+      "title": "Visual weight beyond measurement",
+      "url": "colour/lessons/11.html"
+    },
+    {
+      "id": "colour/12",
+      "course": "colour",
+      "courseTitle": "Colour",
+      "lang": "en",
+      "title": "The rainbow within a spiritual cosmology",
+      "url": "colour/lessons/12.html"
+    },
+    {
+      "id": "colour/13",
+      "course": "colour",
+      "courseTitle": "Colour",
+      "lang": "en",
+      "title": "Your colour portfolio: observe, compose, explain",
+      "url": "colour/lessons/13.html"
+    },
+    {
+      "id": "encountering-the-self/00",
+      "course": "encountering-the-self",
+      "courseTitle": "Encountering the Self",
+      "lang": "en",
+      "title": "Reading Koepke: observation, interpretation and care",
+      "url": "encountering-the-self/lessons/00.html"
+    },
+    {
+      "id": "encountering-the-self/01",
+      "course": "encountering-the-self",
+      "courseTitle": "Encountering the Self",
+      "lang": "en",
+      "title": "Peter: criticism and a place in the world",
+      "url": "encountering-the-self/lessons/01.html"
+    },
+    {
+      "id": "encountering-the-self/02",
+      "course": "encountering-the-self",
+      "courseTitle": "Encountering the Self",
+      "lang": "en",
+      "title": "Monica: fear, privacy and continued connection",
+      "url": "encountering-the-self/lessons/02.html"
+    },
+    {
+      "id": "encountering-the-self/03",
+      "course": "encountering-the-self",
+      "courseTitle": "Encountering the Self",
+      "lang": "en",
+      "title": "Dear Parents: guidance that can admit mistakes",
+      "url": "encountering-the-self/lessons/03.html"
+    },
+    {
+      "id": "encountering-the-self/04",
+      "course": "encountering-the-self",
+      "courseTitle": "Encountering the Self",
+      "lang": "en",
+      "title": "Biography: a childhood motif seen from later life",
+      "url": "encountering-the-self/lessons/04.html"
+    },
+    {
+      "id": "encountering-the-self/05",
+      "course": "encountering-the-self",
+      "courseTitle": "Encountering the Self",
+      "lang": "en",
+      "title": "The second seven years: reading a developmental map",
+      "url": "encountering-the-self/lessons/05.html"
+    },
+    {
+      "id": "encountering-the-self/06",
+      "course": "encountering-the-self",
+      "courseTitle": "Encountering the Self",
+      "lang": "en",
+      "title": "Seven and twelve: doing, perceiving and feeling",
+      "url": "encountering-the-self/lessons/06.html"
+    },
+    {
+      "id": "encountering-the-self/07",
+      "course": "encountering-the-self",
+      "courseTitle": "Encountering the Self",
+      "lang": "en",
+      "title": "Moving within one’s own house",
+      "url": "encountering-the-self/lessons/07.html"
+    },
+    {
+      "id": "encountering-the-self/08",
+      "course": "encountering-the-self",
+      "courseTitle": "Encountering the Self",
+      "lang": "en",
+      "title": "Curriculum: shelter, cultivation and expression",
+      "url": "encountering-the-self/lessons/08.html"
+    },
+    {
+      "id": "encountering-the-self/09",
+      "course": "encountering-the-self",
+      "courseTitle": "Encountering the Self",
+      "lang": "en",
+      "title": "Pressure and difficulties in thinking, feeling and willing",
+      "url": "encountering-the-self/lessons/09.html"
+    },
+    {
+      "id": "encountering-the-self/10",
+      "course": "encountering-the-self",
+      "courseTitle": "Encountering the Self",
+      "lang": "en",
+      "title": "The incarnation of the I: reading religious images",
+      "url": "encountering-the-self/lessons/10.html"
+    },
+    {
+      "id": "encountering-the-self/11",
+      "course": "encountering-the-self",
+      "courseTitle": "Encountering the Self",
+      "lang": "en",
+      "title": "The school doctor: the limits of historical advice",
+      "url": "encountering-the-self/lessons/11.html"
+    },
+    {
+      "id": "encountering-the-self/12",
+      "course": "encountering-the-self",
+      "courseTitle": "Encountering the Self",
+      "lang": "en",
+      "title": "The Sturdy Sapling: belonging through a story",
+      "url": "encountering-the-self/lessons/12.html"
+    },
+    {
+      "id": "encountering-the-self/13",
+      "course": "encountering-the-self",
+      "courseTitle": "Encountering the Self",
+      "lang": "en",
+      "title": "Half moon-nodes: a correspondence and its limits",
+      "url": "encountering-the-self/lessons/13.html"
+    },
+    {
+      "id": "encountering-the-self/14",
+      "course": "encountering-the-self",
+      "courseTitle": "Encountering the Self",
+      "lang": "en",
+      "title": "Changing teeth: evaluating the proposed reversal",
+      "url": "encountering-the-self/lessons/14.html"
+    },
+    {
+      "id": "encountering-the-self/15",
+      "course": "encountering-the-self",
+      "courseTitle": "Encountering the Self",
+      "lang": "en",
+      "title": "Form drawing: completing and transforming",
+      "url": "encountering-the-self/lessons/15.html"
+    },
+    {
+      "id": "encountering-the-self/16",
+      "course": "encountering-the-self",
+      "courseTitle": "Encountering the Self",
+      "lang": "en",
+      "title": "Synthesis: an encounter that leaves room for the child",
+      "url": "encountering-the-self/lessons/16.html"
+    },
+    {
+      "id": "foodwise/00",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "Begin Foodwise: a cook’s way of knowing",
+      "url": "foodwise/lessons/00.html"
+    },
+    {
+      "id": "foodwise/01",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "The History of Nutrition",
+      "url": "foodwise/lessons/01.html"
+    },
+    {
+      "id": "foodwise/02",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "Agricultural Methods",
+      "url": "foodwise/lessons/02.html"
+    },
+    {
+      "id": "foodwise/03",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "The Fourfold Human Being",
+      "url": "foodwise/lessons/03.html"
+    },
+    {
+      "id": "foodwise/04",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "Grasses and Grains",
+      "url": "foodwise/lessons/04.html"
+    },
+    {
+      "id": "foodwise/05",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "What Happens in Nutrition?",
+      "url": "foodwise/lessons/05.html"
+    },
+    {
+      "id": "foodwise/06",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "The Question of Vegetarianism",
+      "url": "foodwise/lessons/06.html"
+    },
+    {
+      "id": "foodwise/07",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "The Threefold Plant",
+      "url": "foodwise/lessons/07.html"
+    },
+    {
+      "id": "foodwise/08",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "Carbohydrates and Sweeteners",
+      "url": "foodwise/lessons/08.html"
+    },
+    {
+      "id": "foodwise/09",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "Bread and Bread Making",
+      "url": "foodwise/lessons/09.html"
+    },
+    {
+      "id": "foodwise/10",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "The Nightshade Family",
+      "url": "foodwise/lessons/10.html"
+    },
+    {
+      "id": "foodwise/11",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "Legumes",
+      "url": "foodwise/lessons/11.html"
+    },
+    {
+      "id": "foodwise/12",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "Milk and Dairy Products",
+      "url": "foodwise/lessons/12.html"
+    },
+    {
+      "id": "foodwise/13",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "Fats and Oils",
+      "url": "foodwise/lessons/13.html"
+    },
+    {
+      "id": "foodwise/14",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "Salt",
+      "url": "foodwise/lessons/14.html"
+    },
+    {
+      "id": "foodwise/15",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "Minerals and Dietary Supplements",
+      "url": "foodwise/lessons/15.html"
+    },
+    {
+      "id": "foodwise/16",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "Herbs and Spices",
+      "url": "foodwise/lessons/16.html"
+    },
+    {
+      "id": "foodwise/17",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "Stimulants: Coffee, Tea and Chocolate",
+      "url": "foodwise/lessons/17.html"
+    },
+    {
+      "id": "foodwise/18",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "Water",
+      "url": "foodwise/lessons/18.html"
+    },
+    {
+      "id": "foodwise/19",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "Cooking and Menu-planning: designing a meal",
+      "url": "foodwise/lessons/19.html"
+    },
+    {
+      "id": "foodwise/20",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "Cooking and Menu-planning: methods and transformation",
+      "url": "foodwise/lessons/20.html"
+    },
+    {
+      "id": "foodwise/21",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "Cooking and Menu-planning: the shared meal",
+      "url": "foodwise/lessons/21.html"
+    },
+    {
+      "id": "foodwise/22",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "Conclusions: from understanding to action",
+      "url": "foodwise/lessons/22.html"
+    },
+    {
+      "id": "foodwise/23",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "en",
+      "title": "Final project: one meal, many relationships",
+      "url": "foodwise/lessons/23.html"
+    },
+    {
+      "id": "higher-worlds/00",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "From Theosophy to the path of knowledge",
+      "url": "higher-worlds/lessons/00.html"
+    },
+    {
+      "id": "higher-worlds/01",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "Reverence and independent judgment",
+      "url": "higher-worlds/lessons/01.html"
+    },
+    {
+      "id": "higher-worlds/02",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "Inner tranquillity and self-observation",
+      "url": "higher-worlds/lessons/02.html"
+    },
+    {
+      "id": "higher-worlds/03",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "Learning to observe and listen",
+      "url": "higher-worlds/lessons/03.html"
+    },
+    {
+      "id": "higher-worlds/04",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "Enlightenment and the seed examples",
+      "url": "higher-worlds/lessons/04.html"
+    },
+    {
+      "id": "higher-worlds/05",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "Character, patience and respect",
+      "url": "higher-worlds/lessons/05.html"
+    },
+    {
+      "id": "higher-worlds/06",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "Reading the initiation trials",
+      "url": "higher-worlds/lessons/06.html"
+    },
+    {
+      "id": "higher-worlds/07",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "Patience in everyday relationships",
+      "url": "higher-worlds/lessons/07.html"
+    },
+    {
+      "id": "higher-worlds/08",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "Seven conditions: care and responsibility",
+      "url": "higher-worlds/lessons/08.html"
+    },
+    {
+      "id": "higher-worlds/09",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "Seven conditions: resolve, gratitude and harmony",
+      "url": "higher-worlds/lessons/09.html"
+    },
+    {
+      "id": "higher-worlds/10",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "Spiritual organs and the language of colour",
+      "url": "higher-worlds/lessons/10.html"
+    },
+    {
+      "id": "higher-worlds/11",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "Etheric life and the higher self",
+      "url": "higher-worlds/lessons/11.html"
+    },
+    {
+      "id": "higher-worlds/12",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "Dreams and the question of knowledge",
+      "url": "higher-worlds/lessons/12.html"
+    },
+    {
+      "id": "higher-worlds/13",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "Continuity of consciousness",
+      "url": "higher-worlds/lessons/13.html"
+    },
+    {
+      "id": "higher-worlds/14",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "Thinking, feeling and willing",
+      "url": "higher-worlds/lessons/14.html"
+    },
+    {
+      "id": "higher-worlds/15",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "The lesser Guardian and responsibility",
+      "url": "higher-worlds/lessons/15.html"
+    },
+    {
+      "id": "higher-worlds/16",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "The greater Guardian and service",
+      "url": "higher-worlds/lessons/16.html"
+    },
+    {
+      "id": "higher-worlds/17",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "Rereading with the appendix",
+      "url": "higher-worlds/lessons/17.html"
+    },
+    {
+      "id": "higher-worlds/18",
+      "course": "higher-worlds",
+      "courseTitle": "How to Know Higher Worlds",
+      "lang": "en",
+      "title": "Knowledge and responsibility: your synthesis",
+      "url": "higher-worlds/lessons/18.html"
+    },
+    {
+      "id": "mystery-temperaments/00",
+      "course": "mystery-temperaments",
+      "courseTitle": "The Mystery of Temperaments",
+      "lang": "en",
+      "title": "A familiar subject, a new reading",
+      "url": "mystery-temperaments/lessons/00.html"
+    },
+    {
+      "id": "mystery-temperaments/01",
+      "course": "mystery-temperaments",
+      "courseTitle": "The Mystery of Temperaments",
+      "lang": "en",
+      "title": "The individual is more than a general description",
+      "url": "mystery-temperaments/lessons/01.html"
+    },
+    {
+      "id": "mystery-temperaments/02",
+      "course": "mystery-temperaments",
+      "courseTitle": "The Mystery of Temperaments",
+      "lang": "en",
+      "title": "Two streams: inheritance and individuality",
+      "url": "mystery-temperaments/lessons/02.html"
+    },
+    {
+      "id": "mystery-temperaments/03",
+      "course": "mystery-temperaments",
+      "courseTitle": "The Mystery of Temperaments",
+      "lang": "en",
+      "title": "Temperament as a meeting, not a third person",
+      "url": "mystery-temperaments/lessons/03.html"
+    },
+    {
+      "id": "mystery-temperaments/04",
+      "course": "mystery-temperaments",
+      "courseTitle": "The Mystery of Temperaments",
+      "lang": "en",
+      "title": "Four members and a changing emphasis",
+      "url": "mystery-temperaments/lessons/04.html"
+    },
+    {
+      "id": "mystery-temperaments/05",
+      "course": "mystery-temperaments",
+      "courseTitle": "The Mystery of Temperaments",
+      "lang": "en",
+      "title": "Four portraits: where does attention go?",
+      "url": "mystery-temperaments/lessons/05.html"
+    },
+    {
+      "id": "mystery-temperaments/06",
+      "course": "mystery-temperaments",
+      "courseTitle": "The Mystery of Temperaments",
+      "lang": "en",
+      "title": "Appearance and the missing inference",
+      "url": "mystery-temperaments/lessons/06.html"
+    },
+    {
+      "id": "mystery-temperaments/07",
+      "course": "mystery-temperaments",
+      "courseTitle": "The Mystery of Temperaments",
+      "lang": "en",
+      "title": "Mixtures, one-sidedness and educational aims",
+      "url": "mystery-temperaments/lessons/07.html"
+    },
+    {
+      "id": "mystery-temperaments/08",
+      "course": "mystery-temperaments",
+      "courseTitle": "The Mystery of Temperaments",
+      "lang": "en",
+      "title": "Sanguine interest: find a thread worth returning to",
+      "url": "mystery-temperaments/lessons/08.html"
+    },
+    {
+      "id": "mystery-temperaments/09",
+      "course": "mystery-temperaments",
+      "courseTitle": "The Mystery of Temperaments",
+      "lang": "en",
+      "title": "Choleric purpose: capable guidance and a workable challenge",
+      "url": "mystery-temperaments/lessons/09.html"
+    },
+    {
+      "id": "mystery-temperaments/10",
+      "course": "mystery-temperaments",
+      "courseTitle": "The Mystery of Temperaments",
+      "lang": "en",
+      "title": "Melancholic sensitivity: care without manufactured suffering",
+      "url": "mystery-temperaments/lessons/10.html"
+    },
+    {
+      "id": "mystery-temperaments/11",
+      "course": "mystery-temperaments",
+      "courseTitle": "The Mystery of Temperaments",
+      "lang": "en",
+      "title": "Phlegmatic participation: another person’s interest",
+      "url": "mystery-temperaments/lessons/11.html"
+    },
+    {
+      "id": "mystery-temperaments/12",
+      "course": "mystery-temperaments",
+      "courseTitle": "The Mystery of Temperaments",
+      "lang": "en",
+      "title": "Self-education: arrange a situation, then review it",
+      "url": "mystery-temperaments/lessons/12.html"
+    },
+    {
+      "id": "mystery-temperaments/13",
+      "course": "mystery-temperaments",
+      "courseTitle": "The Mystery of Temperaments",
+      "lang": "en",
+      "title": "Knowledge that changes how we meet",
+      "url": "mystery-temperaments/lessons/13.html"
+    },
+    {
+      "id": "mystery-temperaments/14",
+      "course": "mystery-temperaments",
+      "courseTitle": "The Mystery of Temperaments",
+      "lang": "en",
+      "title": "Your synthesis: a more attentive encounter",
+      "url": "mystery-temperaments/lessons/14.html"
+    },
+    {
+      "id": "nutrition/00",
+      "course": "nutrition",
+      "courseTitle": "Nutrition",
+      "lang": "en",
+      "title": "Before you begin: food, freedom and careful reading",
+      "url": "nutrition/lessons/00.html"
+    },
+    {
+      "id": "nutrition/01",
+      "course": "nutrition",
+      "courseTitle": "Nutrition",
+      "lang": "en",
+      "title": "Nutrition in the Light of Spiritual Science",
+      "url": "nutrition/lessons/01.html"
+    },
+    {
+      "id": "nutrition/02",
+      "course": "nutrition",
+      "courseTitle": "Nutrition",
+      "lang": "en",
+      "title": "The Penetration of Substance with Spirit",
+      "url": "nutrition/lessons/02.html"
+    },
+    {
+      "id": "nutrition/03",
+      "course": "nutrition",
+      "courseTitle": "Nutrition",
+      "lang": "en",
+      "title": "Nutrition from a Cosmic Perspective",
+      "url": "nutrition/lessons/03.html"
+    },
+    {
+      "id": "nutrition/04",
+      "course": "nutrition",
+      "courseTitle": "Nutrition",
+      "lang": "en",
+      "title": "Nutrition and the Human Body",
+      "url": "nutrition/lessons/04.html"
+    },
+    {
+      "id": "nutrition/05",
+      "course": "nutrition",
+      "courseTitle": "Nutrition",
+      "lang": "en",
+      "title": "Healthy Nutrition and the Quality of Food",
+      "url": "nutrition/lessons/05.html"
+    },
+    {
+      "id": "nutrition/06",
+      "course": "nutrition",
+      "courseTitle": "Nutrition",
+      "lang": "en",
+      "title": "The Processes of Digestion",
+      "url": "nutrition/lessons/06.html"
+    },
+    {
+      "id": "nutrition/07",
+      "course": "nutrition",
+      "courseTitle": "Nutrition",
+      "lang": "en",
+      "title": "Plant, Raw Food, Vegetarian and Meat Diets",
+      "url": "nutrition/lessons/07.html"
+    },
+    {
+      "id": "nutrition/08",
+      "course": "nutrition",
+      "courseTitle": "Nutrition",
+      "lang": "en",
+      "title": "Potatoes, Beetroots, Radishes and the Spiritual in Human Beings",
+      "url": "nutrition/lessons/08.html"
+    },
+    {
+      "id": "nutrition/09",
+      "course": "nutrition",
+      "courseTitle": "Nutrition",
+      "lang": "en",
+      "title": "The Effects of Protein, Fats, Carbohydrates and Salts",
+      "url": "nutrition/lessons/09.html"
+    },
+    {
+      "id": "nutrition/10",
+      "course": "nutrition",
+      "courseTitle": "Nutrition",
+      "lang": "en",
+      "title": "The Effects of Alcohol",
+      "url": "nutrition/lessons/10.html"
+    },
+    {
+      "id": "nutrition/11",
+      "course": "nutrition",
+      "courseTitle": "Nutrition",
+      "lang": "en",
+      "title": "The Effects of Nicotine",
+      "url": "nutrition/lessons/11.html"
+    },
+    {
+      "id": "nutrition/12",
+      "course": "nutrition",
+      "courseTitle": "Nutrition",
+      "lang": "en",
+      "title": "Nutrition and Health",
+      "url": "nutrition/lessons/12.html"
+    },
+    {
+      "id": "nutrition/13",
+      "course": "nutrition",
+      "courseTitle": "Nutrition",
+      "lang": "en",
+      "title": "Final synthesis: explain a relationship, examine a claim",
+      "url": "nutrition/lessons/13.html"
+    },
+    {
+      "id": "phases/00",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "Reading a life as a whole",
+      "url": "phases/lessons/00.html"
+    },
+    {
+      "id": "phases/01",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "Growth, development and the three dimensions",
+      "url": "phases/lessons/01.html"
+    },
+    {
+      "id": "phases/02",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "Age phases are a map, with limits",
+      "url": "phases/lessons/02.html"
+    },
+    {
+      "id": "phases/03",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "Three interacting life lines",
+      "url": "phases/lessons/03.html"
+    },
+    {
+      "id": "phases/04",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "Adolescence: identity, ideals and choice",
+      "url": "phases/lessons/04.html"
+    },
+    {
+      "id": "phases/05",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "The twenties: meeting the world",
+      "url": "phases/lessons/05.html"
+    },
+    {
+      "id": "phases/06",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "The organizational phase: structure without rigidity",
+      "url": "phases/lessons/06.html"
+    },
+    {
+      "id": "phases/07",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "The late thirties: a crisis of values",
+      "url": "phases/lessons/07.html"
+    },
+    {
+      "id": "phases/08",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "The forties: finding a new direction",
+      "url": "phases/lessons/08.html"
+    },
+    {
+      "id": "phases/09",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "The early fifties: experience becomes contribution",
+      "url": "phases/lessons/09.html"
+    },
+    {
+      "id": "phases/10",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "After 56: letting go and remaining creative",
+      "url": "phases/lessons/10.html"
+    },
+    {
+      "id": "phases/11",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "Relationships: meeting the other person",
+      "url": "phases/lessons/11.html"
+    },
+    {
+      "id": "phases/12",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "Six basic life orientations",
+      "url": "phases/lessons/12.html"
+    },
+    {
+      "id": "phases/13",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "Work that leaves room to develop",
+      "url": "phases/lessons/13.html"
+    },
+    {
+      "id": "phases/14",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "Images of the human being",
+      "url": "phases/lessons/14.html"
+    },
+    {
+      "id": "phases/15",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "Psychotherapy and its underlying assumptions",
+      "url": "phases/lessons/15.html"
+    },
+    {
+      "id": "phases/16",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "Helping, therapy and the right to privacy",
+      "url": "phases/lessons/16.html"
+    },
+    {
+      "id": "phases/17",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "Self-development: attention, practice and freedom",
+      "url": "phases/lessons/17.html"
+    },
+    {
+      "id": "phases/18",
+      "course": "phases",
+      "courseTitle": "Phases",
+      "lang": "en",
+      "title": "Final project: a biography with an open future",
+      "url": "phases/lessons/18.html"
+    },
+    {
+      "id": "philosophy-of-freedom/00",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "How to study this book",
+      "url": "philosophy-of-freedom/lessons/00.html"
+    },
+    {
+      "id": "philosophy-of-freedom/01",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "Is choosing enough?",
+      "url": "philosophy-of-freedom/lessons/01.html"
+    },
+    {
+      "id": "philosophy-of-freedom/02",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "Why do we seek explanations?",
+      "url": "philosophy-of-freedom/lessons/02.html"
+    },
+    {
+      "id": "philosophy-of-freedom/03",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "What do we add by thinking?",
+      "url": "philosophy-of-freedom/lessons/03.html"
+    },
+    {
+      "id": "philosophy-of-freedom/04",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "Thinking: make a connection, then examine it",
+      "url": "philosophy-of-freedom/lessons/04.html"
+    },
+    {
+      "id": "philosophy-of-freedom/05",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "Perception, representation and an argument to test",
+      "url": "philosophy-of-freedom/lessons/05.html"
+    },
+    {
+      "id": "philosophy-of-freedom/06",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "Does perception give us only representations?",
+      "url": "philosophy-of-freedom/lessons/06.html"
+    },
+    {
+      "id": "philosophy-of-freedom/07",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "Knowing: percept and concept belong together",
+      "url": "philosophy-of-freedom/lessons/07.html"
+    },
+    {
+      "id": "philosophy-of-freedom/08",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "Shared concepts and personal experience",
+      "url": "philosophy-of-freedom/lessons/08.html"
+    },
+    {
+      "id": "philosophy-of-freedom/09",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "Human individuality: concepts, encounters and feeling",
+      "url": "philosophy-of-freedom/lessons/09.html"
+    },
+    {
+      "id": "philosophy-of-freedom/10",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "What would a limit to knowledge mean?",
+      "url": "philosophy-of-freedom/lessons/10.html"
+    },
+    {
+      "id": "philosophy-of-freedom/11",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "Thinking, feeling and willing",
+      "url": "philosophy-of-freedom/lessons/11.html"
+    },
+    {
+      "id": "philosophy-of-freedom/12",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "A free deed: motive, driving force and ethical insight",
+      "url": "philosophy-of-freedom/lessons/12.html"
+    },
+    {
+      "id": "philosophy-of-freedom/13",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "What is a free deed in Steiner’s account?",
+      "url": "philosophy-of-freedom/lessons/13.html"
+    },
+    {
+      "id": "philosophy-of-freedom/14",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "Freedom with other people: monism and authority",
+      "url": "philosophy-of-freedom/lessons/14.html"
+    },
+    {
+      "id": "philosophy-of-freedom/15",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "Who sets a purpose?",
+      "url": "philosophy-of-freedom/lessons/15.html"
+    },
+    {
+      "id": "philosophy-of-freedom/16",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "From ethical insight to a workable deed",
+      "url": "philosophy-of-freedom/lessons/16.html"
+    },
+    {
+      "id": "philosophy-of-freedom/17",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "Moral imagination and technique",
+      "url": "philosophy-of-freedom/lessons/17.html"
+    },
+    {
+      "id": "philosophy-of-freedom/18",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "Desire, enjoyment and the value of an aim",
+      "url": "philosophy-of-freedom/lessons/18.html"
+    },
+    {
+      "id": "philosophy-of-freedom/19",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "Valuing a chosen aim",
+      "url": "philosophy-of-freedom/lessons/19.html"
+    },
+    {
+      "id": "philosophy-of-freedom/20",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "Understanding an individual",
+      "url": "philosophy-of-freedom/lessons/20.html"
+    },
+    {
+      "id": "philosophy-of-freedom/21",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "The Philosophy of Freedom",
+      "lang": "en",
+      "title": "Knowing and acting: bring the argument together",
+      "url": "philosophy-of-freedom/lessons/21.html"
+    },
+    {
+      "id": "practical-thinking/00",
+      "course": "practical-thinking",
+      "courseTitle": "Practical Thinking",
+      "lang": "en",
+      "title": "Habit or a reason?",
+      "url": "practical-thinking/lessons/00.html"
+    },
+    {
+      "id": "practical-thinking/01",
+      "course": "practical-thinking",
+      "courseTitle": "Practical Thinking",
+      "lang": "en",
+      "title": "An attitude of inquiry",
+      "url": "practical-thinking/lessons/01.html"
+    },
+    {
+      "id": "practical-thinking/02",
+      "course": "practical-thinking",
+      "courseTitle": "Practical Thinking",
+      "lang": "en",
+      "title": "Observe before explaining",
+      "url": "practical-thinking/lessons/02.html"
+    },
+    {
+      "id": "practical-thinking/03",
+      "course": "practical-thinking",
+      "courseTitle": "Practical Thinking",
+      "lang": "en",
+      "title": "Follow a change",
+      "url": "practical-thinking/lessons/03.html"
+    },
+    {
+      "id": "practical-thinking/04",
+      "course": "practical-thinking",
+      "courseTitle": "Practical Thinking",
+      "lang": "en",
+      "title": "Make a prediction you can check",
+      "url": "practical-thinking/lessons/04.html"
+    },
+    {
+      "id": "practical-thinking/05",
+      "course": "practical-thinking",
+      "courseTitle": "Practical Thinking",
+      "lang": "en",
+      "title": "Investigate how something happened",
+      "url": "practical-thinking/lessons/05.html"
+    },
+    {
+      "id": "practical-thinking/06",
+      "course": "practical-thinking",
+      "courseTitle": "Practical Thinking",
+      "lang": "en",
+      "title": "Choose and sustain a line of thought",
+      "url": "practical-thinking/lessons/06.html"
+    },
+    {
+      "id": "practical-thinking/07",
+      "course": "practical-thinking",
+      "courseTitle": "Practical Thinking",
+      "lang": "en",
+      "title": "Build and check a mental picture",
+      "url": "practical-thinking/lessons/07.html"
+    },
+    {
+      "id": "practical-thinking/08",
+      "course": "practical-thinking",
+      "courseTitle": "Practical Thinking",
+      "lang": "en",
+      "title": "Compare, pause and decide",
+      "url": "practical-thinking/lessons/08.html"
+    },
+    {
+      "id": "practical-thinking/09",
+      "course": "practical-thinking",
+      "courseTitle": "Practical Thinking",
+      "lang": "en",
+      "title": "Review how your thinking changed",
+      "url": "practical-thinking/lessons/09.html"
+    },
+    {
+      "id": "foundations/01",
+      "course": "foundations",
+      "courseTitle": "Fundamentos",
+      "lang": "pt",
+      "title": "O que estamos estudando?",
+      "url": "pt/foundations/01.html"
+    },
+    {
+      "id": "foundations/02",
+      "course": "foundations",
+      "courseTitle": "Fundamentos",
+      "lang": "pt",
+      "title": "Observação, interpretação e conhecimento",
+      "url": "pt/foundations/02.html"
+    },
+    {
+      "id": "foundations/03",
+      "course": "foundations",
+      "courseTitle": "Fundamentos",
+      "lang": "pt",
+      "title": "Corpo, alma e espírito: três relações com o mundo",
+      "url": "pt/foundations/03.html"
+    },
+    {
+      "id": "foundations/04",
+      "course": "foundations",
+      "courseTitle": "Fundamentos",
+      "lang": "pt",
+      "title": "Pensar, sentir e querer: atividades, não outra lista de corpos",
+      "url": "pt/foundations/04.html"
+    },
+    {
+      "id": "foundations/05",
+      "course": "foundations",
+      "courseTitle": "Fundamentos",
+      "lang": "pt",
+      "title": "Matéria e organização viva",
+      "url": "pt/foundations/05.html"
+    },
+    {
+      "id": "foundations/06",
+      "course": "foundations",
+      "courseTitle": "Fundamentos",
+      "lang": "pt",
+      "title": "Experiência interior e Eu",
+      "url": "pt/foundations/06.html"
+    },
+    {
+      "id": "foundations/07",
+      "course": "foundations",
+      "courseTitle": "Fundamentos",
+      "lang": "pt",
+      "title": "A organização corporal tríplice",
+      "url": "pt/foundations/07.html"
+    },
+    {
+      "id": "foundations/08",
+      "course": "foundations",
+      "courseTitle": "Fundamentos",
+      "lang": "pt",
+      "title": "Como as descrições se relacionam sem se tornarem intercambiáveis",
+      "url": "pt/foundations/08.html"
+    },
+    {
+      "id": "foundations/09",
+      "course": "foundations",
+      "courseTitle": "Fundamentos",
+      "lang": "pt",
+      "title": "Como a vida interior se diferencia",
+      "url": "pt/foundations/09.html"
+    },
+    {
+      "id": "foundations/10",
+      "course": "foundations",
+      "courseTitle": "Fundamentos",
+      "lang": "pt",
+      "title": "Individualidade e desenvolvimento espiritual",
+      "url": "pt/foundations/10.html"
+    },
+    {
+      "id": "foundations/11",
+      "course": "foundations",
+      "courseTitle": "Fundamentos",
+      "lang": "pt",
+      "title": "Memória, capacidade e biografia",
+      "url": "pt/foundations/11.html"
+    },
+    {
+      "id": "foundations/12",
+      "course": "foundations",
+      "courseTitle": "Fundamentos",
+      "lang": "pt",
+      "title": "Liberdade e ação responsável",
+      "url": "pt/foundations/12.html"
+    },
+    {
+      "id": "foundations/13",
+      "course": "foundations",
+      "courseTitle": "Fundamentos",
+      "lang": "pt",
+      "title": "Reencarnação: a continuidade proposta da individualidade",
+      "url": "pt/foundations/13.html"
+    },
+    {
+      "id": "foundations/14",
+      "course": "foundations",
+      "courseTitle": "Fundamentos",
+      "lang": "pt",
+      "title": "Carma: ação, consequência e destino",
+      "url": "pt/foundations/14.html"
+    },
+    {
+      "id": "foundations/15",
+      "course": "foundations",
+      "courseTitle": "Fundamentos",
+      "lang": "pt",
+      "title": "O que Steiner entende por mundo anímico",
+      "url": "pt/foundations/15.html"
+    },
+    {
+      "id": "foundations/16",
+      "course": "foundations",
+      "courseTitle": "Fundamentos",
+      "lang": "pt",
+      "title": "O que Steiner entende por mundo espiritual",
+      "url": "pt/foundations/16.html"
+    },
+    {
+      "id": "foundations/17",
+      "course": "foundations",
+      "courseTitle": "Fundamentos",
+      "lang": "pt",
+      "title": "O caminho do conhecimento",
+      "url": "pt/foundations/17.html"
+    },
+    {
+      "id": "foundations/18",
+      "course": "foundations",
+      "courseTitle": "Fundamentos",
+      "lang": "pt",
+      "title": "Reúna as relações",
+      "url": "pt/foundations/18.html"
+    },
+    {
+      "id": "theosophy/00",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Por que estudar antroposofia?",
+      "url": "pt/lessons/00.html"
+    },
+    {
+      "id": "theosophy/01",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Nosso encontro com o mundo",
+      "url": "pt/lessons/01.html"
+    },
+    {
+      "id": "theosophy/02",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Corpo e experiência interior",
+      "url": "pt/lessons/02.html"
+    },
+    {
+      "id": "theosophy/03",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Vida, sensação e organização formativa",
+      "url": "pt/lessons/03.html"
+    },
+    {
+      "id": "theosophy/04",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Três aspectos da alma",
+      "url": "pt/lessons/04.html"
+    },
+    {
+      "id": "theosophy/05",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "O Eu e a individualidade espiritual",
+      "url": "pt/lessons/05.html"
+    },
+    {
+      "id": "theosophy/06",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Um ser humano, diferentes classificações",
+      "url": "pt/lessons/06.html"
+    },
+    {
+      "id": "theosophy/07",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Memória, aprendizagem e efeitos duradouros",
+      "url": "pt/lessons/07.html"
+    },
+    {
+      "id": "theosophy/08",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Individualidade e vidas sucessivas",
+      "url": "pt/lessons/08.html"
+    },
+    {
+      "id": "theosophy/09",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Ação e destino",
+      "url": "pt/lessons/09.html"
+    },
+    {
+      "id": "theosophy/10",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "O mundo anímico",
+      "url": "pt/lessons/10.html"
+    },
+    {
+      "id": "theosophy/11",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Apego e desprendimento",
+      "url": "pt/lessons/11.html"
+    },
+    {
+      "id": "theosophy/12",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Arquétipos e mundo espiritual",
+      "url": "pt/lessons/12.html"
+    },
+    {
+      "id": "theosophy/13",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Da experiência à capacidade",
+      "url": "pt/lessons/13.html"
+    },
+    {
+      "id": "theosophy/14",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Individualidade, propósito e retorno",
+      "url": "pt/lessons/14.html"
+    },
+    {
+      "id": "theosophy/15",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "A natureza e os três mundos",
+      "url": "pt/lessons/15.html"
+    },
+    {
+      "id": "theosophy/16",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Seres coletivos e elementais",
+      "url": "pt/lessons/16.html"
+    },
+    {
+      "id": "theosophy/17",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Formas-pensamento e aura",
+      "url": "pt/lessons/17.html"
+    },
+    {
+      "id": "theosophy/18",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Receptividade e pensamento",
+      "url": "pt/lessons/18.html"
+    },
+    {
+      "id": "theosophy/19",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Sentir sem reagir automaticamente",
+      "url": "pt/lessons/19.html"
+    },
+    {
+      "id": "theosophy/20",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Pensamento coerente e ação responsável",
+      "url": "pt/lessons/20.html"
+    },
+    {
+      "id": "theosophy/21",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Liberdade, individualidade e vida cotidiana",
+      "url": "pt/lessons/21.html"
+    },
+    {
+      "id": "theosophy/22",
+      "course": "theosophy",
+      "courseTitle": "Teosofia",
+      "lang": "pt",
+      "title": "Reúna as ideias do livro",
+      "url": "pt/lessons/22.html"
+    },
+    {
+      "id": "meditation/00",
+      "course": "meditation",
+      "courseTitle": "Meditação e vida interior",
+      "lang": "pt",
+      "title": "O que a meditação pretende ensinar",
+      "url": "pt/meditation/00.html"
+    },
+    {
+      "id": "meditation/01",
+      "course": "meditation",
+      "courseTitle": "Meditação e vida interior",
+      "lang": "pt",
+      "title": "Um verso: compreender e conviver interiormente",
+      "url": "pt/meditation/01.html"
+    },
+    {
+      "id": "meditation/02",
+      "course": "meditation",
+      "courseTitle": "Meditação e vida interior",
+      "lang": "pt",
+      "title": "Os seis exercícios de apoio",
+      "url": "pt/meditation/02.html"
+    },
+    {
+      "id": "meditation/03",
+      "course": "meditation",
+      "courseTitle": "Meditação e vida interior",
+      "lang": "pt",
+      "title": "Retrospectiva: aprender com o dia",
+      "url": "pt/meditation/03.html"
+    },
+    {
+      "id": "meditation/04",
+      "course": "meditation",
+      "courseTitle": "Meditação e vida interior",
+      "lang": "pt",
+      "title": "Calendário da Alma: um verso ao longo da semana",
+      "url": "pt/meditation/04.html"
+    },
+    {
+      "id": "meditation/05",
+      "course": "meditation",
+      "courseTitle": "Meditação e vida interior",
+      "lang": "pt",
+      "title": "A Rosa-Cruz: por que preparar a imagem",
+      "url": "pt/meditation/05.html"
+    },
+    {
+      "id": "meditation/06",
+      "course": "meditation",
+      "courseTitle": "Meditação e vida interior",
+      "lang": "pt",
+      "title": "A Pedra Fundamental: a meditação inteira",
+      "url": "pt/meditation/06.html"
+    },
+    {
+      "id": "meditation/07",
+      "course": "meditation",
+      "courseTitle": "Meditação e vida interior",
+      "lang": "pt",
+      "title": "Conviver com a Pedra Fundamental ao longo do tempo",
+      "url": "pt/meditation/07.html"
+    },
+    {
+      "id": "meditation/08",
+      "course": "meditation",
+      "courseTitle": "Meditação e vida interior",
+      "lang": "pt",
+      "title": "Um ritmo a serviço da vida",
+      "url": "pt/meditation/08.html"
+    },
+    {
+      "id": "parents-educators/01",
+      "course": "parents-educators",
+      "courseTitle": "Famílias e educadores",
+      "lang": "pt",
+      "title": "O que aconteceu de fato?",
+      "url": "pt/parents-educators/01.html"
+    },
+    {
+      "id": "parents-educators/02",
+      "course": "parents-educators",
+      "courseTitle": "Famílias e educadores",
+      "lang": "pt",
+      "title": "O que estou deixando de perceber?",
+      "url": "pt/parents-educators/02.html"
+    },
+    {
+      "id": "parents-educators/03",
+      "course": "parents-educators",
+      "courseTitle": "Famílias e educadores",
+      "lang": "pt",
+      "title": "Um ritmo que cabe na nossa vida",
+      "url": "pt/parents-educators/03.html"
+    },
+    {
+      "id": "parents-educators/04",
+      "course": "parents-educators",
+      "courseTitle": "Famílias e educadores",
+      "lang": "pt",
+      "title": "Caminhos diferentes para a mesma tarefa",
+      "url": "pt/parents-educators/04.html"
+    },
+    {
+      "id": "parents-educators/05",
+      "course": "parents-educators",
+      "courseTitle": "Famílias e educadores",
+      "lang": "pt",
+      "title": "Um limite e uma possibilidade de reparação",
+      "url": "pt/parents-educators/05.html"
+    },
+    {
+      "id": "parents-educators/06",
+      "course": "parents-educators",
+      "courseTitle": "Famílias e educadores",
+      "lang": "pt",
+      "title": "Aprender pela imaginação e pelo fazer",
+      "url": "pt/parents-educators/06.html"
+    },
+    {
+      "id": "parents-educators/07",
+      "course": "parents-educators",
+      "courseTitle": "Famílias e educadores",
+      "lang": "pt",
+      "title": "Desenvolvimento e criança concreta",
+      "url": "pt/parents-educators/07.html"
+    },
+    {
+      "id": "parents-educators/08",
+      "course": "parents-educators",
+      "courseTitle": "Famílias e educadores",
+      "lang": "pt",
+      "title": "Da boa intenção a uma ação refletida",
+      "url": "pt/parents-educators/08.html"
+    },
+    {
+      "id": "temperaments/00",
+      "course": "temperaments",
+      "courseTitle": "The Four Temperaments",
+      "lang": "en",
+      "title": "Meet the person before the type",
+      "url": "temperaments/lessons/00.html"
+    },
+    {
+      "id": "temperaments/01",
+      "course": "temperaments",
+      "courseTitle": "The Four Temperaments",
+      "lang": "en",
+      "title": "Two streams and their meeting",
+      "url": "temperaments/lessons/01.html"
+    },
+    {
+      "id": "temperaments/02",
+      "course": "temperaments",
+      "courseTitle": "The Four Temperaments",
+      "lang": "en",
+      "title": "Four members, four tendencies",
+      "url": "temperaments/lessons/02.html"
+    },
+    {
+      "id": "temperaments/03",
+      "course": "temperaments",
+      "courseTitle": "The Four Temperaments",
+      "lang": "en",
+      "title": "Choleric: purpose meeting resistance",
+      "url": "temperaments/lessons/03.html"
+    },
+    {
+      "id": "temperaments/04",
+      "course": "temperaments",
+      "courseTitle": "The Four Temperaments",
+      "lang": "en",
+      "title": "Sanguine: interest that moves quickly",
+      "url": "temperaments/lessons/04.html"
+    },
+    {
+      "id": "temperaments/05",
+      "course": "temperaments",
+      "courseTitle": "The Four Temperaments",
+      "lang": "en",
+      "title": "Phlegmatic: finding an invitation to participate",
+      "url": "temperaments/lessons/05.html"
+    },
+    {
+      "id": "temperaments/06",
+      "course": "temperaments",
+      "courseTitle": "The Four Temperaments",
+      "lang": "en",
+      "title": "Melancholic: sensitivity and compassionate attention",
+      "url": "temperaments/lessons/06.html"
+    },
+    {
+      "id": "temperaments/07",
+      "course": "temperaments",
+      "courseTitle": "The Four Temperaments",
+      "lang": "en",
+      "title": "Mixtures, appearance and the limits of a label",
+      "url": "temperaments/lessons/07.html"
+    },
+    {
+      "id": "temperaments/08",
+      "course": "temperaments",
+      "courseTitle": "The Four Temperaments",
+      "lang": "en",
+      "title": "Education: work with what is already present",
+      "url": "temperaments/lessons/08.html"
+    },
+    {
+      "id": "temperaments/09",
+      "course": "temperaments",
+      "courseTitle": "The Four Temperaments",
+      "lang": "en",
+      "title": "Self-education through an indirect route",
+      "url": "temperaments/lessons/09.html"
+    },
+    {
+      "id": "temperaments/10",
+      "course": "temperaments",
+      "courseTitle": "The Four Temperaments",
+      "lang": "en",
+      "title": "Your synthesis: a person, a pattern, a response",
+      "url": "temperaments/lessons/10.html"
+    },
+    {
+      "id": "understand-temperament/00",
+      "course": "understand-temperament",
+      "courseTitle": "Understand Your Temperament!",
+      "lang": "en",
+      "title": "A second author, a broader application",
+      "url": "understand-temperament/lessons/00.html"
+    },
+    {
+      "id": "understand-temperament/01",
+      "course": "understand-temperament",
+      "courseTitle": "Understand Your Temperament!",
+      "lang": "en",
+      "title": "Chapter 1: the same, only different",
+      "url": "understand-temperament/lessons/01.html"
+    },
+    {
+      "id": "understand-temperament/02",
+      "course": "understand-temperament",
+      "courseTitle": "Understand Your Temperament!",
+      "lang": "en",
+      "title": "Chapter 2: reading the psychological map",
+      "url": "understand-temperament/lessons/02.html"
+    },
+    {
+      "id": "understand-temperament/03",
+      "course": "understand-temperament",
+      "courseTitle": "Understand Your Temperament!",
+      "lang": "en",
+      "title": "Chapter 3: initiative, determination and correction",
+      "url": "understand-temperament/lessons/03.html"
+    },
+    {
+      "id": "understand-temperament/04",
+      "course": "understand-temperament",
+      "courseTitle": "Understand Your Temperament!",
+      "lang": "en",
+      "title": "Chapter 4: enthusiasm and following through",
+      "url": "understand-temperament/lessons/04.html"
+    },
+    {
+      "id": "understand-temperament/05",
+      "course": "understand-temperament",
+      "courseTitle": "Understand Your Temperament!",
+      "lang": "en",
+      "title": "Chapter 5: steadiness, privacy and participation",
+      "url": "understand-temperament/lessons/05.html"
+    },
+    {
+      "id": "understand-temperament/06",
+      "course": "understand-temperament",
+      "courseTitle": "Understand Your Temperament!",
+      "lang": "en",
+      "title": "Chapter 6: sensitivity without assumptions about suffering",
+      "url": "understand-temperament/lessons/06.html"
+    },
+    {
+      "id": "understand-temperament/07",
+      "course": "understand-temperament",
+      "courseTitle": "Understand Your Temperament!",
+      "lang": "en",
+      "title": "Chapter 7: cooperation in the workplace",
+      "url": "understand-temperament/lessons/07.html"
+    },
+    {
+      "id": "understand-temperament/08",
+      "course": "understand-temperament",
+      "courseTitle": "Understand Your Temperament!",
+      "lang": "en",
+      "title": "Chapter 8: compatibility as a question, not a verdict",
+      "url": "understand-temperament/lessons/08.html"
+    },
+    {
+      "id": "understand-temperament/09",
+      "course": "understand-temperament",
+      "courseTitle": "Understand Your Temperament!",
+      "lang": "en",
+      "title": "Chapter 9: spiritual explanation and practical love",
+      "url": "understand-temperament/lessons/09.html"
+    },
+    {
+      "id": "understand-temperament/10",
+      "course": "understand-temperament",
+      "courseTitle": "Understand Your Temperament!",
+      "lang": "en",
+      "title": "Appendix I: watching people and watching our assumptions",
+      "url": "understand-temperament/lessons/10.html"
+    },
+    {
+      "id": "understand-temperament/11",
+      "course": "understand-temperament",
+      "courseTitle": "Understand Your Temperament!",
+      "lang": "en",
+      "title": "Appendix II: when an elegant model needs evidence",
+      "url": "understand-temperament/lessons/11.html"
+    },
+    {
+      "id": "understand-temperament/12",
+      "course": "understand-temperament",
+      "courseTitle": "Understand Your Temperament!",
+      "lang": "en",
+      "title": "Synthesis: understanding that changes an encounter",
+      "url": "understand-temperament/lessons/12.html"
+    },
+    {
+      "id": "understanding-temperaments/00",
+      "course": "understanding-temperaments",
+      "courseTitle": "Understanding Temperaments",
+      "lang": "en",
+      "title": "Meet the person before the type",
+      "url": "understanding-temperaments/lessons/00.html"
+    },
+    {
+      "id": "understanding-temperaments/01",
+      "course": "understanding-temperaments",
+      "courseTitle": "Understanding Temperaments",
+      "lang": "en",
+      "title": "The four tendencies and their background",
+      "url": "understanding-temperaments/lessons/01.html"
+    },
+    {
+      "id": "understanding-temperaments/02",
+      "course": "understanding-temperaments",
+      "courseTitle": "Understanding Temperaments",
+      "lang": "en",
+      "title": "Choleric: purpose and correction",
+      "url": "understanding-temperaments/lessons/02.html"
+    },
+    {
+      "id": "understanding-temperaments/03",
+      "course": "understanding-temperaments",
+      "courseTitle": "Understanding Temperaments",
+      "lang": "en",
+      "title": "Sanguine: interest and follow-through",
+      "url": "understanding-temperaments/lessons/03.html"
+    },
+    {
+      "id": "understanding-temperaments/04",
+      "course": "understanding-temperaments",
+      "courseTitle": "Understanding Temperaments",
+      "lang": "en",
+      "title": "Phlegmatic: steadiness and participation",
+      "url": "understanding-temperaments/lessons/04.html"
+    },
+    {
+      "id": "understanding-temperaments/05",
+      "course": "understanding-temperaments",
+      "courseTitle": "Understanding Temperaments",
+      "lang": "en",
+      "title": "Melancholic: sensitivity and care",
+      "url": "understanding-temperaments/lessons/05.html"
+    },
+    {
+      "id": "understanding-temperaments/06",
+      "course": "understanding-temperaments",
+      "courseTitle": "Understanding Temperaments",
+      "lang": "en",
+      "title": "Mixtures, context and change",
+      "url": "understanding-temperaments/lessons/06.html"
+    },
+    {
+      "id": "understanding-temperaments/07",
+      "course": "understanding-temperaments",
+      "courseTitle": "Understanding Temperaments",
+      "lang": "en",
+      "title": "Supporting a learner",
+      "url": "understanding-temperaments/lessons/07.html"
+    },
+    {
+      "id": "understanding-temperaments/08",
+      "course": "understanding-temperaments",
+      "courseTitle": "Understanding Temperaments",
+      "lang": "en",
+      "title": "Working together",
+      "url": "understanding-temperaments/lessons/08.html"
+    },
+    {
+      "id": "understanding-temperaments/09",
+      "course": "understanding-temperaments",
+      "courseTitle": "Understanding Temperaments",
+      "lang": "en",
+      "title": "Relationships and communication",
+      "url": "understanding-temperaments/lessons/09.html"
+    },
+    {
+      "id": "understanding-temperaments/10",
+      "course": "understanding-temperaments",
+      "courseTitle": "Understanding Temperaments",
+      "lang": "en",
+      "title": "Self-education through a small experiment",
+      "url": "understanding-temperaments/lessons/10.html"
+    },
+    {
+      "id": "understanding-temperaments/11",
+      "course": "understanding-temperaments",
+      "courseTitle": "Understanding Temperaments",
+      "lang": "en",
+      "title": "A more attentive encounter",
+      "url": "understanding-temperaments/lessons/11.html"
+    },
+    {
+      "id": "according-to-luke/00",
+      "course": "according-to-luke",
+      "courseTitle": "Segundo Lucas",
+      "lang": "pt",
+      "title": "Como ler este curso",
+      "url": "pt/according-to-luke/lessons/00.html"
+    },
+    {
+      "id": "according-to-luke/01",
+      "course": "according-to-luke",
+      "courseTitle": "Segundo Lucas",
+      "lang": "pt",
+      "title": "Imaginação, Inspiração e Intuição",
+      "url": "pt/according-to-luke/lessons/01.html"
+    },
+    {
+      "id": "according-to-luke/02",
+      "course": "according-to-luke",
+      "courseTitle": "Segundo Lucas",
+      "lang": "pt",
+      "title": "De Bodisatva a Buda: compaixão",
+      "url": "pt/according-to-luke/lessons/02.html"
+    },
+    {
+      "id": "according-to-luke/03",
+      "course": "according-to-luke",
+      "courseTitle": "Segundo Lucas",
+      "lang": "pt",
+      "title": "O caminho óctuplo e o Nirmanakaya",
+      "url": "pt/according-to-luke/lessons/03.html"
+    },
+    {
+      "id": "according-to-luke/04",
+      "course": "according-to-luke",
+      "courseTitle": "Segundo Lucas",
+      "lang": "pt",
+      "title": "Duas genealogias e dois meninos Jesus",
+      "url": "pt/according-to-luke/lessons/04.html"
+    },
+    {
+      "id": "according-to-luke/05",
+      "course": "according-to-luke",
+      "courseTitle": "Segundo Lucas",
+      "lang": "pt",
+      "title": "O eu de Zaratustra e a convergência de correntes",
+      "url": "pt/according-to-luke/lessons/05.html"
+    },
+    {
+      "id": "according-to-luke/06",
+      "course": "according-to-luke",
+      "courseTitle": "Segundo Lucas",
+      "lang": "pt",
+      "title": "Moisés, Elias e João: desenvolvimento moral",
+      "url": "pt/according-to-luke/lessons/06.html"
+    },
+    {
+      "id": "according-to-luke/07",
+      "course": "according-to-luke",
+      "courseTitle": "Segundo Lucas",
+      "lang": "pt",
+      "title": "O batismo: Jesus e o ser do Cristo",
+      "url": "pt/according-to-luke/lessons/07.html"
+    },
+    {
+      "id": "according-to-luke/08",
+      "course": "according-to-luke",
+      "courseTitle": "Segundo Lucas",
+      "lang": "pt",
+      "title": "O eu, a alma e o corpo nas narrativas de cura de Lucas",
+      "url": "pt/according-to-luke/lessons/08.html"
+    },
+    {
+      "id": "according-to-luke/09",
+      "course": "according-to-luke",
+      "courseTitle": "Segundo Lucas",
+      "lang": "pt",
+      "title": "O ensinamento de Buda e a força de amor do Cristo",
+      "url": "pt/according-to-luke/lessons/09.html"
+    },
+    {
+      "id": "according-to-luke/10",
+      "course": "according-to-luke",
+      "courseTitle": "Segundo Lucas",
+      "lang": "pt",
+      "title": "Gólgota, iniciação e esperança",
+      "url": "pt/according-to-luke/lessons/10.html"
+    },
+    {
+      "id": "according-to-luke/11",
+      "course": "according-to-luke",
+      "courseTitle": "Segundo Lucas",
+      "lang": "pt",
+      "title": "Sua síntese: compreensão e ação compassiva",
+      "url": "pt/according-to-luke/lessons/11.html"
+    },
+    {
+      "id": "ancient-myths/00",
+      "course": "ancient-myths",
+      "courseTitle": "Mito e consciência",
+      "lang": "pt",
+      "title": "Ler um mito",
+      "url": "pt/ancient-myths/lessons/00.html"
+    },
+    {
+      "id": "ancient-myths/01",
+      "course": "ancient-myths",
+      "courseTitle": "Mito e consciência",
+      "lang": "pt",
+      "title": "Ísis, Osíris e os deuses gregos",
+      "url": "pt/ancient-myths/lessons/01.html"
+    },
+    {
+      "id": "ancient-myths/02",
+      "course": "ancient-myths",
+      "courseTitle": "Mito e consciência",
+      "lang": "pt",
+      "title": "Imagens, linguagem e mudança de consciência",
+      "url": "pt/ancient-myths/lessons/02.html"
+    },
+    {
+      "id": "ancient-myths/03",
+      "course": "ancient-myths",
+      "courseTitle": "Mito e consciência",
+      "lang": "pt",
+      "title": "O véu de Ísis e a busca do conhecimento",
+      "url": "pt/ancient-myths/lessons/03.html"
+    },
+    {
+      "id": "ancient-myths/04",
+      "course": "ancient-myths",
+      "courseTitle": "Mito e consciência",
+      "lang": "pt",
+      "title": "Individualidade, hereditariedade e liberdade",
+      "url": "pt/ancient-myths/lessons/04.html"
+    },
+    {
+      "id": "ancient-myths/05",
+      "course": "ancient-myths",
+      "courseTitle": "Mito e consciência",
+      "lang": "pt",
+      "title": "Desenvolvimento humano e aprendizagem ao longo da vida",
+      "url": "pt/ancient-myths/lessons/05.html"
+    },
+    {
+      "id": "ancient-myths/06",
+      "course": "ancient-myths",
+      "courseTitle": "Mito e consciência",
+      "lang": "pt",
+      "title": "Do saber intelectual à compreensão vivida",
+      "url": "pt/ancient-myths/lessons/06.html"
+    },
+    {
+      "id": "ancient-myths/07",
+      "course": "ancient-myths",
+      "courseTitle": "Mito e consciência",
+      "lang": "pt",
+      "title": "Mito na educação: interpretação e projeto final",
+      "url": "pt/ancient-myths/lessons/07.html"
+    },
+    {
+      "id": "biodynamics/00",
+      "course": "biodynamics",
+      "courseTitle": "Biodinâmica",
+      "lang": "pt",
+      "title": "Orientação: a propriedade como individualidade viva",
+      "url": "pt/biodynamics/lessons/00.html"
+    },
+    {
+      "id": "biodynamics/01",
+      "course": "biodynamics",
+      "courseTitle": "Biodinâmica",
+      "lang": "pt",
+      "title": "Seres espirituais I: aprender a observar a natureza",
+      "url": "pt/biodynamics/lessons/01.html"
+    },
+    {
+      "id": "biodynamics/02",
+      "course": "biodynamics",
+      "courseTitle": "Biodinâmica",
+      "lang": "pt",
+      "title": "Seres espirituais II: ritmos, Terra e responsabilidade",
+      "url": "pt/biodynamics/lessons/02.html"
+    },
+    {
+      "id": "biodynamics/03",
+      "course": "biodynamics",
+      "courseTitle": "Biodinâmica",
+      "lang": "pt",
+      "title": "Elementais I: uma imagem espiritual do crescimento vegetal",
+      "url": "pt/biodynamics/lessons/03.html"
+    },
+    {
+      "id": "biodynamics/04",
+      "course": "biodynamics",
+      "courseTitle": "Biodinâmica",
+      "lang": "pt",
+      "title": "Elementais II: formas complementares e atividade deslocada",
+      "url": "pt/biodynamics/lessons/04.html"
+    },
+    {
+      "id": "biodynamics/05",
+      "course": "biodynamics",
+      "courseTitle": "Biodinâmica",
+      "lang": "pt",
+      "title": "Agricultura I: solo vivo e os dois preparados de chifre",
+      "url": "pt/biodynamics/lessons/05.html"
+    },
+    {
+      "id": "biodynamics/06",
+      "course": "biodynamics",
+      "courseTitle": "Biodinâmica",
+      "lang": "pt",
+      "title": "Agricultura II: os seis preparados para composto",
+      "url": "pt/biodynamics/lessons/06.html"
+    },
+    {
+      "id": "biodynamics/07",
+      "course": "biodynamics",
+      "courseTitle": "Biodinâmica",
+      "lang": "pt",
+      "title": "Agricultura III: plantas espontâneas, pragas e evidência",
+      "url": "pt/biodynamics/lessons/07.html"
+    },
+    {
+      "id": "biodynamics/08",
+      "course": "biodynamics",
+      "courseTitle": "Biodinâmica",
+      "lang": "pt",
+      "title": "Projeto final: retrato de um lugar vivo",
+      "url": "pt/biodynamics/lessons/08.html"
+    },
+    {
+      "id": "colour/00",
+      "course": "colour",
+      "courseTitle": "Cor",
+      "lang": "pt",
+      "title": "Ler a cor com os olhos, o sentir e o juízo",
+      "url": "pt/colour/lessons/00.html"
+    },
+    {
+      "id": "colour/01",
+      "course": "colour",
+      "courseTitle": "Cor",
+      "lang": "pt",
+      "title": "Relações entre cores e as quatro cores-imagem",
+      "url": "pt/colour/lessons/01.html"
+    },
+    {
+      "id": "colour/02",
+      "course": "colour",
+      "courseTitle": "Cor",
+      "lang": "pt",
+      "title": "Imagem e brilho: três modos de espalhar a cor",
+      "url": "pt/colour/lessons/02.html"
+    },
+    {
+      "id": "colour/03",
+      "course": "colour",
+      "courseTitle": "Cor",
+      "lang": "pt",
+      "title": "Deixar a forma surgir da cor",
+      "url": "pt/colour/lessons/03.html"
+    },
+    {
+      "id": "colour/04",
+      "course": "colour",
+      "courseTitle": "Cor",
+      "lang": "pt",
+      "title": "A cor como movimento e linguagem artística compartilhada",
+      "url": "pt/colour/lessons/04.html"
+    },
+    {
+      "id": "colour/05",
+      "course": "colour",
+      "courseTitle": "Cor",
+      "lang": "pt",
+      "title": "Cor, som e qualidade do sentir",
+      "url": "pt/colour/lessons/05.html"
+    },
+    {
+      "id": "colour/06",
+      "course": "colour",
+      "courseTitle": "Cor",
+      "lang": "pt",
+      "title": "Luz, pensamento, escuridão e vontade",
+      "url": "pt/colour/lessons/06.html"
+    },
+    {
+      "id": "colour/07",
+      "course": "colour",
+      "courseTitle": "Cor",
+      "lang": "pt",
+      "title": "Causas físicas e ação com sentido",
+      "url": "pt/colour/lessons/07.html"
+    },
+    {
+      "id": "colour/08",
+      "course": "colour",
+      "courseTitle": "Cor",
+      "lang": "pt",
+      "title": "Luz, escuro e condições da visão",
+      "url": "pt/colour/lessons/08.html"
+    },
+    {
+      "id": "colour/09",
+      "course": "colour",
+      "courseTitle": "Cor",
+      "lang": "pt",
+      "title": "Da perspectiva linear à perspectiva cromática",
+      "url": "pt/colour/lessons/09.html"
+    },
+    {
+      "id": "colour/10",
+      "course": "colour",
+      "courseTitle": "Cor",
+      "lang": "pt",
+      "title": "Composição entre peso e luminosidade",
+      "url": "pt/colour/lessons/10.html"
+    },
+    {
+      "id": "colour/11",
+      "course": "colour",
+      "courseTitle": "Cor",
+      "lang": "pt",
+      "title": "Peso visual além da medição",
+      "url": "pt/colour/lessons/11.html"
+    },
+    {
+      "id": "colour/12",
+      "course": "colour",
+      "courseTitle": "Cor",
+      "lang": "pt",
+      "title": "O arco-íris em uma cosmologia espiritual",
+      "url": "pt/colour/lessons/12.html"
+    },
+    {
+      "id": "colour/13",
+      "course": "colour",
+      "courseTitle": "Cor",
+      "lang": "pt",
+      "title": "Seu portfólio de cor: observar, compor, explicar",
+      "url": "pt/colour/lessons/13.html"
+    },
+    {
+      "id": "encountering-the-self/00",
+      "course": "encountering-the-self",
+      "courseTitle": "O encontro com o eu",
+      "lang": "pt",
+      "title": "Ler Koepke: observação, interpretação e cuidado",
+      "url": "pt/encountering-the-self/lessons/00.html"
+    },
+    {
+      "id": "encountering-the-self/01",
+      "course": "encountering-the-self",
+      "courseTitle": "O encontro com o eu",
+      "lang": "pt",
+      "title": "Peter: crítica e um lugar no mundo",
+      "url": "pt/encountering-the-self/lessons/01.html"
+    },
+    {
+      "id": "encountering-the-self/02",
+      "course": "encountering-the-self",
+      "courseTitle": "O encontro com o eu",
+      "lang": "pt",
+      "title": "Monica: medo, privacidade e vínculo",
+      "url": "pt/encountering-the-self/lessons/02.html"
+    },
+    {
+      "id": "encountering-the-self/03",
+      "course": "encountering-the-self",
+      "courseTitle": "O encontro com o eu",
+      "lang": "pt",
+      "title": "Queridos pais: orientação que admite erros",
+      "url": "pt/encountering-the-self/lessons/03.html"
+    },
+    {
+      "id": "encountering-the-self/04",
+      "course": "encountering-the-self",
+      "courseTitle": "O encontro com o eu",
+      "lang": "pt",
+      "title": "Biografia: um motivo infantil visto mais tarde",
+      "url": "pt/encountering-the-self/lessons/04.html"
+    },
+    {
+      "id": "encountering-the-self/05",
+      "course": "encountering-the-self",
+      "courseTitle": "O encontro com o eu",
+      "lang": "pt",
+      "title": "O segundo setênio: ler um mapa do desenvolvimento",
+      "url": "pt/encountering-the-self/lessons/05.html"
+    },
+    {
+      "id": "encountering-the-self/06",
+      "course": "encountering-the-self",
+      "courseTitle": "O encontro com o eu",
+      "lang": "pt",
+      "title": "Sete e doze anos: fazer, perceber e sentir",
+      "url": "pt/encountering-the-self/lessons/06.html"
+    },
+    {
+      "id": "encountering-the-self/07",
+      "course": "encountering-the-self",
+      "courseTitle": "O encontro com o eu",
+      "lang": "pt",
+      "title": "Mudar de lugar dentro da própria casa",
+      "url": "pt/encountering-the-self/lessons/07.html"
+    },
+    {
+      "id": "encountering-the-self/08",
+      "course": "encountering-the-self",
+      "courseTitle": "O encontro com o eu",
+      "lang": "pt",
+      "title": "Currículo: abrigo, cultivo e expressão",
+      "url": "pt/encountering-the-self/lessons/08.html"
+    },
+    {
+      "id": "encountering-the-self/09",
+      "course": "encountering-the-self",
+      "courseTitle": "O encontro com o eu",
+      "lang": "pt",
+      "title": "Pressão e dificuldades no pensar, sentir e querer",
+      "url": "pt/encountering-the-self/lessons/09.html"
+    },
+    {
+      "id": "encountering-the-self/10",
+      "course": "encountering-the-self",
+      "courseTitle": "O encontro com o eu",
+      "lang": "pt",
+      "title": "A encarnação do eu: ler imagens religiosas",
+      "url": "pt/encountering-the-self/lessons/10.html"
+    },
+    {
+      "id": "encountering-the-self/11",
+      "course": "encountering-the-self",
+      "courseTitle": "O encontro com o eu",
+      "lang": "pt",
+      "title": "O médico escolar: limites de uma orientação histórica",
+      "url": "pt/encountering-the-self/lessons/11.html"
+    },
+    {
+      "id": "encountering-the-self/12",
+      "course": "encountering-the-self",
+      "courseTitle": "O encontro com o eu",
+      "lang": "pt",
+      "title": "A árvore jovem e forte: pertencimento numa história",
+      "url": "pt/encountering-the-self/lessons/12.html"
+    },
+    {
+      "id": "encountering-the-self/13",
+      "course": "encountering-the-self",
+      "courseTitle": "O encontro com o eu",
+      "lang": "pt",
+      "title": "Meio ciclo dos nodos lunares: correspondência e limites",
+      "url": "pt/encountering-the-self/lessons/13.html"
+    },
+    {
+      "id": "encountering-the-self/14",
+      "course": "encountering-the-self",
+      "courseTitle": "O encontro com o eu",
+      "lang": "pt",
+      "title": "Troca dos dentes: avaliar a inversão proposta",
+      "url": "pt/encountering-the-self/lessons/14.html"
+    },
+    {
+      "id": "encountering-the-self/15",
+      "course": "encountering-the-self",
+      "courseTitle": "O encontro com o eu",
+      "lang": "pt",
+      "title": "Desenho de formas: completar e transformar",
+      "url": "pt/encountering-the-self/lessons/15.html"
+    },
+    {
+      "id": "encountering-the-self/16",
+      "course": "encountering-the-self",
+      "courseTitle": "O encontro com o eu",
+      "lang": "pt",
+      "title": "Síntese: um encontro que dá espaço à criança",
+      "url": "pt/encountering-the-self/lessons/16.html"
+    },
+    {
+      "id": "foodwise/00",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "Comece Foodwise: o olhar de uma cozinheira",
+      "url": "pt/foodwise/lessons/00.html"
+    },
+    {
+      "id": "foodwise/01",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "A história da nutrição",
+      "url": "pt/foodwise/lessons/01.html"
+    },
+    {
+      "id": "foodwise/02",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "Métodos agrícolas",
+      "url": "pt/foodwise/lessons/02.html"
+    },
+    {
+      "id": "foodwise/03",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "O ser humano quádruplo",
+      "url": "pt/foodwise/lessons/03.html"
+    },
+    {
+      "id": "foodwise/04",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "Gramíneas e cereais",
+      "url": "pt/foodwise/lessons/04.html"
+    },
+    {
+      "id": "foodwise/05",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "O que acontece na nutrição?",
+      "url": "pt/foodwise/lessons/05.html"
+    },
+    {
+      "id": "foodwise/06",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "A questão do vegetarianismo",
+      "url": "pt/foodwise/lessons/06.html"
+    },
+    {
+      "id": "foodwise/07",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "A planta tríplice",
+      "url": "pt/foodwise/lessons/07.html"
+    },
+    {
+      "id": "foodwise/08",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "Carboidratos e adoçantes",
+      "url": "pt/foodwise/lessons/08.html"
+    },
+    {
+      "id": "foodwise/09",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "Pão e panificação",
+      "url": "pt/foodwise/lessons/09.html"
+    },
+    {
+      "id": "foodwise/10",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "A família das solanáceas",
+      "url": "pt/foodwise/lessons/10.html"
+    },
+    {
+      "id": "foodwise/11",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "Leguminosas",
+      "url": "pt/foodwise/lessons/11.html"
+    },
+    {
+      "id": "foodwise/12",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "Leite e laticínios",
+      "url": "pt/foodwise/lessons/12.html"
+    },
+    {
+      "id": "foodwise/13",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "Gorduras e óleos",
+      "url": "pt/foodwise/lessons/13.html"
+    },
+    {
+      "id": "foodwise/14",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "Sal",
+      "url": "pt/foodwise/lessons/14.html"
+    },
+    {
+      "id": "foodwise/15",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "Minerais e suplementos alimentares",
+      "url": "pt/foodwise/lessons/15.html"
+    },
+    {
+      "id": "foodwise/16",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "Ervas e especiarias",
+      "url": "pt/foodwise/lessons/16.html"
+    },
+    {
+      "id": "foodwise/17",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "Estimulantes: café, chá e chocolate",
+      "url": "pt/foodwise/lessons/17.html"
+    },
+    {
+      "id": "foodwise/18",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "Água",
+      "url": "pt/foodwise/lessons/18.html"
+    },
+    {
+      "id": "foodwise/19",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "Cozinha e planejamento: compor uma refeição",
+      "url": "pt/foodwise/lessons/19.html"
+    },
+    {
+      "id": "foodwise/20",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "Cozinha e planejamento: métodos e transformação",
+      "url": "pt/foodwise/lessons/20.html"
+    },
+    {
+      "id": "foodwise/21",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "Cozinha e planejamento: a refeição compartilhada",
+      "url": "pt/foodwise/lessons/21.html"
+    },
+    {
+      "id": "foodwise/22",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "Conclusões: da compreensão à ação",
+      "url": "pt/foodwise/lessons/22.html"
+    },
+    {
+      "id": "foodwise/23",
+      "course": "foodwise",
+      "courseTitle": "Foodwise",
+      "lang": "pt",
+      "title": "Projeto final: uma refeição, muitas relações",
+      "url": "pt/foodwise/lessons/23.html"
+    },
+    {
+      "id": "higher-worlds/00",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "De Teosofia ao caminho do conhecimento",
+      "url": "pt/higher-worlds/lessons/00.html"
+    },
+    {
+      "id": "higher-worlds/01",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "Reverência e julgamento independente",
+      "url": "pt/higher-worlds/lessons/01.html"
+    },
+    {
+      "id": "higher-worlds/02",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "Tranquilidade interior e auto-observação",
+      "url": "pt/higher-worlds/lessons/02.html"
+    },
+    {
+      "id": "higher-worlds/03",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "Aprender a observar e escutar",
+      "url": "pt/higher-worlds/lessons/03.html"
+    },
+    {
+      "id": "higher-worlds/04",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "Iluminação e os exemplos da semente",
+      "url": "pt/higher-worlds/lessons/04.html"
+    },
+    {
+      "id": "higher-worlds/05",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "Caráter, paciência e respeito",
+      "url": "pt/higher-worlds/lessons/05.html"
+    },
+    {
+      "id": "higher-worlds/06",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "A leitura das provas de iniciação",
+      "url": "pt/higher-worlds/lessons/06.html"
+    },
+    {
+      "id": "higher-worlds/07",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "Paciência nas relações cotidianas",
+      "url": "pt/higher-worlds/lessons/07.html"
+    },
+    {
+      "id": "higher-worlds/08",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "Sete condições: cuidado e responsabilidade",
+      "url": "pt/higher-worlds/lessons/08.html"
+    },
+    {
+      "id": "higher-worlds/09",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "Sete condições: resolução, gratidão e harmonia",
+      "url": "pt/higher-worlds/lessons/09.html"
+    },
+    {
+      "id": "higher-worlds/10",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "Órgãos espirituais e a linguagem da cor",
+      "url": "pt/higher-worlds/lessons/10.html"
+    },
+    {
+      "id": "higher-worlds/11",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "Vida etérica e o Eu superior",
+      "url": "pt/higher-worlds/lessons/11.html"
+    },
+    {
+      "id": "higher-worlds/12",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "Sonhos e a questão do conhecimento",
+      "url": "pt/higher-worlds/lessons/12.html"
+    },
+    {
+      "id": "higher-worlds/13",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "Continuidade da consciência",
+      "url": "pt/higher-worlds/lessons/13.html"
+    },
+    {
+      "id": "higher-worlds/14",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "Pensar, sentir e querer",
+      "url": "pt/higher-worlds/lessons/14.html"
+    },
+    {
+      "id": "higher-worlds/15",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "O Guardião menor e a responsabilidade",
+      "url": "pt/higher-worlds/lessons/15.html"
+    },
+    {
+      "id": "higher-worlds/16",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "O Guardião maior e o serviço",
+      "url": "pt/higher-worlds/lessons/16.html"
+    },
+    {
+      "id": "higher-worlds/17",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "Releitura com o apêndice",
+      "url": "pt/higher-worlds/lessons/17.html"
+    },
+    {
+      "id": "higher-worlds/18",
+      "course": "higher-worlds",
+      "courseTitle": "Como conhecer os mundos superiores",
+      "lang": "pt",
+      "title": "Conhecimento e responsabilidade: sua síntese",
+      "url": "pt/higher-worlds/lessons/18.html"
+    },
+    {
+      "id": "mystery-temperaments/00",
+      "course": "mystery-temperaments",
+      "courseTitle": "O mistério dos temperamentos",
+      "lang": "pt",
+      "title": "Um tema conhecido, uma nova leitura",
+      "url": "pt/mystery-temperaments/lessons/00.html"
+    },
+    {
+      "id": "mystery-temperaments/01",
+      "course": "mystery-temperaments",
+      "courseTitle": "O mistério dos temperamentos",
+      "lang": "pt",
+      "title": "O indivíduo é mais que uma descrição geral",
+      "url": "pt/mystery-temperaments/lessons/01.html"
+    },
+    {
+      "id": "mystery-temperaments/02",
+      "course": "mystery-temperaments",
+      "courseTitle": "O mistério dos temperamentos",
+      "lang": "pt",
+      "title": "Duas correntes: hereditariedade e individualidade",
+      "url": "pt/mystery-temperaments/lessons/02.html"
+    },
+    {
+      "id": "mystery-temperaments/03",
+      "course": "mystery-temperaments",
+      "courseTitle": "O mistério dos temperamentos",
+      "lang": "pt",
+      "title": "Temperamento como encontro, não como terceira pessoa",
+      "url": "pt/mystery-temperaments/lessons/03.html"
+    },
+    {
+      "id": "mystery-temperaments/04",
+      "course": "mystery-temperaments",
+      "courseTitle": "O mistério dos temperamentos",
+      "lang": "pt",
+      "title": "Quatro membros e uma ênfase variável",
+      "url": "pt/mystery-temperaments/lessons/04.html"
+    },
+    {
+      "id": "mystery-temperaments/05",
+      "course": "mystery-temperaments",
+      "courseTitle": "O mistério dos temperamentos",
+      "lang": "pt",
+      "title": "Quatro retratos: para onde vai a atenção?",
+      "url": "pt/mystery-temperaments/lessons/05.html"
+    },
+    {
+      "id": "mystery-temperaments/06",
+      "course": "mystery-temperaments",
+      "courseTitle": "O mistério dos temperamentos",
+      "lang": "pt",
+      "title": "Aparência e a inferência ausente",
+      "url": "pt/mystery-temperaments/lessons/06.html"
+    },
+    {
+      "id": "mystery-temperaments/07",
+      "course": "mystery-temperaments",
+      "courseTitle": "O mistério dos temperamentos",
+      "lang": "pt",
+      "title": "Combinações, unilateralidade e objetivos educativos",
+      "url": "pt/mystery-temperaments/lessons/07.html"
+    },
+    {
+      "id": "mystery-temperaments/08",
+      "course": "mystery-temperaments",
+      "courseTitle": "O mistério dos temperamentos",
+      "lang": "pt",
+      "title": "Interesse sanguíneo: encontre um fio ao qual voltar",
+      "url": "pt/mystery-temperaments/lessons/08.html"
+    },
+    {
+      "id": "mystery-temperaments/09",
+      "course": "mystery-temperaments",
+      "courseTitle": "O mistério dos temperamentos",
+      "lang": "pt",
+      "title": "Propósito colérico: orientação capaz e desafio possível",
+      "url": "pt/mystery-temperaments/lessons/09.html"
+    },
+    {
+      "id": "mystery-temperaments/10",
+      "course": "mystery-temperaments",
+      "courseTitle": "O mistério dos temperamentos",
+      "lang": "pt",
+      "title": "Sensibilidade melancólica: cuidado sem sofrimento provocado",
+      "url": "pt/mystery-temperaments/lessons/10.html"
+    },
+    {
+      "id": "mystery-temperaments/11",
+      "course": "mystery-temperaments",
+      "courseTitle": "O mistério dos temperamentos",
+      "lang": "pt",
+      "title": "Participação fleumática: o interesse de outra pessoa",
+      "url": "pt/mystery-temperaments/lessons/11.html"
+    },
+    {
+      "id": "mystery-temperaments/12",
+      "course": "mystery-temperaments",
+      "courseTitle": "O mistério dos temperamentos",
+      "lang": "pt",
+      "title": "Autoeducação: prepare uma situação e depois examine",
+      "url": "pt/mystery-temperaments/lessons/12.html"
+    },
+    {
+      "id": "mystery-temperaments/13",
+      "course": "mystery-temperaments",
+      "courseTitle": "O mistério dos temperamentos",
+      "lang": "pt",
+      "title": "Conhecimento que transforma o encontro",
+      "url": "pt/mystery-temperaments/lessons/13.html"
+    },
+    {
+      "id": "mystery-temperaments/14",
+      "course": "mystery-temperaments",
+      "courseTitle": "O mistério dos temperamentos",
+      "lang": "pt",
+      "title": "Sua síntese: um encontro mais atento",
+      "url": "pt/mystery-temperaments/lessons/14.html"
+    },
+    {
+      "id": "nutrition/00",
+      "course": "nutrition",
+      "courseTitle": "Nutrição",
+      "lang": "pt",
+      "title": "Antes de começar: alimentação, liberdade e leitura atenta",
+      "url": "pt/nutrition/lessons/00.html"
+    },
+    {
+      "id": "nutrition/01",
+      "course": "nutrition",
+      "courseTitle": "Nutrição",
+      "lang": "pt",
+      "title": "A nutrição à luz da ciência espiritual",
+      "url": "pt/nutrition/lessons/01.html"
+    },
+    {
+      "id": "nutrition/02",
+      "course": "nutrition",
+      "courseTitle": "Nutrição",
+      "lang": "pt",
+      "title": "A penetração da substância pelo espírito",
+      "url": "pt/nutrition/lessons/02.html"
+    },
+    {
+      "id": "nutrition/03",
+      "course": "nutrition",
+      "courseTitle": "Nutrição",
+      "lang": "pt",
+      "title": "A nutrição de uma perspectiva cósmica",
+      "url": "pt/nutrition/lessons/03.html"
+    },
+    {
+      "id": "nutrition/04",
+      "course": "nutrition",
+      "courseTitle": "Nutrição",
+      "lang": "pt",
+      "title": "A nutrição e o corpo humano",
+      "url": "pt/nutrition/lessons/04.html"
+    },
+    {
+      "id": "nutrition/05",
+      "course": "nutrition",
+      "courseTitle": "Nutrição",
+      "lang": "pt",
+      "title": "Nutrição saudável e qualidade dos alimentos",
+      "url": "pt/nutrition/lessons/05.html"
+    },
+    {
+      "id": "nutrition/06",
+      "course": "nutrition",
+      "courseTitle": "Nutrição",
+      "lang": "pt",
+      "title": "Os processos da digestão",
+      "url": "pt/nutrition/lessons/06.html"
+    },
+    {
+      "id": "nutrition/07",
+      "course": "nutrition",
+      "courseTitle": "Nutrição",
+      "lang": "pt",
+      "title": "Alimentação vegetal, crua, vegetariana e com carne",
+      "url": "pt/nutrition/lessons/07.html"
+    },
+    {
+      "id": "nutrition/08",
+      "course": "nutrition",
+      "courseTitle": "Nutrição",
+      "lang": "pt",
+      "title": "Batatas, beterrabas, rabanetes e o espiritual no ser humano",
+      "url": "pt/nutrition/lessons/08.html"
+    },
+    {
+      "id": "nutrition/09",
+      "course": "nutrition",
+      "courseTitle": "Nutrição",
+      "lang": "pt",
+      "title": "Os efeitos de proteínas, gorduras, carboidratos e sais",
+      "url": "pt/nutrition/lessons/09.html"
+    },
+    {
+      "id": "nutrition/10",
+      "course": "nutrition",
+      "courseTitle": "Nutrição",
+      "lang": "pt",
+      "title": "Os efeitos do álcool",
+      "url": "pt/nutrition/lessons/10.html"
+    },
+    {
+      "id": "nutrition/11",
+      "course": "nutrition",
+      "courseTitle": "Nutrição",
+      "lang": "pt",
+      "title": "Os efeitos da nicotina",
+      "url": "pt/nutrition/lessons/11.html"
+    },
+    {
+      "id": "nutrition/12",
+      "course": "nutrition",
+      "courseTitle": "Nutrição",
+      "lang": "pt",
+      "title": "Nutrição e saúde",
+      "url": "pt/nutrition/lessons/12.html"
+    },
+    {
+      "id": "nutrition/13",
+      "course": "nutrition",
+      "courseTitle": "Nutrição",
+      "lang": "pt",
+      "title": "Síntese final: explique uma relação, examine uma afirmação",
+      "url": "pt/nutrition/lessons/13.html"
+    },
+    {
+      "id": "phases/00",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "Ler uma vida como um todo",
+      "url": "pt/phases/lessons/00.html"
+    },
+    {
+      "id": "phases/01",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "Crescimento, desenvolvimento e as três dimensões",
+      "url": "pt/phases/lessons/01.html"
+    },
+    {
+      "id": "phases/02",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "As fases etárias são um mapa com limites",
+      "url": "pt/phases/lessons/02.html"
+    },
+    {
+      "id": "phases/03",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "Três linhas de vida em interação",
+      "url": "pt/phases/lessons/03.html"
+    },
+    {
+      "id": "phases/04",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "Adolescência: identidade, ideais e escolha",
+      "url": "pt/phases/lessons/04.html"
+    },
+    {
+      "id": "phases/05",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "Os vinte anos: encontrar o mundo",
+      "url": "pt/phases/lessons/05.html"
+    },
+    {
+      "id": "phases/06",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "A fase organizacional: estrutura sem rigidez",
+      "url": "pt/phases/lessons/06.html"
+    },
+    {
+      "id": "phases/07",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "O fim dos trinta: uma crise de valores",
+      "url": "pt/phases/lessons/07.html"
+    },
+    {
+      "id": "phases/08",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "Os quarenta: encontrar uma nova direção",
+      "url": "pt/phases/lessons/08.html"
+    },
+    {
+      "id": "phases/09",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "O início dos cinquenta: experiência como contribuição",
+      "url": "pt/phases/lessons/09.html"
+    },
+    {
+      "id": "phases/10",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "Depois dos 56: desapegar-se e continuar criando",
+      "url": "pt/phases/lessons/10.html"
+    },
+    {
+      "id": "phases/11",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "Relacionamentos: encontrar a outra pessoa",
+      "url": "pt/phases/lessons/11.html"
+    },
+    {
+      "id": "phases/12",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "Seis orientações básicas da vida",
+      "url": "pt/phases/lessons/12.html"
+    },
+    {
+      "id": "phases/13",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "Trabalho que deixa espaço para desenvolver-se",
+      "url": "pt/phases/lessons/13.html"
+    },
+    {
+      "id": "phases/14",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "Imagens do ser humano",
+      "url": "pt/phases/lessons/14.html"
+    },
+    {
+      "id": "phases/15",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "Psicoterapia e seus pressupostos",
+      "url": "pt/phases/lessons/15.html"
+    },
+    {
+      "id": "phases/16",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "Ajuda, terapia e direito à privacidade",
+      "url": "pt/phases/lessons/16.html"
+    },
+    {
+      "id": "phases/17",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "Autodesenvolvimento: atenção, prática e liberdade",
+      "url": "pt/phases/lessons/17.html"
+    },
+    {
+      "id": "phases/18",
+      "course": "phases",
+      "courseTitle": "Fases",
+      "lang": "pt",
+      "title": "Projeto final: uma biografia com futuro aberto",
+      "url": "pt/phases/lessons/18.html"
+    },
+    {
+      "id": "philosophy-of-freedom/00",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "Como estudar este livro",
+      "url": "pt/philosophy-of-freedom/lessons/00.html"
+    },
+    {
+      "id": "philosophy-of-freedom/01",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "Escolher basta?",
+      "url": "pt/philosophy-of-freedom/lessons/01.html"
+    },
+    {
+      "id": "philosophy-of-freedom/02",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "Por que buscamos explicações?",
+      "url": "pt/philosophy-of-freedom/lessons/02.html"
+    },
+    {
+      "id": "philosophy-of-freedom/03",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "O que acrescentamos pelo pensar?",
+      "url": "pt/philosophy-of-freedom/lessons/03.html"
+    },
+    {
+      "id": "philosophy-of-freedom/04",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "Pensar: formar uma ligação e depois examiná-la",
+      "url": "pt/philosophy-of-freedom/lessons/04.html"
+    },
+    {
+      "id": "philosophy-of-freedom/05",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "Percepção, representação e um argumento a examinar",
+      "url": "pt/philosophy-of-freedom/lessons/05.html"
+    },
+    {
+      "id": "philosophy-of-freedom/06",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "A percepção nos dá apenas representações?",
+      "url": "pt/philosophy-of-freedom/lessons/06.html"
+    },
+    {
+      "id": "philosophy-of-freedom/07",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "Conhecer: percepto e conceito se relacionam",
+      "url": "pt/philosophy-of-freedom/lessons/07.html"
+    },
+    {
+      "id": "philosophy-of-freedom/08",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "Conceitos compartilhados e experiência pessoal",
+      "url": "pt/philosophy-of-freedom/lessons/08.html"
+    },
+    {
+      "id": "philosophy-of-freedom/09",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "Individualidade humana: conceitos, encontros e sentimento",
+      "url": "pt/philosophy-of-freedom/lessons/09.html"
+    },
+    {
+      "id": "philosophy-of-freedom/10",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "O que seria um limite do conhecimento?",
+      "url": "pt/philosophy-of-freedom/lessons/10.html"
+    },
+    {
+      "id": "philosophy-of-freedom/11",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "Pensar, sentir e querer",
+      "url": "pt/philosophy-of-freedom/lessons/11.html"
+    },
+    {
+      "id": "philosophy-of-freedom/12",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "Ação livre: motivo, força motriz e compreensão ética",
+      "url": "pt/philosophy-of-freedom/lessons/12.html"
+    },
+    {
+      "id": "philosophy-of-freedom/13",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "O que é uma ação livre na concepção de Steiner?",
+      "url": "pt/philosophy-of-freedom/lessons/13.html"
+    },
+    {
+      "id": "philosophy-of-freedom/14",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "Liberdade com outras pessoas: monismo e autoridade",
+      "url": "pt/philosophy-of-freedom/lessons/14.html"
+    },
+    {
+      "id": "philosophy-of-freedom/15",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "Quem estabelece uma finalidade?",
+      "url": "pt/philosophy-of-freedom/lessons/15.html"
+    },
+    {
+      "id": "philosophy-of-freedom/16",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "Da compreensão ética à ação viável",
+      "url": "pt/philosophy-of-freedom/lessons/16.html"
+    },
+    {
+      "id": "philosophy-of-freedom/17",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "Imaginação moral e técnica",
+      "url": "pt/philosophy-of-freedom/lessons/17.html"
+    },
+    {
+      "id": "philosophy-of-freedom/18",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "Desejo, prazer e valor de uma finalidade",
+      "url": "pt/philosophy-of-freedom/lessons/18.html"
+    },
+    {
+      "id": "philosophy-of-freedom/19",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "O valor de um objetivo escolhido",
+      "url": "pt/philosophy-of-freedom/lessons/19.html"
+    },
+    {
+      "id": "philosophy-of-freedom/20",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "Compreender uma individualidade",
+      "url": "pt/philosophy-of-freedom/lessons/20.html"
+    },
+    {
+      "id": "philosophy-of-freedom/21",
+      "course": "philosophy-of-freedom",
+      "courseTitle": "A filosofia da liberdade",
+      "lang": "pt",
+      "title": "Conhecer e agir: reúna o argumento",
+      "url": "pt/philosophy-of-freedom/lessons/21.html"
+    },
+    {
+      "id": "practical-thinking/00",
+      "course": "practical-thinking",
+      "courseTitle": "Pensamento prático",
+      "lang": "pt",
+      "title": "Hábito ou razão?",
+      "url": "pt/practical-thinking/lessons/00.html"
+    },
+    {
+      "id": "practical-thinking/01",
+      "course": "practical-thinking",
+      "courseTitle": "Pensamento prático",
+      "lang": "pt",
+      "title": "Uma atitude de investigação",
+      "url": "pt/practical-thinking/lessons/01.html"
+    },
+    {
+      "id": "practical-thinking/02",
+      "course": "practical-thinking",
+      "courseTitle": "Pensamento prático",
+      "lang": "pt",
+      "title": "Observar antes de explicar",
+      "url": "pt/practical-thinking/lessons/02.html"
+    },
+    {
+      "id": "practical-thinking/03",
+      "course": "practical-thinking",
+      "courseTitle": "Pensamento prático",
+      "lang": "pt",
+      "title": "Acompanhar uma mudança",
+      "url": "pt/practical-thinking/lessons/03.html"
+    },
+    {
+      "id": "practical-thinking/04",
+      "course": "practical-thinking",
+      "courseTitle": "Pensamento prático",
+      "lang": "pt",
+      "title": "Fazer uma previsão verificável",
+      "url": "pt/practical-thinking/lessons/04.html"
+    },
+    {
+      "id": "practical-thinking/05",
+      "course": "practical-thinking",
+      "courseTitle": "Pensamento prático",
+      "lang": "pt",
+      "title": "Investigar como algo aconteceu",
+      "url": "pt/practical-thinking/lessons/05.html"
+    },
+    {
+      "id": "practical-thinking/06",
+      "course": "practical-thinking",
+      "courseTitle": "Pensamento prático",
+      "lang": "pt",
+      "title": "Escolher e sustentar uma linha de pensamento",
+      "url": "pt/practical-thinking/lessons/06.html"
+    },
+    {
+      "id": "practical-thinking/07",
+      "course": "practical-thinking",
+      "courseTitle": "Pensamento prático",
+      "lang": "pt",
+      "title": "Construir e verificar uma imagem mental",
+      "url": "pt/practical-thinking/lessons/07.html"
+    },
+    {
+      "id": "practical-thinking/08",
+      "course": "practical-thinking",
+      "courseTitle": "Pensamento prático",
+      "lang": "pt",
+      "title": "Comparar, pausar e decidir",
+      "url": "pt/practical-thinking/lessons/08.html"
+    },
+    {
+      "id": "practical-thinking/09",
+      "course": "practical-thinking",
+      "courseTitle": "Pensamento prático",
+      "lang": "pt",
+      "title": "Revisar mudanças no pensar",
+      "url": "pt/practical-thinking/lessons/09.html"
+    },
+    {
+      "id": "temperaments/00",
+      "course": "temperaments",
+      "courseTitle": "Os quatro temperamentos",
+      "lang": "pt",
+      "title": "Conheça a pessoa antes do tipo",
+      "url": "pt/temperaments/lessons/00.html"
+    },
+    {
+      "id": "temperaments/01",
+      "course": "temperaments",
+      "courseTitle": "Os quatro temperamentos",
+      "lang": "pt",
+      "title": "Duas correntes e seu encontro",
+      "url": "pt/temperaments/lessons/01.html"
+    },
+    {
+      "id": "temperaments/02",
+      "course": "temperaments",
+      "courseTitle": "Os quatro temperamentos",
+      "lang": "pt",
+      "title": "Quatro membros, quatro tendências",
+      "url": "pt/temperaments/lessons/02.html"
+    },
+    {
+      "id": "temperaments/03",
+      "course": "temperaments",
+      "courseTitle": "Os quatro temperamentos",
+      "lang": "pt",
+      "title": "Colérico: propósito diante da resistência",
+      "url": "pt/temperaments/lessons/03.html"
+    },
+    {
+      "id": "temperaments/04",
+      "course": "temperaments",
+      "courseTitle": "Os quatro temperamentos",
+      "lang": "pt",
+      "title": "Sanguíneo: interesse que se move depressa",
+      "url": "pt/temperaments/lessons/04.html"
+    },
+    {
+      "id": "temperaments/05",
+      "course": "temperaments",
+      "courseTitle": "Os quatro temperamentos",
+      "lang": "pt",
+      "title": "Fleumático: encontrar um convite à participação",
+      "url": "pt/temperaments/lessons/05.html"
+    },
+    {
+      "id": "temperaments/06",
+      "course": "temperaments",
+      "courseTitle": "Os quatro temperamentos",
+      "lang": "pt",
+      "title": "Melancólico: sensibilidade e atenção compassiva",
+      "url": "pt/temperaments/lessons/06.html"
+    },
+    {
+      "id": "temperaments/07",
+      "course": "temperaments",
+      "courseTitle": "Os quatro temperamentos",
+      "lang": "pt",
+      "title": "Combinações, aparência e limites de um rótulo",
+      "url": "pt/temperaments/lessons/07.html"
+    },
+    {
+      "id": "temperaments/08",
+      "course": "temperaments",
+      "courseTitle": "Os quatro temperamentos",
+      "lang": "pt",
+      "title": "Educação: trabalhar com o que já está presente",
+      "url": "pt/temperaments/lessons/08.html"
+    },
+    {
+      "id": "temperaments/09",
+      "course": "temperaments",
+      "courseTitle": "Os quatro temperamentos",
+      "lang": "pt",
+      "title": "Autoeducação por uma via indireta",
+      "url": "pt/temperaments/lessons/09.html"
+    },
+    {
+      "id": "temperaments/10",
+      "course": "temperaments",
+      "courseTitle": "Os quatro temperamentos",
+      "lang": "pt",
+      "title": "Sua síntese: pessoa, padrão e resposta",
+      "url": "pt/temperaments/lessons/10.html"
+    },
+    {
+      "id": "understand-temperament/00",
+      "course": "understand-temperament",
+      "courseTitle": "Entenda seu temperamento!",
+      "lang": "pt",
+      "title": "Um segundo autor, aplicações mais amplas",
+      "url": "pt/understand-temperament/lessons/00.html"
+    },
+    {
+      "id": "understand-temperament/01",
+      "course": "understand-temperament",
+      "courseTitle": "Entenda seu temperamento!",
+      "lang": "pt",
+      "title": "Capítulo 1: iguais, mas diferentes",
+      "url": "pt/understand-temperament/lessons/01.html"
+    },
+    {
+      "id": "understand-temperament/02",
+      "course": "understand-temperament",
+      "courseTitle": "Entenda seu temperamento!",
+      "lang": "pt",
+      "title": "Capítulo 2: ler o mapa psicológico",
+      "url": "pt/understand-temperament/lessons/02.html"
+    },
+    {
+      "id": "understand-temperament/03",
+      "course": "understand-temperament",
+      "courseTitle": "Entenda seu temperamento!",
+      "lang": "pt",
+      "title": "Capítulo 3: iniciativa, determinação e correção",
+      "url": "pt/understand-temperament/lessons/03.html"
+    },
+    {
+      "id": "understand-temperament/04",
+      "course": "understand-temperament",
+      "courseTitle": "Entenda seu temperamento!",
+      "lang": "pt",
+      "title": "Capítulo 4: entusiasmo e continuidade",
+      "url": "pt/understand-temperament/lessons/04.html"
+    },
+    {
+      "id": "understand-temperament/05",
+      "course": "understand-temperament",
+      "courseTitle": "Entenda seu temperamento!",
+      "lang": "pt",
+      "title": "Capítulo 5: constância, privacidade e participação",
+      "url": "pt/understand-temperament/lessons/05.html"
+    },
+    {
+      "id": "understand-temperament/06",
+      "course": "understand-temperament",
+      "courseTitle": "Entenda seu temperamento!",
+      "lang": "pt",
+      "title": "Capítulo 6: sensibilidade sem pressupor o sofrimento",
+      "url": "pt/understand-temperament/lessons/06.html"
+    },
+    {
+      "id": "understand-temperament/07",
+      "course": "understand-temperament",
+      "courseTitle": "Entenda seu temperamento!",
+      "lang": "pt",
+      "title": "Capítulo 7: cooperação no trabalho",
+      "url": "pt/understand-temperament/lessons/07.html"
+    },
+    {
+      "id": "understand-temperament/08",
+      "course": "understand-temperament",
+      "courseTitle": "Entenda seu temperamento!",
+      "lang": "pt",
+      "title": "Capítulo 8: compatibilidade como pergunta, não veredito",
+      "url": "pt/understand-temperament/lessons/08.html"
+    },
+    {
+      "id": "understand-temperament/09",
+      "course": "understand-temperament",
+      "courseTitle": "Entenda seu temperamento!",
+      "lang": "pt",
+      "title": "Capítulo 9: explicação espiritual e amor prático",
+      "url": "pt/understand-temperament/lessons/09.html"
+    },
+    {
+      "id": "understand-temperament/10",
+      "course": "understand-temperament",
+      "courseTitle": "Entenda seu temperamento!",
+      "lang": "pt",
+      "title": "Apêndice I: observar pessoas e nossas suposições",
+      "url": "pt/understand-temperament/lessons/10.html"
+    },
+    {
+      "id": "understand-temperament/11",
+      "course": "understand-temperament",
+      "courseTitle": "Entenda seu temperamento!",
+      "lang": "pt",
+      "title": "Apêndice II: quando um modelo elegante precisa de evidência",
+      "url": "pt/understand-temperament/lessons/11.html"
+    },
+    {
+      "id": "understand-temperament/12",
+      "course": "understand-temperament",
+      "courseTitle": "Entenda seu temperamento!",
+      "lang": "pt",
+      "title": "Síntese: compreensão que transforma um encontro",
+      "url": "pt/understand-temperament/lessons/12.html"
+    },
+    {
+      "id": "understanding-temperaments/00",
+      "course": "understanding-temperaments",
+      "courseTitle": "Compreendendo os temperamentos",
+      "lang": "pt",
+      "title": "Conheça a pessoa antes do tipo",
+      "url": "pt/understanding-temperaments/lessons/00.html"
+    },
+    {
+      "id": "understanding-temperaments/01",
+      "course": "understanding-temperaments",
+      "courseTitle": "Compreendendo os temperamentos",
+      "lang": "pt",
+      "title": "As quatro tendências e seu fundamento",
+      "url": "pt/understanding-temperaments/lessons/01.html"
+    },
+    {
+      "id": "understanding-temperaments/02",
+      "course": "understanding-temperaments",
+      "courseTitle": "Compreendendo os temperamentos",
+      "lang": "pt",
+      "title": "Colérico: propósito e correção",
+      "url": "pt/understanding-temperaments/lessons/02.html"
+    },
+    {
+      "id": "understanding-temperaments/03",
+      "course": "understanding-temperaments",
+      "courseTitle": "Compreendendo os temperamentos",
+      "lang": "pt",
+      "title": "Sanguíneo: interesse e continuidade",
+      "url": "pt/understanding-temperaments/lessons/03.html"
+    },
+    {
+      "id": "understanding-temperaments/04",
+      "course": "understanding-temperaments",
+      "courseTitle": "Compreendendo os temperamentos",
+      "lang": "pt",
+      "title": "Fleumático: constância e participação",
+      "url": "pt/understanding-temperaments/lessons/04.html"
+    },
+    {
+      "id": "understanding-temperaments/05",
+      "course": "understanding-temperaments",
+      "courseTitle": "Compreendendo os temperamentos",
+      "lang": "pt",
+      "title": "Melancólico: sensibilidade e cuidado",
+      "url": "pt/understanding-temperaments/lessons/05.html"
+    },
+    {
+      "id": "understanding-temperaments/06",
+      "course": "understanding-temperaments",
+      "courseTitle": "Compreendendo os temperamentos",
+      "lang": "pt",
+      "title": "Combinações, contexto e mudança",
+      "url": "pt/understanding-temperaments/lessons/06.html"
+    },
+    {
+      "id": "understanding-temperaments/07",
+      "course": "understanding-temperaments",
+      "courseTitle": "Compreendendo os temperamentos",
+      "lang": "pt",
+      "title": "Apoiar quem aprende",
+      "url": "pt/understanding-temperaments/lessons/07.html"
+    },
+    {
+      "id": "understanding-temperaments/08",
+      "course": "understanding-temperaments",
+      "courseTitle": "Compreendendo os temperamentos",
+      "lang": "pt",
+      "title": "Trabalhar em conjunto",
+      "url": "pt/understanding-temperaments/lessons/08.html"
+    },
+    {
+      "id": "understanding-temperaments/09",
+      "course": "understanding-temperaments",
+      "courseTitle": "Compreendendo os temperamentos",
+      "lang": "pt",
+      "title": "Relações e comunicação",
+      "url": "pt/understanding-temperaments/lessons/09.html"
+    },
+    {
+      "id": "understanding-temperaments/10",
+      "course": "understanding-temperaments",
+      "courseTitle": "Compreendendo os temperamentos",
+      "lang": "pt",
+      "title": "Autoeducação por um pequeno experimento",
+      "url": "pt/understanding-temperaments/lessons/10.html"
+    },
+    {
+      "id": "understanding-temperaments/11",
+      "course": "understanding-temperaments",
+      "courseTitle": "Compreendendo os temperamentos",
+      "lang": "pt",
+      "title": "Um encontro mais atento",
+      "url": "pt/understanding-temperaments/lessons/11.html"
+    }
+  ]
+}

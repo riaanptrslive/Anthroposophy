@@ -10,7 +10,7 @@ const put=(k,v)=>{try{localStorage.setItem(k,v);return true}catch{return false}}
 const remove=k=>{try{localStorage.removeItem(k);return true}catch{return false}};
 const enabled=()=>get(pref)==='yes';
 function download(name,text){const u=URL.createObjectURL(new Blob([text],{type:'text/plain;charset=utf-8'}));const a=document.createElement('a');a.href=u;a.download=name;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),1000);}
-function safeLesson(url){try{const u=new URL(url,location.href);const scope=location.pathname.includes('/Anthroposophy/')?'/Anthroposophy/':'/';return u.origin===location.origin&&u.pathname.startsWith(scope)&&/\/lessons\/\d{2}\.html$/.test(u.pathname)?u:null}catch{return null}}
+function safeLesson(url){try{const u=new URL(url,location.href);const scope=location.pathname.includes('/Anthroposophy/')?'/Anthroposophy/':'/';return u.origin===location.origin&&u.pathname.startsWith(scope)&&/(?:\/lessons\/\d{2}|\/(?:foundations|meditation|parents-educators)\/\d{2}|\/biodynamics\/companion\/session-\d{2})\.html$/.test(u.pathname)?u:null}catch{return null}}
 const resume=document.querySelector('[data-study-resume]');
 if(resume&&enabled()){
  const last=read('anthro-study-v1:last'),u=last&&safeLesson(last.url);
@@ -45,7 +45,7 @@ function remember(){if(enabled())put('anthro-study-v1:last',JSON.stringify({url:
 function save(){
  if(!saveBox.checked||!dirty)return;
  const previous=read(key)||{},notes=Object.fromEntries(fields.map(f=>[f.dataset.noteField,f.value]));
- const ok=put(key,JSON.stringify({...previous,[lang]:notes,complete,updated:new Date().toISOString()}));
+ const ok=put(key,JSON.stringify({...previous,[lang]:{...previous[lang],...notes},complete,updated:new Date().toISOString()}));
  if(ok){dirty=false;remember();announce(say('Saved on this device.','Salvo neste dispositivo.'));}
  else {announce(say('Saving is unavailable. Your text remains here; export a copy before leaving.','Não foi possível salvar. Seu texto continua aqui; exporte uma cópia antes de sair.'));}
 }
@@ -70,7 +70,7 @@ root.querySelector('[data-delete]').addEventListener('click',()=>{
  if(!remove(key)){announce(say('Could not delete saved notes. Try your browser’s site-data settings.','Não foi possível excluir as anotações salvas. Use as configurações de dados do site no navegador.'));return;}
  clearTimeout(timer);for(const f of fields)f.value='';complete=false;dirty=false;paintComplete();compare();announce(say('Notes for this lesson were deleted in both languages.','As anotações desta lição foram excluídas nos dois idiomas.'));
 });
-root.querySelector('[data-reading-view]').addEventListener('click',e=>{
+root.querySelector('[data-reading-view]')?.addEventListener('click',e=>{
  const full=!document.body.classList.contains('study-full');document.body.classList.toggle('study-full',full);
  for(const d of root.querySelectorAll('details.guided-reveal'))d.open=full||root.hasAttribute('data-passage-study');
  e.currentTarget.textContent=full?say('Return to guided view','Voltar ao modo guiado'):say('Open complete explanation','Abrir explicação completa');e.currentTarget.setAttribute('aria-pressed',String(full));

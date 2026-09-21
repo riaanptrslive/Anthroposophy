@@ -21,7 +21,7 @@ for(const lang of ['en','pt']){
   }
  }
  // Preserve old URLs and source notebooks; remove competing primary course cards.
- const home=base+'/index.html';let h=fs.readFileSync(home,'utf8');
+ const home=base+'/index.html';let h=fs.readFileSync(home,'utf8').replace(/<section class="source-note" id="source-library">[\s\S]*?<\/section>/g,'');
  for(const marker of ['temperaments','understand','mystery'])h=h.replace(new RegExp(`<!-- ${marker}-card:start -->[\\s\\S]*?<!-- ${marker}-card:end -->`),'');
  const cards=practiceCourses.map(c=>`<a class="course-card" href="${c.slug}/index.html"><span class="eyebrow">${t('Learn through practice','Aprender pela prática')}</span><h3>${c.title[i]}</h3><p>${c.lead[i]}</p></a>`).join('');
  h=h.replace('<div class="course-cards">','<div class="course-cards">'+cards);

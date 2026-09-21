@@ -1,5 +1,6 @@
 // Original bilingual reading companions. Source analysis and edition limits:
 // according-to-luke-reading-review.md. Examples are teaching inventions.
+import {applyLukeConceptRevision} from './luke-concept-revision.mjs';
 const dates=['15','16','17','18','19','20','21','24','25','26'];
 export const lukeSources=dates.map((day,i)=>({lecture:i+1,date:`1909-09-${day}`,url:`https://rsarchive.org/Lectures/GospLuke/190909${day}p01.html`}));
 export const lukeLessons=[
@@ -222,3 +223,4 @@ const sourceChecks={
  10:{en:['How does Steiner interpret Golgotha here?','As initiation entering world history. This identifies his interpretation, not its proof.'],pt:['Como Steiner interpreta o Gólgota aqui?','Como iniciação que entra na história da humanidade. Isso identifica sua interpretação, não sua prova.']}
 };
 for(const lesson of lukeLessons)if(sourceChecks[lesson.id])for(const lang of ['en','pt'])lesson[lang].checks[0]=sourceChecks[lesson.id][lang];
+applyLukeConceptRevision(lukeLessons);

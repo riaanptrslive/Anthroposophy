@@ -1,5 +1,6 @@
 import fs from 'node:fs';
 import path from 'node:path';
+import {curricula} from '../content/chapter-curriculum.mjs';
 
 // Publish the authored notes without turning research status into a completion claim.
 const source = path.resolve('content/knowledge-base');
@@ -28,6 +29,7 @@ function collect(file) {
   }
 }
 for(const file of fs.readdirSync(source).filter(f=>f.endsWith('.md')))collect(path.join(source,file));
+for(const plan of Object.values(curricula))collect(path.join(root,plan.review));
 function href(target,file) {
   if(/^(https?:|mailto:|#)/i.test(target))return target;
   if(/^[a-z]+:/i.test(target))return '#main';
@@ -131,7 +133,7 @@ for(const lang of ['', 'pt/'])for(const [r,list] of [['',books],...targetBooks])
   const relative=path.relative(path.dirname(file),out).replaceAll('\\','/');const pt=!!lang;
   const panel=`<!-- study-library:start --><section class="study-library-entry" style="padding:1.5rem;margin:2rem 0;border:1px solid #b8bdae;border-radius:12px;background:#f6f5ed"><h2>${pt?'Biblioteca de estudo detalhado':'Detailed study library'}</h2><p>${pt?'Mapas das fontes, explicações por capítulo e relatórios de cobertura. Os novos materiais detalhados estão em inglês; cada livro indica as lacunas e o trabalho pendente.':'Source maps, chapter explanations and coverage reports. Each book identifies its available material and remaining work.'}</p><p><a href="${relative}/index.html">${pt?'Explorar os 20 livros e fontes':'Explore all 20 books and sources'} →</a></p>${r?'<ul>'+list.map(b=>`<li><a href="${relative}/${b.id}.html">${esc(b.title)}</a></li>`).join('')+'</ul>':''}</section><!-- study-library:end -->`;
   let html=fs.readFileSync(file,'utf8').replace(/<!-- study-library:start -->[\s\S]*?<!-- study-library:end -->/g,'');
-  html=html.replace(/(<main\b[^>]*>)/, '$1'+panel);fs.writeFileSync(file,html);
+  html=html.replace('</main>',panel+'</main>');fs.writeFileSync(file,html);
 }
 fs.writeFileSync(path.join(out,'manifest.json'),JSON.stringify({books:books.length,readingPages:files.size,sessions:sessions.length,generatedFiles:fs.readdirSync(out).filter(n=>n.endsWith('.html'))},null,2)+'\n');
 console.log(`Published ${books.length} book records, ${files.size} reading pages and ${sessions.length} study sessions.`);

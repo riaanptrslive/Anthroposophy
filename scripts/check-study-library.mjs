@@ -6,7 +6,7 @@ const read=name=>fs.readFileSync(path.join(root,name),'utf8');
 const manifest=JSON.parse(read('manifest.json'));
 assert.equal(manifest.books,20);
 assert.equal(manifest.sessions,6);
-assert.equal(manifest.generatedFiles.length,118);
+assert.equal(manifest.generatedFiles.length,120);
 for(const name of fs.readdirSync('content/knowledge-base').filter(n=>n.endsWith('.md'))){
   assert.equal(read('downloads/'+name),fs.readFileSync(path.join('content/knowledge-base',name),'utf8'),`Download changed: ${name}`);
   const html=read(name.replace('.md','.html'));
@@ -24,4 +24,4 @@ for(const lang of ['', 'pt/']){
   const html=fs.readFileSync('docs/'+lang+'index.html','utf8');
   assert.equal((html.match(/<!-- study-library:start -->/g)||[]).length,1,'Homepage integration must be unique');
 }
-console.log('Passed: 20 books, 118 library pages, 229 linked source explanations, 14 chapters, six complete sessions and unchanged source downloads.');
+console.log('Passed: 20 books, 120 library pages, 229 linked source explanations, 14 chapters, six complete sessions and unchanged source downloads.');

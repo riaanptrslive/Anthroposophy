@@ -1,6 +1,7 @@
 // Original teaching material. Page ranges refer to the 1971 English edition of GA 9.
+import {applyChapterOneRevision} from './theosophy-chapter-one-revision.mjs';
 export const lessons = [];
-const add = (id, chapter, pages, notes, en, pt) => lessons.push({id, chapter, pages, notes, en, pt});
+const add = (id, chapter, pages, notes, en, pt) => {const lesson={id,chapter,pages,notes,en,pt};applyChapterOneRevision([lesson]);lessons.push(lesson);};
 // Each language: title, learning goal, explanation paragraphs, exercise, question, suggested answer.
 add(1, 1, '1–5', '',
 ['Encountering the world', 'Distinguish body, soul, and spirit using an everyday encounter.', [

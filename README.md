@@ -6,6 +6,18 @@ Research, source comparisons, lecture timestamps, illustration briefs and future
 
 ## Website
 
+### Chapter-led curriculum — 21 September 2026
+
+All **20 study paths and 590 lesson pages** now follow **source chapter → key concepts → lessons → everyday application**. Course indexes group lessons by real chapters, lectures or source sections; each lesson identifies the concepts it develops and links back to its source unit. Theosophy Chapter I has six substantially revised bilingual explanations, and Luke's ten lecture lessons have source-specific titles, objectives and checks. Other courses retain their existing teaching within the new authored chapter maps. This does not certify a new complete reading of every source.
+
+See the [course-by-course revision and verification record](content/chapter-curriculum-revision.md). Edit `content/chapter-curriculum.mjs` for the source maps; regenerate with **`node scripts/build-all.mjs`**. Current output: **760 HTML pages**, with **22 passing check scripts**. Prepared locally; not published. Earlier counts and homepage descriptions below are historical.
+
+### Everyday learning for parents and educators — 20 September 2026
+
+All **590 lesson pages across 20 study paths** now have a consistent everyday-learning structure, specific understanding questions and a six-field learning notebook. This includes the existing 14 primary courses, Foundations, Meditation, two shorter practice routes, the English Biodynamics companion and a new **eight-unit parent and educator route in both languages**. The homepage adds an everyday-situation finder and a direct starting point; course introductions connect their subjects to home and educational settings. A shared notebook page supports course filtering and export, with optional local saving and separate English/Portuguese notes.
+
+See the [implementation and verification record](content/everyday-learning-implementation.md). Edit `content/everyday-learning.mjs` and `content/parents-educators.mjs`; use **`node scripts/build-all.mjs`** to regenerate the complete site, including the shared final pass. Course-specific builders alone do not apply that pass. Current output: **758 HTML pages**. All 21 check scripts pass. Prepared locally; not published.
+
 ### Detailed study library — 18 September 2026
 
 The website now integrates the saved research at `docs/study/index.html`: 20 source records, 93 reading/reference pages, 14 separate Freedom chapter pages, six Four Temperaments sessions, and four linked coverage reports. English and Portuguese homepages and course indexes link to the library; new detailed material is in English. Source limitations and pending lesson expansion remain explicit. Website integration does not certify all books as fully analysed.
@@ -57,7 +69,7 @@ To publish with GitHub Pages, use **Settings → Pages → Deploy from a branch*
 
 ## Developing the lessons
 
-The homepage now starts with **18 bilingual foundation lessons**, followed by full book studies and optional subjects. Edit `content/foundation-course.mjs`; `scripts/build-foundation-course.mjs` builds `/foundations/`, the dedicated `/theosophy/` index, and preparation links for all ten established courses. Existing lesson URLs and notebook identities are preserved. Foundation questions use a personal notebook; they do not yet have browser saving. Run `node scripts/check-foundation-course.mjs` with the existing checks.
+The homepage starts with the book studies and offers **18 bilingual foundation lessons** as preparation. Edit `content/foundation-course.mjs`; `scripts/build-foundation-course.mjs` builds `/foundations/`, the dedicated `/theosophy/` index, and preparation links. The complete build then adds chapter maps, applications and optional browser notebooks. Existing lesson URLs and notebook identities are preserved. Run `node scripts/check-foundation-course.mjs` with the other checks.
 
 Reading lessons now teach concepts and the chapter explanation before the cited excerpt, example, and practice. Meditation retains its verse-led sessions with relevant prerequisite teaching. The threefold and fourfold accounts are explained progressively in the shared human constitution reference and in 64 bilingual lesson introductions. Edit `content/concept-foundations.mjs` for these foundations; see [the teaching revision](content/theory-first-review.md). Run `node scripts/check-concept-foundations.mjs` after the complete build.
 

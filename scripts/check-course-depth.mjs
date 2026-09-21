@@ -23,7 +23,8 @@ for(const [course,units] of Object.entries(courseDepth)){
     const plain=block.replace(/<a\b[^>]*class="constitution-ref"[^>]*>([\s\S]*?)<\/a>/g,'$1');
     for(const paragraph of unit[lang])assert.ok(plain.includes(esc(paragraph)),`${file}: missing authored text`);
     const next=html.slice(html.indexOf('<!-- course-depth:end -->')+25);
-    assert.match(next,/^<section\b/,`${file}: reading placement`);
+    assert.match(next,/^(?:<section\b|<aside class="everyday-opening">)/,`${file}: reading/application placement`);
+    assert.ok(html.indexOf('class="everyday-opening"')>html.indexOf('<!-- course-depth:end -->'),`${file}: chapter teaching must precede its everyday application`);
     pages++;
    }
   }

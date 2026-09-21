@@ -11,7 +11,7 @@ for(const base of ['docs','docs/pt']){
   assert.ok(h.includes(`data-study-id="ancient-myths/${id}"`));assert.ok(h.includes(l.url)&&h.includes(l.span));
   assert.ok(!h.includes('Compare your three practice entries')&&!h.includes('Compare suas três anotações'));
   const alt=h.match(/<link rel="alternate"[^>]*href="([^"]+)"/)[1];assert.equal(path.resolve(path.dirname(file),alt),path.resolve(other,'ancient-myths/lessons/'+id+'.html'));
-  assert.equal((h.match(/data-note-field=/g)||[]).length,3);
+  assert.equal((h.match(/data-note-field=/g)||[]).length,6);
   if(l.id<7)assert.ok(h.includes(`href="${String(l.id+1).padStart(2,'0')}.html"`));
   for(const k of ['example','explanation','key','activity','question'])assert.ok(l[lang][k].length>30);
  }
