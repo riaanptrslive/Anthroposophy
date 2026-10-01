@@ -20,6 +20,8 @@ try {
   await import('./build-chapter-curriculum.mjs');
   const {buildLinks} = await import('./link-constitution.mjs');
   buildLinks();
+  // Publish the English lecture course after the shared catalogue passes.
+  await import('./build-esoteric-christianity.mjs');
 } finally {
   fs.writeFileSync = writeFile;
 }

@@ -6,6 +6,12 @@ Research, source comparisons, lecture timestamps, illustration briefs and future
 
 ## Website
 
+### Esoteric Christianity, all three parts — 29 September 2026
+
+All three supplied lecture transcripts now have an English course with **33 lessons**: ten for Part 1, eleven for Part 2 and twelve for Part 3. Each includes timestamped explanations, readings, activities, explained answers and optional saved notes. Open `docs/esoteric-christianity/index.html`; Part 3 begins at Lesson 22, explains the union at twelve and the baptism, and ends with a course portfolio in Lesson 33. Separate source guides and complete Markdown downloads cover each part. The detailed Luke genealogy, Mary/heavenly-Eve hypothesis and several source questions remain qualified or unresolved. The closing resurrection discussion leads to further reading rather than claiming a full treatment.
+
+Edit `content/esoteric-christianity.mjs`, `content/esoteric-christianity-part-2.mjs` and `content/esoteric-christianity-part-3.mjs`; regenerate with `node scripts/build-all.mjs`. See the [Part 1 review](content/esoteric-christianity-part-1-review.md), [Part 2 review](content/esoteric-christianity-part-2-review.md) and [Part 3 review and coverage map](content/esoteric-christianity-part-3-review.md). Check with `node scripts/check-esoteric-christianity.mjs` and the shared site/notebook checks. Existing URLs and notebook identities remain stable. The course is included in the GitHub Pages build from `main:/docs`.
+
 ### Chapter-led curriculum — 21 September 2026
 
 All **20 study paths and 590 lesson pages** now follow **source chapter → key concepts → lessons → everyday application**. Course indexes group lessons by real chapters, lectures or source sections; each lesson identifies the concepts it develops and links back to its source unit. Theosophy Chapter I has six substantially revised bilingual explanations, and Luke's ten lecture lessons have source-specific titles, objectives and checks. Other courses retain their existing teaching within the new authored chapter maps. This does not certify a new complete reading of every source.

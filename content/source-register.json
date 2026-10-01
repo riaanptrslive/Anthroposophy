@@ -250,5 +250,26 @@
     "sha256": "ede3009fb7f04cd64462011858a63c73ef7d620d318d304b6d2db674ddb13149",
     "registered": "2026-09-15",
     "contents_in_repository": false
+  },
+  {
+    "filename": "Intro to esoterci chritianity part 1.md",
+    "bytes": 118716,
+    "sha256": "dee753f6d28a7a45d648f3a1f6bc66bed4ae64d8c691f2dd51d22b3efa7ad4ef",
+    "registered": "2026-09-29",
+    "contents_in_repository": false
+  },
+  {
+    "filename": "Intro to esoterci chritianity part 2.md",
+    "bytes": 126150,
+    "sha256": "2032adf9b5d4505cf90aa189671985c47a5aca7b9cf77c3cc55eeafa62134154",
+    "registered": "2026-09-29",
+    "contents_in_repository": false
+  },
+  {
+    "filename": "Intro to esoterci chritianity part 3.md",
+    "bytes": 129147,
+    "sha256": "b46653dc9796537f56908caf91cc890df1889106048b56b143ee930a094b0e38",
+    "registered": "2026-09-29",
+    "contents_in_repository": false
   }
 ]

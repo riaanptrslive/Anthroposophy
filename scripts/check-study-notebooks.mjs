@@ -26,7 +26,7 @@ function session({id,lang='en',storage=new Map(),failWrites=false}){
   return {fields,controls,storage,downloads,flush:()=>pending?.(),leave:()=>events.pagehide?.()};
 }
 
-for(const id of ['theosophy/01','foundations/02','meditation/03','biodynamics-companion/00','parents-educators/05']){
+for(const id of ['theosophy/01','foundations/02','meditation/03','biodynamics-companion/00','parents-educators/05','esoteric-christianity/01']){
   const en=session({id});
   en.fields[0].value='Fictional observation';en.fields[0].fire('input');en.flush();
   assert.equal(en.storage.size,0,'No storage before consent');

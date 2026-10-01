@@ -34,7 +34,7 @@ for(const lang of ['en','pt']){
   assert.ok(!/Ten bilingual|Dez cursos/.test(h));
   const notebook=fs.readFileSync(base+'notebook.html','utf8');
   const manifest=JSON.parse(notebook.match(/id="learning-catalog">([\s\S]*?)<\/script>/)[1]);
-  assert.equal(manifest.length,lang==='en'?313:277);
+  assert.equal(manifest.length,lang==='en'?346:277);
   for(const e of manifest)assert.ok(fs.existsSync(path.resolve(base,e.url)),e.url);
   for(const unit of parentUnits){
     const v=unit[lang];for(const k of ['title','goal','home','classroom','question','answer','practice','change','review'])assert.ok(v[k]?.trim(),`${unit.id}/${lang}/${k}`);

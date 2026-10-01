@@ -10,7 +10,7 @@ const put=(k,v)=>{try{localStorage.setItem(k,v);return true}catch{return false}}
 const remove=k=>{try{localStorage.removeItem(k);return true}catch{return false}};
 const enabled=()=>get(pref)==='yes';
 function download(name,text){const u=URL.createObjectURL(new Blob([text],{type:'text/plain;charset=utf-8'}));const a=document.createElement('a');a.href=u;a.download=name;document.body.append(a);a.click();a.remove();setTimeout(()=>URL.revokeObjectURL(u),1000);}
-function safeLesson(url){try{const u=new URL(url,location.href);const scope=location.pathname.includes('/Anthroposophy/')?'/Anthroposophy/':'/';return u.origin===location.origin&&u.pathname.startsWith(scope)&&/(?:\/lessons\/\d{2}|\/(?:foundations|meditation|parents-educators)\/\d{2}|\/biodynamics\/companion\/session-\d{2})\.html$/.test(u.pathname)?u:null}catch{return null}}
+function safeLesson(url){try{const u=new URL(url,location.href);const scope=location.pathname.includes('/Anthroposophy/')?'/Anthroposophy/':'/';return u.origin===location.origin&&u.pathname.startsWith(scope)&&/(?:\/lessons\/\d{2}|\/(?:foundations|meditation|parents-educators|esoteric-christianity)\/\d{2}|\/biodynamics\/companion\/session-\d{2})\.html$/.test(u.pathname)?u:null}catch{return null}}
 const resume=document.querySelector('[data-study-resume]');
 if(resume&&enabled()){
  const last=read('anthro-study-v1:last'),u=last&&safeLesson(last.url);

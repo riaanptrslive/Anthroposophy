@@ -263,6 +263,6 @@ for(const prefix of ['', 'pt/']){
  for(const c of selfConnections){const h=fs.readFileSync(path.join(root,prefix,c.target),'utf8');if((h.match(/<!-- self-connection:start -->/g)||[]).length!==1||!h.includes(c[prefix?'pt':'en'][1]))errors.push(prefix+c.target+': missing Koepke supplement');}
 }
 const courseFiles=files.filter(f=>f!=='learning-review.html'&&!/^study[\\/]/.test(f));
-if(courseFiles.length!==639) errors.push(`Expected 639 course and reference HTML pages (including 41 detailed Biodynamics companion pages, 18 parent/educator route pages and two notebooks), got ${courseFiles.length}`);
+if(courseFiles.length!==676) errors.push(`Expected 676 course and reference HTML pages (including the 37 English Esoteric Christianity pages), got ${courseFiles.length}`);
 if(errors.length){console.error(errors.join('\n'));process.exit(1);}
 console.log(`Passed: ${files.length} pages, local links and anchors, bilingual courses and source companions, headings, examples, answers, and rubrics.`);
